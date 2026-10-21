@@ -1,0 +1,538 @@
+[
+{
+"id": "P01",
+"nom": "Mémoire technique d'appel d'offres pour un corps d'état du second œuvre",
+"fichier": "06-services-productises.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 + SaaS IA bas prix : Olra fait un dossier complet à 30 € HT puis 79 €/mois, BatiRedac/Offralis/Nextend/reponse.pro génèrent le mémoire ; l'angle par corps d'état est déjà vendu par Odécia (plâtrerie 399-899 €) et winBTP (380 €). La preuve de prix de la fiche tient mais l'angle non servi n'existe pas.",
+"concurrents_precedents": "Olra; BatiRedac; Offralis; Nextend.ai; reponse.pro; VigilAO; Odécia; winBTP; BTPConnect; ComeUp (Soumissia, Pat_lionel 14 ventes)"
+},
+{
+"id": "P05",
+"nom": "Migration Wix ou WordPress vers Astro statique pour cabinets libéraux",
+"fichier": "06-services-productises.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 + outils IA bas prix : La Refonte vend une refonte en 48 h à 500 € fixe, sans WordPress, code au client, pour professions libérales. Nua (499 $ clé en main, 3 $/page vers Astro) et RedoMySite (Wix vers Astro, 3 $/page) automatisent la migration. Des sites métier pour ostéos et kinés existent à 9,90-65 €/mois (AXiO, Presento, Kineoweb, Rhiino). Les prix de la fiche (L'Atelier de Zac 900 €) tiennent, mais l'angle est couvert sous son prix.",
+"concurrents_precedents": "La Refonte 500 €; Nua; RedoMySite; NoCodeXport; Site2Code; L'Atelier de Zac; WPTechCare; Rhiino; AXiO 9,90 €/mois; Presento 65 €/mois; Kineoweb"
+},
+{
+"id": "P08",
+"nom": "Mise à jour Qualiopi V10 et audit blanc documentaire",
+"fichier": "06-services-productises.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Prémisse en partie fausse et règle 2. Le décret 2026-728 porte la grille à 33 indicateurs, mais le 33e ne vise que les CFA : un formateur indépendant reste à 32, avec 12 indicateurs réécrits. L'offre \"mise à jour V10\" est aussi déjà servie à bas prix : Qualiodocs inclut un module V10 sans surcoût, QualioFlow fait un audit blanc IA dès 129 €/mois, EasyAdmin un audit blanc à 120 €, ICPF un pré-audit à distance dès 310 € et COPILOF un audit blanc à 590 €.",
+"concurrents_precedents": "Qualiodocs (module V10 inclus); QualioFlow 49-249 €/mois; EasyAdmin 120 €; OGMA 490 €; ICPF pré-audit 310 €; COPILOF; Certiforma; Kaliio (gratuit); PerXper"
+},
+{
+"id": "P10",
+"nom": "Posts LinkedIn mensuels pour experts-comptables et CGP",
+"fichier": "06-services-productises.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 + SaaS IA bas prix. La niche \"LinkedIn pour experts-comptables et CGP\" est occupée par CopyLinker (EC 900-2 000 €/mois, CGP 1 100 €), Asaurism (cas FIDAQUITAINE), Arturin et une rédactrice DCG sur Malt. Le prix plus bas et la veille automatisée sont faits par Instinctiv.ai (posts fiscaux pour cabinets, publication automatique), PostPilote (19-39 €/mois), Authio et PostWhileYouSleep (15 €/mois), et la veille JO/BOFiP par VeilleRéglementaire.fr.",
+"concurrents_precedents": "CopyLinker; Asaurism; Arturin; Malt Sandra Grisard (DCG); Instinctiv.ai (pack experts-comptables); PostPilote 19 €/mois; Authio; PostWhileYouSleep 15 €/mois; LinkeePost; VeilleRéglementaire.fr"
+},
+{
+"id": "P11",
+"nom": "Biographie familiale express (livre de vie)",
+"fichier": "06-services-productises.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 + IA bas prix. La fiche affirme « aucun forfait express trouvé », c'est faux. Raconte Nous vend la même offre (4 h d'entretien, 50 pages A5, 10 livres imprimés) dès 1 190 € TTC, et Sophie Darroux fait un portrait de 1 à 3 entretiens pour 220-660 €. Les offres IA cassent les prix : Naravia (6-8 appels d'un biographe IA, livre imprimé à 99 €), Notre Livre (59-99 €), Life Story (99 €), Elefantia (accompagné dès 369 €), monlivredevie.fr (WhatsApp).",
+"concurrents_precedents": "Raconte Nous 1 190 €; Sophie Darroux 220 €/entretien; Mathilde Colas; Studio Goelan; Naravia 99 €; Notre Livre 59-99 €; Life Story 99 €; Elefantia 49-369 €; monlivredevie.fr; Memora; Plumio"
+},
+{
+"id": "P16",
+"nom": "Dossiers de subvention pour compagnies et musiciens (DRAC, région, CNM, Adami)",
+"fichier": "06-services-productises.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "La demande payante existe (Artenréel 150 € TTC par dossier, Coop Raquette au Québec, chargés de production sur Malt à 165-220 €/jour). Mais plusieurs freins : ARTCENA tient des permanences gratuites, la DRAC impose un contact préalable avec un conseiller, des structures comme Ampli aident gratuitement au montage, et les bureaux de production font déjà ce travail pour les compagnies. Les critères ADSV (coproducteur avec 5 000 € en numéraire, 8 dates) écartent les compagnies vraiment émergentes. À vérifier : 5 compagnies paieraient-elles 390 € face à Artenréel à 150 € ? Les bureaux de production",
+"concurrents_precedents": "Artenréel 150 €; Coop Raquette (QC); Wahé Création; bureaux d'accompagnement et de production; Malt (Apolline Bezac 165 €/j, Léa Soulabaille); ARTCENA (permanences gratuites); Ampli (accompagnement gratuit); conseillers DRAC"
+},
+{
+"id": "P17",
+"nom": "Montage du dossier Qualibat ou RGE",
+"fichier": "06-services-productises.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 + offre syndicale à bas prix. La CAPEB monte elle-même le dossier RGE, y compris pour les non-adhérents (tarif historique de 120-280 €), et les CMA accompagnent. Au moins 5 acteurs privés vendent le montage à prix publié : Hupsoo (700 € HT), monbackoffice (650 €), Stéphanie Assist+ (250 €), RefChantier et Debourg Audit. RefChantier est aussi un SaaS qui génère les pièces pour 29 € le dossier, le premier étant offert. Rien ne justifie le « prix médian qui laisse de la place ».",
+"concurrents_precedents": "CAPEB (montage de dossier RGE); CMA; Hupsoo 700 €; RefChantier (SaaS 29 € et accompagnement 90-1 490 €); monbackoffice 650 €; Stéphanie Assist+ 250 €; Debourg Audit"
+},
+{
+"id": "P25",
+"nom": "Manuel opératoire pour jeunes franchiseurs",
+"fichier": "06-services-productises.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "Un milieu de gamme rédigé pour le client existe encore, mais il est étroit. Au-dessus : Franchise Board (3 600-7 200 € HT/mois pendant 4 mois), les consultants indépendants (3 000-8 000 €), Franchise Expert, Framboise et Franchise Consulting Group. En dessous : le Pack Franchiseur de Nexfranchise (1 500 €, modèle de manuel de 42 pages et 36 prompts IA) et des SaaS IA, en anglais pour la plupart (Manual Magic AI, FranWise, Wikidoc), plus Optimiso en français. À vérifier : combien de nouveaux franchiseurs signent leurs premiers franchisés chaque année en France (chiffres FFF), et si le modèle Ne",
+"concurrents_precedents": "Franchise Board; Nexfranchise Pack 1 500 €; Franchise Expert; Framboise Consulting; Franchise Consulting Group; Legaleo; Optimiso; Manual Magic AI; FranWise; Wikidoc; Flipbooks AI (gratuit, hébergement)"
+},
+{
+"id": "A01",
+"nom": "GPS chien : calculateur coût total appareil + abonnement 3 ans",
+"fichier": "03-affiliation-outils.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : l'angle « coût total sur 3 ans » est déjà servi. TechAnimaux a un simulateur interactif boîtier + abonnement, Toutimal un tableau à 1, 2 et 3 ans, et Their Safety, quel-traceur-gps.fr, AnimaPro et Comparer Autrement publient le total sur 2 ou 3 ans en dénonçant le piège du « dès 4,16 €/mois ». Le programme tient : Tractive paie 20 $ par traceur avec un cookie de 30 jours sur Impact. Aucun grand média en page 1, mais le terrain est saturé de sites affiliés de niche.",
+"concurrents_precedents": "TechAnimaux (simulateur TCO); Toutimal (tableau 1/2/3 ans); Their Safety; quel-traceur-gps.fr; AnimaPro; Comparer Autrement; Patify; Canipedia; SnoutScore; arbre-chat.fr"
+},
+{
+"id": "A02",
+"nom": "Simulateur clôture anti-fugue fil vs GPS selon terrain",
+"fichier": "03-affiliation-outils.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "Aucune règle ne s'applique nettement, mais l'économie est faible. Zooplus FR existe toujours sur Awin, à 3 % sur les 3 premières commandes puis 1 %, pour un panier moyen de 70 €. Des outils voisins existent : SnoutSmart (planificateur de couverture fil/GPS, en anglais), LudicCraft (métré GPS de clôture gratuit, en français) et le guide comparatif de la marque PERROWALL. Ils ne croisent pas encore terrain, bobines et prix en français. À vérifier : un marchand FR à 8 % ou plus sur les clôtures (PetSafe direct, PERROWALL, Zoomalia), et le volume réel de « clôture anti-fugue chien » sur google.fr.",
+"concurrents_precedents": "SnoutSmart (planificateur EN gratuit); LudicCraft (métré clôture gratuit FR); PERROWALL clotureantifugue.com (guide de marque); Vétérinaire Colombey; Meilleurtest; PetSafe (blog); idele.fr"
+},
+{
+"id": "B01",
+"nom": "Leads nettoyage hottes cuisine pro",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: la page Lyon est tenue par des spécialistes (fiche fausse: 'aucun site spécialisé local') et des sites de leads existent déjà, dont un avec page Lyon",
+"concurrents_precedents": "HYES; Actoclean; Chefneux; MD Nettoyage Hotte; Asepti'air; Nova Clean; HYGIS (30 agences); nettoyage-hotte-cuisine.com (leads national); sos-nettoyage-extreme.fr (leads, page Lyon); Wikitravaux; Mister Hotte; Degraisseur.fr"
+},
+{
+"id": "B02",
+"nom": "Leads vidange bacs à graisse",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: IDF saturée par des vidangeurs à prix affichés et des plateformes de dépannage/leads avec page dédiée bac à graisse",
+"concurrents_precedents": "Aprime Fluides; Les Super Déboucheurs; RVPFS; Kleaneos; EREM; PVFS; pompage-assainissement-idf; IDF Pompage; Prosocius; OIB; Depanneo (page vidange bac à graisse); trouver-assainissement.fr; plus-que-pro"
+},
+{
+"id": "B03",
+"nom": "Leads dératisation restaurants",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: contrats 'dératisation restaurant Marseille' déjà en SEO local + annuaires/leads anti-nuisibles nationaux",
+"concurrents_precedents": "Action Nuisibles; Hello Dératisation; Clair Net Services (page contrat restaurant Marseille); La Phocéenne; Totem 3D; Halte Nuisibles; Sanalia; Kosmos 3D; Gestion 3D; Rodilard (2897 entreprises); Nuigo; sos-rongeurs"
+},
+{
+"id": "B06",
+"nom": "Leads défibrillateurs ERP (location-maintenance)",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: Companeo a une page devis DAE dédiée + loueurs nationaux à prix publics; liste cat. 5 désormais décret 2025-1167 (pas 2022)",
+"concurrents_precedents": "Companeo (devis défibrillateur); comparateur-defibrillateur.com; Hellopro; CardioPro; Defibril (18 500 clients); Sauvie; Médicap; Défibrillateur France"
+},
+{
+"id": "B08",
+"nom": "Audit EAA et conformité e-commerce PME",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: nombreuses offres françaises dédiées 'audit EAA e-commerce' Shopify/PrestaShop/Woo, de 69 € à 4 900 €",
+"concurrents_precedents": "RGAA Consulting (audit EAA 4 900 €); Akcessio (690 €); EAA Comply (69 €); Sisméo; Webmint; Oktan; SK Web; Accessio; ScanAccess; Access42; Temesis; Atalan; Ideance"
+},
+{
+"id": "B10",
+"nom": "Leads contrôle aires de jeux",
+"fichier": "02-b2b.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "Aucun site de leads dédié trouvé, mais Socotec vend l'inspection en ligne à 154 € HT l'aire: un lead à 50-100 € pèse 30-65 % du ticket. Vérifier par appel à 3 contrôleurs indépendants s'ils paient ce prix, et le volume de recherche sur google.fr. Le décret 96-1136 n'impose pas de contrôle annuel chiffré (c'est la NF EN 1176-7)",
+"concurrents_precedents": "Socotec (154 € HT); Manutan Collectivités (390 €); Dekra; Apave; Systèmes Plus; Alpes Contrôles; Safeplay; Vivaparc; ACEP Contrôle; Récré'Action"
+},
+{
+"id": "B12",
+"nom": "Leads maintenance portes et portails automatiques",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: réseaux nationaux de maintenance de portes sur lieux de travail à prix publics (dès 100-129 €/porte/an) + comparateurs B2B",
+"concurrents_precedents": "KONE/KDB France; Portalp (25 agences); Fermetal; Maintenance 2000; CKR Fermetures; IEF&CO; Koenig; Brunal; Dr Ginkgo; EspacePros"
+},
+{
+"id": "B13",
+"nom": "Leads inspection rayonnages EN 15635",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: un intermédiaire (rackdestockage.eu) liste déjà 42 fournisseurs 'Contrôle EN 15635' avec formulaire de demande + inspecteurs indépendants nationaux",
+"concurrents_precedents": "rackdestockage.eu; Control2rack; CRM (COFRAC 3-1277); MSRack; ASS Rayonnages; Racking Control; Rayonnage Controls; Socotec; Apave; Mecalux; Polypal"
+},
+{
+"id": "B19",
+"nom": "Leads VGP chariots et nacelles",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: plateformes de leads VGP déjà en place (3 devis, annuaire par ville) + vérificateurs nationaux à prix publics",
+"concurrents_precedents": "Pro VGP (pro-vgp.fr); VGP-Now / Cloud VGP; VGPGO (90 €); Check²GO (89 €); Audit & Contrôle; Bureau Veritas (260 €); SL Services"
+},
+{
+"id": "B20",
+"nom": "Leads maintenance désenfumage",
+"fichier": "02-b2b.md",
+"verdict_precedent": "tue",
+"raison_precedente": "R2: plateformes de mise en relation désenfumage déjà en place (dont page Paris) + mainteneurs SEO dans les 3 villes visées",
+"concurrents_precedents": "Conformio (désenfumage Paris, 3 devis 48 h); Fire-Ops; fm4all; Scop ESI; IEF&CO; Eurofeu (APSAD F17); Dumont Sécurité; Alise SSI; Hordeau; SSI Fire Solutions; Betis; Ecopi"
+},
+{
+"id": "L01",
+"nom": "Dépigeonnage balcons et façades",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : la petite couronne est déjà travaillée ville par ville par au moins 3 réseaux de pages locales et de mise en relation, la fiche ne l'avait vu que pour Paris ; aucun angle non servi",
+"concurrents_precedents": "Nuisible Service IDF (pages 92 et Créteil 94, 2347 avis) https://www.nuisibles-service-idf.fr/depigeonnage/92/ ; Agilys Services (pages Nanterre, Créteil) https://www.agilys-services.fr/protection-anti-pigeons-nanterre-92 ; DKM Experts (pages villes) https://www.dkmexperts.fr/depigeonnage-nanterre ; depigeonnage.fr (pages villes avec tarifs) https://depigeonnage.fr/ ; Artizon (mise en relation) https://artizon.fr/depigeonnisation ; Nuigo https://www.nuigo.fr/ ; Bilik https://www.bilik.fr/metiers/depigeonnage ; DevisPRO https://www.devispro.com/devis-depigeonnage"
+},
+{
+"id": "L03",
+"nom": "Chenilles processionnaires (échenillage, écopièges)",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 (et substitut partiel) : Bordeaux a déjà un générateur de leads dédié (SOS Hygiène, mise en relation), plusieurs pages locales et des réseaux nationaux ; la FREDON Gironde organise une lutte collective sur inscription ; la fiche affirmait « aucun agrégateur local en Gironde »",
+"concurrents_precedents": "SOS Hygiène (mise en relation, Bordeaux) https://www.sos-hygiene.fr/chenille-processionnaire-bordeaux ; Urgence Nuisibles Bordeaux https://urgence-nuisibles-bordeaux.fr/chenilles-processionnaires ; Éradiktou https://www.eradiktou.com/chenillesprocessionnaires ; DKM Experts Mérignac ; Nuisible Service (pages 31 et Toulouse) https://www.nuisibles-service-idf.fr/desinsectisation/chenilles/31/ ; Anticimex Toulouse ; Guêpe Buster ; FREDON Gironde lutte collective https://fredon-gironde.fr/chenille-processionnaire/"
+},
+{
+"id": "L04",
+"nom": "Contrat d'entretien micro-station",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : au moins 3 acteurs couvrent précisément l'entretien de micro-station en Vendée et Charentes (La Pompe et Vous sur 8 départements, Tricel en direct sur 85/16/17, ARTEau national) et 3 sites programmatiques de leads ANC existent déjà",
+"concurrents_precedents": "La Pompe et Vous (85,17,16…) https://lapompe-et-vous.fr/entretien-de-micro-station/ ; Tricel contrats d'entretien https://www.tricel.fr/contrat-entretien-tricel/ ; ARTEau / sav-micro-station.fr https://www.sav-micro-station.fr/entretien_micro-station.html ; micro-station-maison.fr (34 875 communes, formulaire) https://www.micro-station-maison.fr/ ; vidangeur-agree.fr (leads microstation) https://vidangeur-agree.fr/ ; Assainisseo https://www.assainisseo.fr/ ; Kelkun ; Sagéau, Rainéa, EPM (17)"
+},
+{
+"id": "L05",
+"nom": "Traitement de la mérule",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : plateformes nationales de leads qui citent la mérule (Stop Humidité France, 3 devis par département ; VosDevis/Habitatpresto via prodestravaux ; House ID avec pages communes en Bretagne ; annuaire merule-info) en plus de 4 à 5 spécialistes bretons ; la fiche disait « aucun agrégateur »",
+"concurrents_precedents": "Stop Humidité France https://stop-humidite-france.fr/ ; prodestravaux / VosDevis / Habitatpresto https://www.prodestravaux.com/devis-travaux/traitement-merule ; House ID (pages communes 22/29) https://house-id.fr/artisan/diagnostic-merule-lannion ; merule-info.com (annuaire) https://merule-info.com/ ; Cleanolia (Lille) ; Solution Nuisible (Lille) ; TDO https://traitementsdelouest.bzh/traitement-merule/ ; MBH Traitement ; Bretagne Traitement APH ; Direct Mérule"
+},
+{
+"id": "L06",
+"nom": "Traitement anti-termites",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : 3 générateurs de leads termites existent déjà, dont un avec pages par commune des Landes (43 communes), plus FTC avec pages Arcachon et 5 applicateurs girondins installés ; l'angle « commune fine » est déjà pris. Preuve de la fiche : forum de 2013 sur un choix préventif en construction, le devis de 2 450 € n'apparaît pas dans l'extrait lu",
+"concurrents_precedents": "expert-termites.fr (pages Landes et communes, viteundevis) https://expert-termites.fr/landes/ ; DevisTermites.fr https://devis-termites.fr/ ; traitement-termites-devis.fr https://traitement-termites-devis.fr/devis-termites ; France Termites Capricornes (page Arcachon, 295 avis) https://www.francetermitescapricornes.com/ ; Gironde Termites / Michel Destenave https://www.termitesgironde.fr/ ; Bordeaux Termites (agences Langon, Médoc) https://www.bordeaux-termites.fr/arcachon.html ; Termitamor ; SAPA 40 ; Landes Termites ; Nuisible Service (page 40)"
+},
+{
+"id": "L07",
+"nom": "Étude de sol G1 vente de terrain (loi ELAN)",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : la fiche disait « peu de pages par département » ; on trouve des générateurs de leads G1 locaux (Geopilar etude-sol-toulouse.fr avec rappel sous 1 h, etude-sol-occitanie.fr) et nationaux (ExpertGeoTechnique, G2AVP.com 470 prestataires, SolConnect), plus des bureaux avec pages G1 par ville (Soletude, Geobilan, Géofondation, BC SOL)",
+"concurrents_precedents": "Geopilar https://etude-sol-toulouse.fr/etude-de-sol-g1-toulouse/ ; etude-sol-occitanie.fr https://etude-sol-occitanie.fr/devis-g1.html ; ExpertGeoTechnique devis https://www.expertgeotechnique.com/devis-geotechnique/ ; G2AVP.com https://g2avp.com/ ; SolConnect https://solconnect.fr/ ; Ginger CEBTP monterrainelan https://monterrainelan.ginger-cebtp.com/ ; Soletude (Toulouse, Bordeaux) ; Geobilan ; Géofondation Gironde ; BC SOL ; Solintek"
+},
+{
+"id": "L09",
+"nom": "Reprise en sous-œuvre (micropieux, résine)",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : sites programmatiques déjà en place par commune et département (Novagrund : 187 communes de l'Indre avec mise en relation ; micropieux-france.fr ; G2AVP fondations spéciales par département), réseau Fissuration/Koudepouce et applicateurs résine nationaux ; la fiche disait « pas de page locale forte »",
+"concurrents_precedents": "Novagrund reprise sous-œuvre (pages communes) https://www.novagrund.fr/solutions/reprise-sous-oeuvre-micropieux/36 ; micropieux-france.fr https://micropieux-france.fr/micropieux/indre-et-loire/ ; G2AVP.com fondations spéciales https://g2avp.com/fondations-speciales/indre-et-loire/ ; injections-resine-expansive.fr (Koudepouce) https://www.injections-resine-expansive.fr/ ; Solpro BTP https://www.solprobtp.fr/ ; AccesBTP https://www.accesbtp.fr/ ; Densisol Toulouse ; Micropieux Tech Centre ; Temsol"
+},
+{
+"id": "L10",
+"nom": "Dégazage et neutralisation de cuve à fioul",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : Cuve Fioul Net couvre 96 départements avec forfaits publiés, pages par région (dont Normandie) et l'angle « vente bloquée par le notaire » ; s'y ajoutent cuve-a-fioul.com (national) et au moins 4 spécialistes locaux en Alsace et 2 en Normandie ; la fiche ne citait que Veolia",
+"concurrents_precedents": "Cuve Fioul Net (96 départements, page Normandie) https://www.cuvefioulnet.fr/ ; cuve-a-fioul.com https://cuve-a-fioul.com/ ; Alsace Recycle Fioul https://www.alsace-recycle-cuve.fr/neutralisation-cuve-fioul ; AlsaCuv https://alsacuv.fr/ ; France Cuve (67) ; deposecuvefioul.fr (67, 55 avis) ; Adac Normandie https://www.degazage-cuve-normandie.com/ ; Calis (Normandie) https://calis-sie.fr/degazage-inertage-cuves/ ; Cuve Intervention (IDF, 303 avis) ; Veolia"
+},
+{
+"id": "L12",
+"nom": "Raccordement obligatoire au tout-à-l'égout (nouveaux réseaux)",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : la requête « raccordement tout-à-l'égout » est tenue par des plateformes nationales (travaux.com, Ootravaux, Renovbox, Kelkun) et des guides récents ; l'angle « communes à réseau neuf » n'est pas démontré, la liste n'a pas été construite et la fiche reconnaît un petit volume par commune",
+"concurrents_precedents": "travaux.com https://www.travaux.com/construction-renovation-maison/guide-des-prix/prix-raccordement-tout-a-legout ; Ootravaux https://www.ootravaux.fr/installation-entretien/assainissement/prix-raccordement-tout-a-l-egout.html ; Renovbox https://renovbox.fr/devis/exterieur-jardin/raccordement-assainissement/ ; Kelkun https://www.kelkun.com/trouver-un-artisan/assainisseur/raccordement-tout-a-l-egout/ ; mon-habitat-durable.fr ; Solutions VRD (13) ; Sani Plomberie"
+},
+{
+"id": "L16",
+"nom": "Nettoyage après décès et syndrome de Diogène",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : à Lyon et à Toulouse, villes que la fiche jugeait moins servies que Marseille, on trouve chacun au moins 5 spécialistes avec pages dédiées, plus un générateur de leads dédié (devis-nettoyage-deces.fr, jusqu'à 3 devis) et des réseaux nationaux (Nova Clean, Diogène France, Diogène Extrême)",
+"concurrents_precedents": "devis-nettoyage-deces.fr https://devis-nettoyage-deces.fr/ ; Nova Clean https://www.nova-clean.fr/ ; Diogène France https://diogene-france.fr/zones-dinterventions ; Diogène Extrême ; Lyon : SGE Services https://www.societe-nettoyage-lyon.com/syndrome-diogene-insalubrite/ , Nuisi'Guard, Requiem Désinfection, Hellonettoyage69, Coup de Propre ; Toulouse : NDS Nettoyage https://www.nettoyage-deces-nds.com/nettoyage-apres-deces-toulouse , Purelis, Agir Nettoyage Extrême, ERAC-HS, Express Net"
+},
+{
+"id": "L21",
+"nom": "Assistance à la réception de maison neuve (CCMI, VEFA)",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2, que la fiche reconnaissait déjà : Check my House (65 experts, sites par département, tarifs publiés), ExpertGo (dès 490 €), CCEBI, Groupe Expert Bâtiment et au moins 4 experts locaux en Loire-Atlantique et en Gironde ; aucun angle non servi",
+"concurrents_precedents": "Check my House https://checkmy-house.fr/tarifs-des-expertises/ (sites expert-batiment-loire-atlantique-44.fr, expert-batiment-seine-et-marne-77.fr) ; ExpertGo https://www.expertgo.fr/prestations/assistance-chantier ; CCEBI https://ccebi.fr/expert-assistance-reception-maison-ccmi/ ; Groupe Expert Bâtiment (Gironde) ; Expert bâtiment 44 ; Expert Bâtiment 33 ; Tecni Bat Expertise ; Exatis ; Insignia"
+},
+{
+"id": "L22",
+"nom": "Mur de soutènement (réfection, reconstruction)",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : la fiche disait « pas de page locale par ville » ; on trouve des pages dédiées Lyon (Atalus, ELTS, J.Bastion, MGCR) et Côte d'Azur avec liste de communes (Nice Maçonnerie, Rigore Grasse, Socorebat Nice, Bertoncini), plus 5 plateformes nationales avec page « mur de soutènement » (Habitatpresto, prodestravaux/VosDevis, Kelkun, ClubArtisans, maconnerie.com)",
+"concurrents_precedents": "Habitatpresto devis mur de soutènement https://www.habitatpresto.com/devis-travaux/devis-mur-de-soutenement ; prodestravaux https://www.prodestravaux.com/devis-travaux/maconnerie/mur-soutenement ; Kelkun https://www.kelkun.com/trouver-un-artisan/macon/creation-de-murs-de-soutenement/ ; ClubArtisans ; maconnerie.com ; calcul-parpaings.com ; Lyon : Atalus https://www.atalus.fr/murs-soutenement-lyon.php , ELTS, J.Bastion, MGCR ; 06 : Nice Maçonnerie https://06-maconnerie.fr/mur-de-soutenement-cote-d-azur , Rigore Construction, Socorebat Nice, Bertoncini"
+},
+{
+"id": "L23",
+"nom": "Viabilisation de terrain à bâtir",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : plateformes nationales de devis viabilisation et terrassement (Allo-Artisans, devisterrassement.com, annuaire-terrassement.fr, annuaire-terrassier.fr, A. BAT) et terrassiers locaux avec pages viabilisation et grilles de prix (Terrassement Nantes, Horizon TP Challans, DTN Vendée, Sedep, Agesibat, OTPE) ; aucun angle non servi",
+"concurrents_precedents": "Allo-Artisans devis viabilisation https://www.allo-artisans.fr/devis-travaux/chiffrage-viabilisation/index.html ; devisterrassement.com https://www.devisterrassement.com/ ; annuaire-terrassement.fr ; annuaire-terrassier.fr ; A. BAT ; Terrassement Nantes https://terrassement-nantes.com/vrd-viabilisation-nantes/ ; Horizon TP (Challans) https://www.horizon-tp.com/raccordement-reseaux ; DTN Vendée ; Sedep ; Agesibat TP ; OTPE ; region.fr"
+},
+{
+"id": "L24",
+"nom": "Drainage périphérique de maison",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : générateur de leads dédié (drainage-maison.fr, 2 000 installateurs, simulateur) plus Habitatpresto et e-local, et spécialistes de l'humidité installés dans le 77 et le 59 (ECS Construction Meaux, Miss Bennes, Aqua-Control, Humidinord, Humidians, Murprotec) ; secteur exposé aux vendeurs de « traitements humidité », comme la fiche le reconnaissait",
+"concurrents_precedents": "drainage-maison.fr https://www.drainage-maison.fr/ ; Habitatpresto devis drainage https://www.habitatpresto.com/devis-travaux/devis-drainage-maison ; e-local https://e-local.fr/ ; ECS Construction Meaux https://www.ecs-construction.fr/etancheite-meaux-77 ; Miss Bennes (77) ; ColakTP (77) ; Aqua-Control / nord-humidite.com (59) ; Humidinord ; Humidians https://humidians.fr/prix-drainage-maison/ ; Murprotec"
+},
+{
+"id": "L28",
+"nom": "Ouverture de mur porteur (BET + maçon)",
+"fichier": "01-leads-artisans.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : l'angle « bundle BET + maçon » est déjà tenu par ouvrir-mur-porteur.fr (réseau national d'ingénieurs partenaires, devis immédiat à partir de 890 €), STRUCTEVIA, RS Ingénierie et Civigo pour l'étude, et par Habitatpresto, Renovbox, A. BAT et comparedevistravaux pour les travaux ; à Lyon et Villeurbanne, Socorebat, Chéroise, Isotec et Killowatts ont des pages dédiées",
+"concurrents_precedents": "ouvrir-mur-porteur.fr https://ouvrir-mur-porteur.fr/ ; STRUCTEVIA https://structevia.fr/mur-porteur ; RS Ingénierie ; Civigo https://civigo.fr/expertises/bet-structures/ouverture-mur-porteur/ ; Habitatpresto https://www.habitatpresto.com/devis-travaux/devis-ouverture-mur-porteur ; Renovbox ; A. BAT ; comparedevistravaux ; Socorebat Lyon et Villeurbanne https://www.socorebat-france.fr/rhone-alpes/rhone/lyon/ouverture-mur-porteur ; Chéroise ; Isotec ; ETBA Thomas (Bordeaux) ; Origine Structures (Bordeaux)"
+},
+{
+"id": "D03",
+"nom": "Newsletter locale hebdomadaire sponsorisée (Angers puis Tours)",
+"fichier": "05-annuaires-opendata.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2 : Angers a déjà Big City Angers (newsletter hebdomadaire du mercredi : food, sorties, ouvertures), Villactu Angers (environ 8 000 abonnés), WIK Angers, Le Garage Angers et Jefaisquoi ; Tours a Info Tours, Tours Évasion, Vivre à Tours, JDS et les « 5 idées de sorties » de la NR. Le modèle existe en France (L'Essentiel Bordeaux : 13 000 abonnés et des annonceurs entreprises), mais les deux villes ciblées sont déjà servies et aucun angle libre n'est démontré",
+"concurrents_precedents": "Big City Angers https://bigcityangers.fr/newsletter/ ; Villactu Angers https://www.angers.villactu.fr/ ; WIK Angers https://www.wik-angers.fr/ ; Le Garage Angers ; Jefaisquoi ; Info Tours https://www.info-tours.fr/ ; Tours Évasion ; Vivre à Tours ; JDS ; La Nouvelle République https://www.lanouvellerepublique.fr/"
+},
+{
+"id": "E15",
+"nom": "Print-on-demand groupes festayres Fêtes de Bayonne (blanc-rouge personnalisé)",
+"fichier": "07-ecommerce-numerique.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2. La personnalisation de groupe au nom de la bande pour les Fêtes de Bayonne est déjà servie : Monsieur TSHIRT (« t-shirts personnalisés avec les prénoms de votre bande », Bayonne nommée, 35 €), Ricamo (collection Festayres personnalisable), Couleur Feria (t-shirts de groupe), Empreinte Blanche à Bayonne, imprimeurs de groupe dès 5 pièces à 16,90 € (creer-son-tshirt, Spreadshirt). Le merchandising officiel est concédé par la Ville et l'Office de tourisme (K Mares, boutique officielle). À 29,90 €, prix au-dessus du marché groupe.",
+"concurrents_precedents": "Monsieur TSHIRT ; Ricamo ; Couleur Feria ; Empreinte Blanche ; creer-son-tshirt.fr ; Spreadshirt groupes ; La Triplette ; boutique officielle OT Bayonne ; K Mares"
+},
+{
+"id": "E16",
+"nom": "Print-on-demand Noël alsacien en dialecte (gamme famille)",
+"fichier": "07-ecommerce-numerique.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "Aucune règle ne s'applique nettement, mais le doute est réel. Ici & Là vend du dialecte alsacien depuis 2015 (Gottverdammi, Leck mi, bonnet « Elsässer emmer noch » annoncé best-seller) et pourrait ajouter une gamme Noël en un clic. Bretzel Airlines et The Elsassisch sont aussi présents. Je n'ai pas trouvé de gamme « Noël en famille en dialecte » : l'angle est libre mais sa demande n'est pas prouvée. Les pyjamas de famille génériques sont à 25-55 € (Primark, Kiabi, La Redoute). À vérifier : un fournisseur POD de pyjamas famille et son coût réel (la fiche ne parle que de t-shirts), et une précom",
+"concurrents_precedents": "Ici & Là ; Bretzel Airlines ; The Elsassisch ; Atelier du T-shirt Ingwiller ; Etsy Alsace shirts (644 annonces) ; PatPat/Primark/Kiabi (pyjamas génériques)"
+},
+{
+"id": "E17",
+"nom": "Print-on-demand bébé bilingue langues régionales relu par locuteurs",
+"fichier": "07-ecommerce-numerique.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "La fiche disait « tous jouent sur la fierté en français ». C'est en partie faux. Le basque est déjà couvert en vraie langue : Ze Polita (sérigraphie à Bayonne, langue basque), kukyseuskaraz sur laTostadora (dizaines de bodies en euskara), Etsy « Kaixo ». Des bodies « Degemer Mat » existent sur Spreadshirt. Pour l'occitan et l'alsacien, aucune offre trouvée, mais aucune preuve de demande non plus. À vérifier : la demande auprès d'associations de parents (Diwan, Calandreta, ABCM-Zweisprachigkeit) avant tout investissement, et abandonner le basque.",
+"concurrents_precedents": "Ze Polita ; kukyseuskaraz (laTostadora) ; BloomingBabyGifts (Etsy Kaixo) ; Spreadshirt (Degemer Mat) ; Tostadora « I speak Breton » ; Breizh Club ; CadeauMalin ; Armor Broderie"
+},
+{
+"id": "E18",
+"nom": "Sapins de Noël en précommande livrés et installés + reprise",
+"fichier": "07-ecommerce-numerique.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "Le modèle est prouvé, mais la réponse dépend de la ville, et la reprise gratuite affaiblit l'angle. Livraison, pose et reprise existent déjà : Sapin & Go (Paris, IDF, Lille, Côte d'Opale ; décoré dès 359 €), sapindenoelrennes (Rennes, 61-121 € pose et enlèvement compris), Sapins de Bois Guillaume (Lyon, pose 50 €), Mon Bûcheron (Paris). Les mairies collectent gratuitement (Paris : 186 points ; Grenoble : 57). À vérifier : l'absence de livreur-installateur et de producteur qui livre dans la ville visée, et une marge de 17 € par sapin qui reste fragile après le coût de l'utilitaire.",
+"concurrents_precedents": "Sapin & Go ; sapindenoelrennes.com ; Sapins de Bois Guillaume ; Mon Bûcheron ; Noël Vert ; Rapidsapin ; collectes municipales gratuites ; Pousse/Ambius (B2B)"
+},
+{
+"id": "E19",
+"nom": "Coffrets cadeaux d'entreprise produits locaux sans alcool",
+"fichier": "07-ecommerce-numerique.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2. Le « local de ma ville » est déjà couvert presque partout, souvent moins cher : Pôle Agro 42 (25 € HT pour 5 produits), Les Coffrets de Lorraine, La Finebox (Rennes, dès 15 € HT), La Box du Coin (Hauts-de-France), Tourangoule (Touraine), Office de tourisme du Grand Pithiverais, Aux Antipodes (Senlis), Roi de Bretagne, Ararat (Marseille), Apéritiv'Box (Vendée), Le Goût de nos Régions (500 entreprises). Les colis des aînés passent par des marchés publics avec DC1/DC2 et des plafonds à 22 € TTC. Une marge de 15,5 € HT sur 39 € HT ne tient pas face à 25 € HT.",
+"concurrents_precedents": "Pôle Agro 42 ; Les Coffrets de Lorraine ; La Finebox ; La Box du Coin ; Tourangoule ; OT Grand Pithiverais ; Aux Antipodes ; Roi de Bretagne ; Ararat ; Apéritiv'Box ; Le Goût de nos Régions ; Mon Panier Garni ; Les Autochtones ; Aglaé"
+},
+{
+"id": "E20",
+"nom": "Arbitrage livres d'occasion (scan ISBN vers Momox/Recyclivre/Vinted)",
+"fichier": "07-ecommerce-numerique.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "Aucune règle ne s'applique, mais l'hypothèse de 2 € de marge moyenne par livre paraît optimiste. Momox rachète la majorité des livres au prix plancher de 0,15 € et en refuse jusqu'à 30 % au contrôle. Des revendeurs pros s'outillent déjà (BiblioScan, Biblioprix à 350-1 899 €/mois) et des comparateurs gratuits existent (Chasse aux Livres), ce qui durcit la concurrence en brocante. Le profil développeur est peu exploité. À vérifier : le taux horaire réel sur une brocante test, qui doit dépasser 10 €/h comme le seuil de la fiche.",
+"concurrents_precedents": "Momox ; Recyclivre ; Gibert ; Hamelyn ; Chasse aux Livres (comparateur gratuit) ; BiblioScan ; Biblioprix ; chineurs"
+},
+{
+"id": "E24",
+"nom": "Vinyles de brocante revendus sur Discogs",
+"fichier": "07-ecommerce-numerique.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "Aucune règle ne s'applique, mais la marge est faible et demande de l'expertise. Le cas Margeo donne 61 € net pour un lot à 25 € et une matinée plus le tri. Un autre scénario sort 75 € de marge brute pour 6 h de travail, une fois les mailers payés (5 €/envoi). 90 % des disques valent 1-5 €. Le sourcing est concurrencé par des racheteurs pros sur Leboncoin et par le réseau gratuit Vendre Mes Vinyles. Correction : la commission Discogs est de 9 % selon la page officielle (8 % chez Margeo). À vérifier : la connaissance des pressages et le taux horaire sur un lot test à 25 €.",
+"concurrents_precedents": "Discogs ; Vendre Mes Vinyles (réseau disquaires) ; racheteurs Leboncoin (LISTEN!, Negowax…) ; Momox ; chineurs"
+},
+{
+"id": "E26",
+"nom": "Affiliation TikTok Shop France sur une niche maison/outillage",
+"fichier": "07-ecommerce-numerique.md",
+"verdict_precedent": "a_revoir",
+"raison_precedente": "Aucune règle ne s'applique (30 € d'entrée), mais ce n'est pas un business autonome. Le seuil d'éligibilité est désormais de 500 abonnés (et non 1 500). La commission d'affiliation, fixée par le vendeur, va de 1 à 80 % et se situe surtout entre 5 et 20 % ; la commission plateforme côté vendeur est passée à 9 % au 8 janvier 2026. La concurrence est forte : outils Carouscale, FastMoss, Kalodata ; Leroy Merlin compte 312 affiliés influence. Aucun revenu médian publié par TikTok. À vérifier : l'atteinte de 500 abonnés en 30 jours sur la niche maison. À garder seulement comme canal d'acquisition pou",
+"concurrents_precedents": "TikTok Shop ; affiliés maison/cleantok ; programme Leroy Merlin (312 affiliés) ; Carouscale ; FastMoss ; Kalodata"
+},
+{
+"id": "T05",
+"nom": "Leads propriétaires vers conciergeries courte durée",
+"fichier": "08-local-tourisme-export.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2. Conciergeo et Location Conciergerie vendent déjà des leads payés par les conciergeries, avec des pages La Rochelle et Annecy (17 conciergeries à Annecy). La fiche affirmait « uniquement Airbtics » : c'est faux.",
+"concurrents_precedents": "Conciergeo; Location Conciergerie; zen-bnb; AirConcierge; ProprioAdvisor (La Rochelle); scanstay (Annecy)"
+},
+{
+"id": "T09",
+"nom": "Disponibilités en temps réel des pensions et garderies canines",
+"fichier": "08-local-tourisme-export.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2. myKookie affiche déjà en temps réel les disponibilités des pensions dans toute la France et prend les réservations. Animaute liste 27 pensions en Gironde.",
+"concurrents_precedents": "myKookie; Muzzle Pets; Hunimalis; Animaute; servicespouranimaux; CaniParadis"
+},
+{
+"id": "T12",
+"nom": "Prescription d'acheteurs mutés vers chasseurs immobiliers",
+"fichier": "08-local-tourisme-export.md",
+"verdict_precedent": "tue",
+"raison_precedente": "Règle 2. L'angle mutation et retour d'expatriation est déjà servi : Net-Acheteur (achat à distance), Expat'Immo et Home Select à Bordeaux, Homelike Home, Mon Chasseur Immo, Expatrissimmo, le comparateur quelchasseur.com et les agences de relocation nantaises.",
+"concurrents_precedents": "Net-Acheteur; Expat'Immo; Home Select; Homelike Home; Mon Chasseur Immo; Expatrissimmo; quelchasseur.com; detectimmobilier; Remoters; Nantes Relocation; RMO; MV Relocation"
+},
+{
+"id": "G01",
+"nom": "CÉFRANC Prêt (tests de français du personnel de soutien scolaire)",
+"fichier": "09-apps-grand-public.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "faible : grammaire.ca (web générique), Pratique TECFÉE (autre examen), guides PDF gratuits; aucune app CÉFRANC soutien"
+},
+{
+"id": "G02",
+"nom": "Chasse Wallonie Prépa (examen théorique de chasse)",
+"fichier": "09-apps-grand-public.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "faible sur mobile : Accadia 399 € (web), SIEL RSHCB (web, kit); simulateur flamand 59 €"
+},
+{
+"id": "G03",
+"nom": "OQLF Simu (examen de français des ordres professionnels)",
+"fichier": "09-apps-grand-public.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "faible : NursePrepQc (anglais, infirmières), TestBuddy (pas en ligne), cours UdeM 545 $ et Collège Canada 465 $"
+},
+{
+"id": "G04",
+"nom": "EUF Coach (Épreuve uniforme de français des cégeps)",
+"fichier": "09-apps-grand-public.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "modérée : ARFQC (IA web payante), CCDMD gratuit; aucune app mobile"
+},
+{
+"id": "G05",
+"nom": "BOSA Taaltest (test linguistique néerlandais art. 8/9)",
+"fichier": "09-apps-grand-public.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "faible payante : EasySelor et psychotechnique.be (aptitude), cours Lerian-NTI et CVO Semper, ERAP gratuit en présentiel"
+},
+{
+"id": "G06",
+"nom": "Code Calédonien (questions spécifiques Nouvelle-Calédonie)",
+"fichier": "09-apps-grand-public.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "vide local : outils métropolitains seulement (Pass Rousseau; Prépacode)"
+},
+{
+"id": "M01",
+"nom": "Dossier de place (forains, cirques, structures itinérantes)",
+"fichier": "10-saas-metiers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "aucun outil FR côté forain trouvé; DE Kirmes-Tournee-Planer 28,50 € HT/an; côté organisateurs Marktmeister, GEODP, openMarchéForain"
+},
+{
+"id": "M02",
+"nom": "Hivernage (gardiennage camping-cars, caravanes, bateaux)",
+"fichier": "10-saas-metiers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "Stallingo (NL, page FR, 39-179 €/mois, dès 100 véhicules); Nautic Data 117 € HT (bateaux); pas d'outil FR natif pour petit gardiennage"
+},
+{
+"id": "M03",
+"nom": "Gazonnier (entretien de sépultures : fiche tombe, abonnements, rapport photo)",
+"fichier": "10-saas-metiers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "aucun SaaS FR pour indépendants; Funéria (marbriers), MeisterOffice (Suisse), outils internes En Sa Mémoire et Entretien du Souvenir"
+},
+{
+"id": "M04",
+"nom": "Location d'instruments (luthiers, magasins de musique)",
+"fichier": "10-saas-metiers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "Musilok (Windows, 149 € HT d'installation); Technic-Soft Service 9000; Music Shop Suite (US, 49 $/mois)"
+},
+{
+"id": "M05",
+"nom": "Officiant (espace couple et proches, brouillon de cérémonie)",
+"fichier": "10-saas-metiers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "IBDA (gratuit ou 49 €/mois), WeddingPlan, TonMariage (gratuit côté couples); US Solemnly, CeremonyDesk"
+},
+{
+"id": "W01",
+"nom": "Plan d'analyses et classeur contact alimentaire pour céramistes, avec analyses groupées",
+"fichier": "11-outils-web.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "moyenne : Teracera en bêta, CNC réservé aux adhérents, service Swanet, déclarations gratuites génériques"
+},
+{
+"id": "I01",
+"nom": "Ramassage des déjections canines au jardin, par abonnement, dans les zones sans opérateur",
+"fichier": "12-imports-etrangers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "faible par zone : 8 opérateurs locaux limités à 1 ou 2 départements, aucun trouvé en Gironde, Haute-Garonne, Loire-Atlantique, Nord ni Hérault"
+},
+{
+"id": "I02",
+"nom": "Nettoyage et révision de barbecues à domicile, toutes marques (gaz, kamado, plancha)",
+"fichier": "12-imports-etrangers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "faible : aucun spécialiste mobile en France, 2 magasins en dépôt (Nantes-Guérande, Yvelines), Yoojo généraliste"
+},
+{
+"id": "I03",
+"nom": "Illuminations de Noël posées chez les particuliers, clé en main, matériel en location",
+"fichier": "12-imports-etrangers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "faible : fournisseurs B2B pour communes, Decoled (Paris) sur devis, Ambiance LED (Charente), TaskRabbit sans matériel"
+},
+{
+"id": "I04",
+"nom": "Sécurisation de la maison pour bébé : diagnostic et pose à domicile",
+"fichier": "12-imports-etrangers.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "faible : Mes Premiers Pas en visio sans pose, bricoleurs généralistes sans diagnostic"
+},
+{
+"id": "Y01",
+"nom": "Pressoirs, huileries et moulins à façon : annuaire, dates de saison, réservation et groupage des petits lots",
+"fichier": "13-sites-niches.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "ouvert : opérateurs isolés seulement (Rennes, Calvados) ; listes olive gratuites sans dates ni réservation"
+},
+{
+"id": "Y02",
+"nom": "Veille B2B du ravalement obligatoire et des immeubles sous injonction",
+"fichier": "13-sites-niches.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "ouvert : un seul guide B2C (prix-etancheite.fr, une dizaine de villes) ; aucune veille B2B (Toulon, Nancy)"
+},
+{
+"id": "Y04",
+"nom": "Aides jardin et eau de ma commune (récupérateur, broyeur, composteur, mulching)",
+"fichier": "13-sites-niches.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "ouvert : pages de collectivités seules (Nantes, Toulouse) ; carte partielle Planet Compost (composteurs)"
+},
+{
+"id": "Y03",
+"nom": "Veille des arrêtés de mise en sécurité (ex-péril) pour bureaux d'études structure et entreprises d'étaiement (fragile)",
+"fichier": "13-sites-niches.md",
+"verdict_precedent": "validée par le chercheur (auto-vérification)",
+"raison_precedente": "",
+"concurrents_precedents": "ouvert mais fragile : veilles généralistes (I-Radar, Explain) et bot gratuit Péril sur Mars (Marseille)"
+}
+]

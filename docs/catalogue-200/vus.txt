@@ -1,0 +1,851 @@
+[validée] Modèle type, commun aux 28 idées
+[validée] Hypothèses communes aux business plans (toutes estim.)
+[validée] Grille de score (/50)
+[validée] L01 · Dépigeonnage de balcons et de façades (pics, filets)
+[validée] L02 · Taupier (piégeage mécanique des taupes)
+[validée] L03 · Chenilles processionnaires (échenillage, écopièges, Btk)
+[validée] L04 · Contrat d'entretien de micro-station d'épuration
+[validée] L05 · Traitement de la mérule (diagnostic + devis)
+[validée] L06 · Traitement anti-termites (curatif, appâts, barrière)
+[validée] L07 · Étude de sol G1 obligatoire pour vendre un terrain en zone argileuse
+[validée] L08 · Expertise fissures après sécheresse (expert bâtiment indépendant)
+[validée] L09 · Reprise en sous-œuvre (micropieux, résine) des maisons fissurées
+[validée] L10 · Dégazage et neutralisation de cuve à fioul (avant vente ou à l'abandon)
+[validée] L11 · Travaux de mise en conformité du branchement d'assainissement (après contrôle à la vente)
+[validée] L12 · Raccordement obligatoire au tout-à-l'égout (nouveaux réseaux, délai de 2 ans)
+[validée] L13 · Fouine, martre et loir dans les combles (éviction et colmatage)
+[validée] L14 · Démoustication du jardin (moustique tigre)
+[validée] L15 · Pergola et carport aluminium (devis local)
+[validée] L16 · Nettoyage après décès et syndrome de Diogène
+[validée] L17 · Forage et puits domestique (création, rebouchage des forages abandonnés)
+[validée] L18 · Étude de sol et de filière ANC (construction neuve ou réhabilitation)
+[validée] L19 · Traitement préventif du charançon rouge du palmier (lutte obligatoire)
+[validée] L20 · Expert d'assuré (contre-expertise après incendie, dégât des eaux, CatNat)
+[validée] L21 · Assistance à la réception de maison neuve (CCMI, VEFA)
+[validée] L22 · Mur de soutènement (réfection ou reconstruction)
+[validée] L23 · Viabilisation de terrain à bâtir (tranchées et raccordements privatifs)
+[validée] L24 · Drainage périphérique de maison (cave humide, sol argileux)
+[validée] L25 · Réduction de la vulnérabilité aux inondations (batardeaux, clapets, zone refuge, subventionnés à 80 %)
+[validée] L26 · Mesure acoustique de bruit de voisinage (PAC, climatisation, piscine)
+[validée] L27 · Infiltration des eaux pluviales à la parcelle (puits, tranchée), imposée par le PLU
+[validée] L28 · Ouverture de mur porteur (étude BET + maçon)
+[rejetée] | Idée | Raison (1 ligne) | Source |
+[rejetée] | Radon (mesure, zone 3) | Un dosimètre coûte 25 € en DIY, analyse comprise. Des collectivités prêtent des détecteurs gr
+[rejetée] | Démoussage et nettoyage de toiture | Secteur emblématique du démarchage abusif (UFC, préfecture du Calvados) : acheteu
+[rejetée] | Traitement de charpente (capricornes, vrillettes) hors zone termites | Même alerte préfectorale. Aucune cartographie o
+[rejetée] | Adoucisseur d'eau | Arnaques récurrentes (« adoucisseur à 1 € », Sun Water). Aucune aide. Image toxique. | [prix-trava
+[rejetée] | Enrobé d'allée et goudronnage | Réseaux d'escroquerie des « bitumeurs irlandais » signalés par la gendarmerie : risque
+[rejetée] | Dépannage de volets roulants | Requête locale verrouillée par Somfy Assistance (dès 95 €, 250 installateurs) et des ré
+[rejetée] | Store banne (réparation, rentoilage) | Pages ville déjà tenues par des réseaux de mise en relation (store-banne-direct
+[rejetée] | Montage d'abri de jardin | Ticket bas (320 à 800 €), déjà couvert par e-local, Axeo et les services des enseignes. | [
+[rejetée] | Nettoyage de gouttières | Ticket de 90 à 240 €, SAP et plateformes (mesjardiniers), proche des arnaques à la toiture. 
+[rejetée] | Entretien de chaudière gaz ou fioul | Ticket de 95 à 150 €, artisans très nombreux et contrats de grands réseaux : lea
+[rejetée] | Nettoyage de panneaux photovoltaïques | Famille « solaire » exclue par le brief. Ticket de 150 à 350 €. | [upsolaire.f
+[rejetée] | Recherche de fuite non destructive | Demande réelle (convention IRSI), mais SERP occupée par des réseaux nationaux et 
+[rejetée] | Dessouchage et rognage | Mêmes acheteurs que l'élagage, déjà au catalogue (Serpe, élagueurs bordelais) : doublon. | [b
+[rejetée] | Abattage d'arbres dangereux | Doublon de l'élagage du catalogue. | même source |
+[rejetée] | Portail automatique | Doublon de « clôture / portail » au catalogue. | — |
+[rejetée] | Goélands (stérilisation d'œufs, filets) | Espèce protégée. Les villes (Le Havre) stérilisent gratuitement : substitut 
+[rejetée] | Broyage de déchets verts à domicile | Service public gratuit (Bordeaux Métropole) ou à 30 € l'heure (Pays de Fayence) 
+[rejetée] | Vidéosurveillance de particulier | Kits DIY de 100 à 400 €, grandes enseignes en abonnement et installateurs déjà posi
+[rejetée] | Gazon synthétique | Le fabricant Azurio capte déjà les demandes de pose et les distribue à 1 700 installateurs partena
+[rejetée] | Insonorisation des riverains d'aéroports (aide TNSA) | Les travaux portent sur les menuiseries et l'isolation de toitu
+[rejetée] | Bornage par géomètre-expert | Profession à monopole réglementé : la rémunération d'un apporteur d'affaires n'est pas v
+[rejetée] | Travaux pour le « permis de louer » | Travaux multi-métiers, souvent de décence énergétique (exclue) ; demande diffuse
+[rejetée] | Ravalement obligatoire (Paris, Lyon, Nantes) | Depuis 2017, le ravalement entraîne souvent une obligation d'isolation 
+[rejetée] | Guêpes | Doublon des « frelons » au catalogue (mêmes désinsectiseurs). | — |
+[rejetée] | Expertise avant achat immobilier | Requête occupée par des acteurs nationaux (ExpertGo, Opengroupe, AMO Paris). Le seg
+[rejetée] | Fourmis charpentières (Alpes) | Ticket d'environ 150 € ; traité par les désinsectiseurs généralistes. Niche trop étroi
+[rejetée] | Pompe et poste de relevage | Pages tenues par des réseaux « 24/7 » de pompage et d'hydrocurage, proches du débouchage 
+[rejetée] | Diagnostics électricité, gaz, plomb (CREP) avant vente ou location | Diagnostiqueurs certifiés, marché tenu par des co
+[rejetée] | Légionelle chez le particulier | Pas d'obligation chez le particulier, demande marginale. Non revérifié. | — (raisonne
+[rejetée] | Toiture végétalisée | Marché de niche du neuf ou du tertiaire, pas de demande B2C locale identifiable. Non revérifié. 
+[rejetée] | Clôture électrique | Usage agricole et équestre, en plus d'un doublon partiel de « clôture ». | — |
+[rejetée] | Insert, poêle, tubage de cheminée | Relève de la rénovation énergétique (MaPrimeRénov') et chevauche le ramonage du ca
+[rejetée] | Hydrocurage préventif des canalisations | Même écosystème que le débouchage d'urgence exclu. | — |
+[rejetée] | Contrôle de raccordement à la vente (le contrôle lui-même) | Réalisé par le service public (SPAC, régies), donc rien à
+[validée] B01 · Leads nettoyage de hottes de cuisine pro
+[validée] B02 · Leads vidange et curage de bacs à graisse
+[validée] B03 · Leads contrats de dératisation pour restaurants
+[validée] B04 · Leads collecte de biodéchets pour restaurants
+[validée] B05 · Leads vérification d'extincteurs pour TPE et commerces
+[validée] B06 · Leads défibrillateurs (location-maintenance) pour ERP soumis à l'obligation
+[validée] B07 · Audit RGAA et correctifs pour sites de petites communes
+[validée] B08 · Audit EAA et mise en conformité de sites e-commerce de PME
+[validée] B09 · Installation du bouton de rétractation (WooCommerce, PrestaShop, sur-mesure)
+[validée] B10 · Leads contrôle annuel des aires de jeux
+[validée] B11 · Plan d'entretien et registre d'aire de jeux, clé en main
+[validée] B12 · Leads maintenance de portes et portails automatiques sur lieux de travail
+[validée] B13 · Leads inspection annuelle de rayonnages (NF EN 15635)
+[validée] B14 · Leads analyses légionelle pour hôtels et campings
+[validée] B15 · Carnet sanitaire eau chaude clé en main (hôtels, campings, gîtes de groupe)
+[validée] B16 · Leads « pré-contrôle hygiène » ciblés via Alim'confiance
+[validée] B17 · Leads formation hygiène alimentaire 14 h (hors CPF)
+[validée] B18 · Leads thermographie infrarouge Q19
+[validée] B19 · Leads VGP de chariots élévateurs et nacelles
+[validée] B20 · Leads maintenance du désenfumage en ERP et lieux de travail
+[validée] B21 · Rédaction de plans communaux de sauvegarde (PCS) et DICRIM
+[validée] B22 · Dossier Alcome clé en main pour communes (état des lieux, plan de communication, bilan annuel)
+[validée] B23 · Module de publication électronique des actes pour petites communes
+[validée] B24 · Mémoires techniques d'appels d'offres pour TPE du BTP (IA + relecture)
+[validée] B25 · RGPD clé en main pour une verticale de TPE (agences immobilières, auto-écoles, salles de sport)
+[validée] B26 · Leads vaisselle réemployable et lavage pour la restauration rapide
+[validée] B27 · Plans d'évacuation et consignes de sécurité ISO 23601 pour TPE et ERP de catégorie 5
+[validée] B28 · Calendrier de conformité pour restaurants (rappels + mise en relation)
+[rejetée] | # | Idée | Raison du rejet |
+[rejetée] | R01 | Générateur ou accompagnement DUERP | Outil gratuit équivalent : OiRA de l'INRS (43 outils sectoriels) et MonDOCu
+[rejetée] | R02 | Registre public d'accessibilité ERP fait pour vous | Modèles gratuits de la FFB et des préfectures, plus des reg
+[rejetée] | R03 | Kits d'affichages obligatoires | Marché tenu par des éditeurs et comparateurs (de 28 à 186 € TTC), produit physi
+[rejetée] | R04 | Leads destruction de papier confidentiel | Résultats tenus par Veolia et Shred-it, acteurs nationaux intégrés. |
+[rejetée] | R05 | Leads collecte d'huiles alimentaires usagées | Collecte souvent gratuite, voire rachetée : le collecteur a peu d
+[rejetée] | R06 | Leads permis d'exploitation (licence restaurant) | Peu d'organismes agréés par l'Intérieur, dont UMIH Formation 
+[rejetée] | R07 | Plateforme de traduction assermentée | Le traducteur doit être inscrit auprès d'une cour d'appel ; acteurs en li
+[rejetée] | R08 | Domiciliation, ou apport d'affaires en domiciliation | Agrément préfectoral obligatoire (6 mois de prison et 7 5
+[rejetée] | R09 | Leads créateurs d'entreprise pour experts-comptables | Aucune preuve de prix par lead trouvée ; la requête ne fa
+[rejetée] | R10 | Logiciel pour syndics bénévoles | Copriciel dès 120 € par an, Matera, SyndicManager et Cotoit gratuits ou très b
+[rejetée] | R11 | Recyclage de mégots pour entreprises | Filière REP financée par Alcome via les fabricants ; acteurs de collecte 
+[rejetée] | R12 | Application de bouton de rétractation pour Shopify | Revoq gratuite (4,9/5, 471 avis) plus OneWithdraw et Pandec
+[rejetée] | R13 | Tableaux allergènes ou menu QR pour restaurants | Logiciels de cuisine (Koust) et modèles gratuits ; tout suppor
+[rejetée] | R14 | Plateforme RGPD généraliste pour TPE | Saturée (LegalPlace, donneespersonnelles, logiciels à 50-150 € par mois).
+[rejetée] | R15 | Job board de saisonniers | Rejet structurel, non recherché (budget épuisé) : Indeed et France Travail sont gratu
+[rejetée] | R16 | Intérim de niche | Statut d'entreprise de travail temporaire avec garantie financière obligatoire, inatteignable
+[rejetée] | R17 | Marketplace de matériel CHR d'occasion | Rejet structurel, non recherché : Leboncoin pro, revendeurs spécialisés
+[rejetée] | R18 | Fournitures de bureau | Rejet structurel, non recherché : Amazon Business et grossistes, marges de quelques pour
+[rejetée] | R19 | Leads gardiennage et sécurité | Rejet structurel, non recherché : carte CNAPS pour les opérateurs, Companeo et H
+[rejetée] | R20 | PPPT, DPE collectif ou DTG pour copropriétés | Hors périmètre : rattaché à la rénovation énergétique (exclusion 
+[rejetée] | R21 | Index égalité professionnelle | Rejet structurel, non recherché : simulateur officiel gratuit du ministère du Tr
+[rejetée] | R22 | Base Adresse Locale pour communes | Rejet structurel, non recherché : outil public gratuit (mes-adresses.data.go
+[rejetée] | R23 | Leads vérification électrique Q18 | Non validé : résultats probablement tenus par Apave, Socotec, Bureau Veritas
+[rejetée] | R24 | Leads formation CACES | Financement souvent CPF (exclusion), organismes très présents en SEO. |
+[validée] Hypothèses communes aux business plans (toutes estim.)
+[validée] Cadre légal commun (FR, à adapter BE/CH/QC)
+[validée] A01 · Coût total réel d'un GPS pour chien (calculateur appareil + abonnement sur 3 ans)
+[validée] A02 · Simulateur « clôture anti-fugue : fil enterré ou clôture GPS virtuelle ? » selon le terrain
+[validée] A03 · Analyseur de composition de croquettes (score ingrédients, ration et coût par jour)
+[validée] A04 · Dimensionneur de poulailler (surfaces, pondoirs, perchoirs selon race et nombre de poules)
+[validée] A05 · « Quel télescope pour le ciel de ma commune ? » (pollution lumineuse + quiz d'usage)
+[validée] A06 · Comparateur de domiciliation d'entreprise par ville et arrondissement (domiciliataires agréés)
+[validée] A07 · Simulateur de taxe de séjour par commune + comparateur de channel managers pour gîtes
+[validée] A08 · Vélo cargo selon l'usage + simulateur des aides locales (commune, interco, région)
+[rejetée] | # | Idée | Raison (1 ligne) |
+[rejetée] | R01 | Comparateur de matelas | Futura-Sciences (≥ 4 pages), Presse-Citron et Test-Achats en tête sur « meilleur matela
+[rejetée] | R02 | Robots tondeuses | Futura-Sciences (×3), Presse-Citron, Test-Achats, Boulanger sur « meilleur robot tondeuse 202
+[rejetée] | R03 | Sièges auto bébé | Futura-Sciences (×5 pages) + Meilleurtest (×4) ; sujet de sécurité enfant, risque réputationn
+[rejetée] | R04 | Trottinettes électriques | Futura-Sciences, Meilleurtest (×3), MediaMarkt et Pixmania sur la requête d'achat. |
+[rejetée] | R05 | Comparatif d'imprimantes 3D | Futura-Sciences (×2) + All3DP (palmarès en 25 catégories) + Meilleurtest. |
+[rejetée] | R06 | Fours à pizza (Ooni) | Futura-Sciences, Labomaison, Meilleurtest ; taux Ooni ≈ 10 % uniquement en source tierce.
+[rejetée] | R07 | Chatières connectées | Futura-Sciences (guide dédié) + Meilleurtest ; panier ≈ 100-200 € (estim.) × 3 % zooplus 
+[rejetée] | R08 | Location de van ou camping-car (Yescapa) | Programme TradeTracker UK/ES **fermé** ([affi.io](https://affi.io/m/y
+[rejetée] | R09 | Van aménagé (Roadsurfer) | Aucun programme public : contact « cooperation » seulement ([presse](https://roadsurf
+[rejetée] | R10 | Code de la route en ligne (Ornikar) | Aucun programme d'affiliation trouvé. |
+[rejetée] | R11 | Comparateur de déménageurs (Nextories) | Aucun programme public trouvé ; le modèle passe par des partenariats B2
+[rejetée] | R12 | Gestion locative (BailFacile, Rentila) | Aucun programme d'affiliation trouvé. |
+[rejetée] | R13 | Équipement d'équitation (PADD) | Aucun programme trouvé ; Horze et Equishop non instruits. |
+[rejetée] | R14 | Matériel d'apiculture | La recherche de programme ne renvoie que des aides publiques FranceAgriMer ; aucun progr
+[rejetée] | R15 | Aquariophilie FR | Seuls des programmes anglophones ou norvégiens (FlexOffers, Daisycon) ; rien pour un marchand
+[rejetée] | R16 | Appareils auditifs, fauteuils releveurs | Dispositifs médicaux (exclusion fixe) ; 100 % Santé neutralise la comp
+[rejetée] | R17 | Orion Telescopes FR | Programme **fermé** (affi.io) ; remplacé par Unistellar dans A05. |
+[rejetée] | R18 | Pecheur.com (carpe) | Programme Kwanko **fermé** ; la piste carpe reste en attente via Leurre de la Pêche. |
+[rejetée] | R19 | Climatiseurs et kits anti-canicule | Déjà au catalogue (kits canicule) ; marché couvert par les grands médias (n
+[rejetée] ---
+[validée] S01 · Pension Pro — gestion d'écurie de propriétaires (pensions de chevaux)
+[validée] S02 · Studio — gestion des élèves pour professeurs de musique indépendants
+[validée] S03 · Attest'Chaudière — attestation d'entretien sur mobile pour chauffagistes indépendants
+[validée] S04 · VTC Prépa — QCM de l'examen taxi / VTC (T3P)
+[validée] S05 · AEPE Révise — révision du CAP Accompagnant éducatif petite enfance
+[validée] S06 · RDV par WhatsApp — agent de prise de rendez-vous clé en main pour artisans et instituts
+[validée] S07 · Cahier de liaison numérique pour assistantes maternelles
+[validée] S08 · Marge Seconde Main — suivi de stock et de marge pour revendeurs Vinted, sans automatisation
+[rejetée] | # | Idée | Raison (1 ligne) | Source |
+[rejetée] | R01 | App de révision du permis bateau côtier | Au moins 7 apps déjà en store, dont des gratuites complètes (Code Mari
+[rejetée] | R02 | Planning de rendez-vous pour toiletteurs canins | Koalendar gratuit à vie, Easybel 30 à 54 €/mois, Groomsoft, Va
+[rejetée] | R03 | Livret d'accueil digital pour locations saisonnières | Marché pris (Mon Livret d'Accueil avec IA et 15 langues, 
+[rejetée] | R04 | Wrapper IA de réponse aux avis Google pour restaurants | Une dizaine d'outils (ReviewReply, Revplies, Nelova) et
+[rejetée] | R05 | Crosslisting automatisé Vinted et Leboncoin | Contraire aux CGU, pas d'API ; Crosslist a arrêté Vinted après des
+[rejetée] | R06 | Logiciel pour syndic bénévole | Offre payante installée et peu chère (Copriciel dès 120 €/an, Simply Syndic de l
+[rejetée] | R07 | QCM d'entraînement à l'examen civique 2026 | Équivalent gratuit officiel (QCM data.gouv sur les questions du min
+[rejetée] | R08 | App de pêche : réglementation et parcours par département | Outils gratuits des fédérations (Génération Pêche, G
+[rejetée] | R09 | Générateur de DUERP pour TPE | Outil public gratuit OiRA (INRS) [connaissance antérieure, non revérifiée ce jour
+[rejetée] | R10 | Registre de sécurité ERP pour petits commerces | Acteur SaaS installé (Lootibox), réglementation lourde, aucune 
+[rejetée] | R11 | Registre d'élevage et suivi des ruches pour apiculteurs | Apitracer Lite gratuit jusqu'à 100 ruches couvre les a
+[rejetée] | R12 | Livre de police numérique (brocanteurs, dépôts-vente) | Légalité du format électronique non confirmée (une répon
+[rejetée] | R13 | Cueillette de champignons (identification) | Responsabilité en cas d'intoxication : exclusion de principe du bri
+[rejetée] | R14 | Outil de dossier de location | DossierFacile, service public gratuit (cité dans le brief) [non revérifié ce jour
+[rejetée] ---
+[validée] D01 · Alerte CatNat sécheresse par commune + mise en relation experts d'assuré
+[validée] D02 · Annuaire des vidangeurs agréés par département + devis vidange et assainissement non collectif
+[validée] D03 · Newsletter locale hebdomadaire sponsorisée pour une ville moyenne (Angers puis Tours)
+[validée] D04 · Radar régional des reprises (procédures collectives et cessions d'actifs, BODACC)
+[rejetée] | # | Idée | Raison (1 ligne) | Statut |
+[rejetée] | R01 | Auto-écoles et taux de réussite par ville | vroomvroom.fr occupe tout le top 10 sur Nantes et Rennes, avec les t
+[rejetée] | R02 | Prix du contrôle technique (dont moto) | Comparateur officiel DGCCRF (prix.conso.gouv.fr), qui couvre la catégor
+[rejetée] | R03 | Qualité de l'eau et PFAS par commune | Selectra, toutsurmoneau, UFC-Que Choisir, NextToYourPlace et eaupotable.s
+[rejetée] | R04 | Prix des terrains à bâtir (DVF) + leads constructeurs | Solvimo, unemplacement.com, PAP, RealAdvisor et Superimm
+[rejetée] | R05 | Annuaire du bonus réparation (QualiRépar, Refashion) | Annuaires officiels gratuits (bonusreparation.fr, label-q
+[rejetée] | R06 | Leads artisans à partir des permis de construire (Sitadel) | Usage commercial des données nominatives interdit s
+[rejetée] | R07 | Fichier statique des restaurants (SIRENE 56.10) | Salesdorado le donne gratuitement (242 000 établissements) ; s
+[rejetée] | R08 | Arrêtés CatNat « information pure » | Listes publiées par jechange et bien-dans-ma-ville, avec un risque AIO ; r
+[rejetée] | R09 | Pharmacies de garde | Le 3237 officiel et les sites d'ordres et d'ARS servent la requête ; leader gratuit | [non
+[rejetée] | R10 | Médecins acceptant de nouveaux patients | Aucune source publique ouverte (agendas privés Doctolib) ; donnée indi
+[rejetée] | R11 | Places en crèche et assistantes maternelles | mon-enfant.fr (CNAF), officiel et gratuit ; les assistantes matern
+[rejetée] | R12 | Aires de camping-car | Park4night et Camping-Car Park dominent, avec des apps communautaires | [non re-vérifié] 
+[rejetée] | R13 | Bornes de recharge | Chargemap, apps constructeurs et jeu IRVE officiel ; verrouillé | [non re-vérifié] |
+[rejetée] | R14 | Couverture 5G et fibre par rue | ARCEP « Ma connexion internet », officiel ; Ariase et Degrouptest | [non re-vér
+[rejetée] | R15 | Risques par adresse avant achat | Géorisques (ERRIAL), gratuit et officiel ; information pure | [non re-vérifié]
+[rejetée] | R16 | Prestataires de mariage par département | Mariages.net et Zankyou verrouillent les SERP et les budgets annonceur
+[rejetée] | R17 | Vide-greniers et brocantes | vide-greniers.org et Brocabrac, leaders gratuits et historiques | [non re-vérifié] 
+[rejetée] ---
+[validée] P01 · Mémoire technique d'appel d'offres pour un corps d'état du second œuvre
+[validée] P02 · Dossier de subvention associative express (CERFA 12156)
+[validée] P03 · Dossier de prêt d'honneur et prévisionnel pour créateurs et repreneurs de commerce
+[validée] P04 · Pré-audit EAA et correctifs du thème pour boutiques Shopify et WooCommerce de PME
+[validée] P05 · Migration d'un site Wix ou WordPress vers un site statique Astro pour cabinets libéraux
+[validée] P06 · Annonce Airbnb et Booking réécrite et traduite (EN/DE/ES) pour hôtes en zone touristique
+[validée] P07 · Site de gîte ou de chambres d'hôtes traduit (EN/DE/NL) avec hreflang et pages de réservation directe
+[validée] P08 · Mise à jour Qualiopi V10 et audit blanc documentaire pour formateurs indépendants
+[validée] P09 · Dossier de sponsoring et de mécénat pour club sportif amateur
+[validée] P10 · Posts LinkedIn mensuels pour experts-comptables et CGP (déontologie intégrée)
+[validée] P11 · Biographie familiale express (« livre de vie » offert aux grands-parents)
+[validée] P12 · Kit export pour vignerons indépendants (fiches techniques EN/DE, profil du domaine, liste de prix)
+[validée] P13 · Projet associatif sur 4 ans et fiche action PSF (subvention ANS) pour clubs sportifs
+[validée] P14 · Rapport VSME Basic pour PME sous-traitantes sollicitées par leurs donneurs d'ordre
+[validée] P15 · Newsletter saisonnière d'entretien pour artisans à prestations récurrentes
+[validée] P16 · Dossiers de subvention pour compagnies de spectacle et musiciens (DRAC, région, CNM, Adami)
+[validée] P17 · Montage du dossier de qualification Qualibat ou RGE (première demande et renouvellement)
+[validée] P18 · Candidature Erasmus+ « petite envergure » (KA210) et mobilité (KA122) pour structures francophones
+[validée] P19 · Module de micro-learning SCORM tiré d'un PowerPoint, pour formateurs
+[validée] P20 · Étude express de zone de chalandise par open data pour créateurs de commerce et de CHR
+[validée] P21 · Rapport d'activité annuel d'association, rédigé et mis en page
+[validée] P22 · Campagne de presse locale ponctuelle (communiqué, fichier de médias, 2 relances)
+[validée] P23 · Pack de candidature administrative pour marchés publics (DUME, DC1, DC2, attestations) en abonnement
+[validée] P24 · Audit GEO (visibilité dans les IA) et correctifs techniques pour agences immobilières et architectes
+[validée] P25 · Manuel opératoire pour jeunes franchiseurs (1 à 5 franchisés)
+[validée] P26 · Dossier de déclaration d'activité (NDA) et premiers programmes conformes pour nouveaux formateurs
+[rejetée] | # | Idée | Raison du rejet |
+[rejetée] | R01 | DUERP rédigé en ligne | SaaS à 39-129 € HT ([Phrolo](https://phrolo.com/pricing)), 79 € ([L'Essentiel DUERP](htt
+[rejetée] | R02 | Menus de restaurant multilingues avec QR code | Commodité SaaS à 25-39 €/mois avec traduction IA intégrée ([Glob
+[rejetée] | R03 | Réponses aux avis en abonnement | Logiciels à 12-49 €/mois ([Rateo](https://rateo.io/fr/) à 12 €, [Asterias](htt
+[rejetée] | R04 | Home staging virtuel par IA | Outils à 0,11-0,55 € la photo ([Roomstill](https://roomstill.com/prix-staging-virt
+[rejetée] | R05 | Shorts montés depuis des podcasts | Prix de 10 à 30 € par extrait ([Creative Edits](https://www.creative-edits.f
+[rejetée] | R06 | Sous-titrage de vidéos pour créateurs | Sous-titres automatiques gratuits dans les plateformes et les éditeurs. 
+[rejetée] | R07 | Veille d'appels d'offres par métier (service seul) | Gratuit pour 1 département ou 29 €/mois ([Filon](https://fi
+[rejetée] | R08 | CV et lettres pour un secteur (frontaliers suisses) | Outils à 7-14 € ([CVFrontalier](https://cvfrontalier.ch/ta
+[rejetée] | R09 | Registre public d'accessibilité ERP | 19 € HT ([Sésam'ERP](https://sesamerp.fr/tarifs)) à 150 € ([Expertorisk](h
+[rejetée] | R10 | Livret d'accueil de location saisonnière | 29 € en paiement unique, 69 € clé en main ([Cléo](https://monlivretcl
+[rejetée] | R11 | Plan de maîtrise sanitaire (HACCP) | Générateur à 49 € TTC ([plan-maitrise-sanitaire.fr](https://plan-maitrise-s
+[rejetée] | R12 | Traduction d'annonces immobilières pour acheteurs étrangers | SaaS à 49 € + 2 € par annonce, synchronisé aux log
+[rejetée] | R13 | CGV, mentions légales, politique de confidentialité | Rédaction d'actes sous seing privé pour autrui, à titre ha
+[rejetée] | R14 | Dossiers MDPH | Données de santé (art. 9 RGPD), public vulnérable, aide gratuite (MDPH, associations). Rejet lég
+[rejetée] | R15 | Dossiers de naturalisation | Le droit des étrangers relève du conseil juridique réservé aux avocats. Public vuln
+[rejetée] | R16 | Fiche Google Business Profile optimisée pour un métier | Doublon du catalogue (pack site, GBP et avis) et audits
+[rejetée] | R17 | Dossier de location complet | DossierFacile (service public gratuit) et doublon des photos de dossier de locatio
+[rejetée] | R18 | Audit SEO local express | Offres ComeUp à 16-80 $ sans ventes ([exemple](https://comeup.com/fr/service/541830/au
+[rejetée] | R19 | Montage de dossiers MaPrimeRénov' pour particuliers | Mandat ANAH encadré, fraude fréquente dans le secteur, ris
+[rejetée] | R20 | Rédaction du livret de VAE à la place du candidat | Fraude à la certification. Rejet éthique. |
+[rejetée] | R21 | Dossier PMI de micro-crèche | Kits à 49 € le document ou 297 € le dossier complet ([dossierpmi.fr](https://dossi
+[rejetée] | R22 | Dossier de label EPV | Les CMA accompagnent pour 700 à 980 €, en partie subventionnés ([CMA Bretagne](https://ww
+[rejetée] | R23 | Accompagnement au label Clef Verte | Réseau de consultants qualifiés formés par le label ([Clef Verte](https://w
+[validée] E01 · Pack contrats et fin de contrat pour assistantes maternelles (Word + calculs)
+[validée] E02 · Kit « réussir son agrément PMI » (futures assistantes maternelles)
+[validée] E03 · Murder party française à imprimer (scénarios régionaux et version entreprise)
+[validée] E04 · Calendrier de l'Avent « enquête » en français, avec envoi quotidien automatisé
+[validée] E05 · Calendrier de l'Avent pour couples en français (défis et rendez-vous à deux)
+[validée] E06 · Pack de jeux de Noël et de Nouvel An en français à imprimer
+[validée] E07 · Jeux d'EVJF personnalisés automatiquement (quiz sur la mariée généré depuis un formulaire)
+[validée] E08 · Kits d'animations de mariage et de baby shower en français (jeu des binômes, quiz des mariés, jeux de baby shower)
+[validée] E09 · Chasse au trésor personnalisée instantanée (prénom, âge, thème)
+[validée] E10 · Livret d'accueil numérique hébergé pour gîtes et meublés de tourisme (QR code, traduction automatique)
+[validée] E11 · Site de mariage français codé (RSVP en base, liste de cadeaux, programme, domaine)
+[validée] E12 · Template Notion pour indépendant français (facturation 2026, URSSAF, clients), décliné par métier
+[validée] E13 · Mini-formation « Fiche Google Business Profile + IA » pour artisans et commerçants
+[validée] E14 · Print-on-demand « Carnaval de Dunkerque » (t-shirts, sweats, bodies, tabliers)
+[validée] E15 · Print-on-demand pour groupes de festayres des Fêtes de Bayonne (blanc et rouge personnalisé au nom de la bande)
+[validée] E16 · Print-on-demand « Noël alsacien en dialecte » (pyjamas et sweats de famille, tabliers, cadeaux pour expatriés DE e
+[validée] E17 · Print-on-demand bébé et enfant bilingue en langues régionales (breton, basque, occitan, alsacien), relu par des lo
+[validée] E18 · Sapins de Noël en précommande, livrés et installés dans sa ville, avec reprise après les fêtes
+[validée] E19 · Coffrets cadeaux d'entreprise en produits locaux (sans alcool), sur précommande pour CSE et TPE
+[validée] E20 · Arbitrage de livres d'occasion (vide-greniers et Emmaüs, puis Momox, Recyclivre ou Vinted)
+[validée] E21 · LEGO® en vrac au kilo : tri, reconstitution de sets et figurines (BrickLink et Vinted)
+[validée] E22 · Friperie au kilo vers Vinted, en niche spécialisée (workwear, outdoor)
+[validée] E23 · Dépôt-vente Vinted pour particuliers (« je vends à votre place », à la commission, sans stock)
+[validée] E24 · Vinyles de brocante revendus sur Discogs (jazz, soul, électro, rock 70s)
+[validée] E25 · Planner de mariage français, PDF + Google Sheets interactif (budget, invités, plan de table)
+[validée] E26 · Affiliation TikTok Shop France sur une niche (outillage, rangement, maison)
+[rejetée] | # | Idée | Raison du rejet (avec source) |
+[rejetée] | R01 | Pack fiscal assistantes maternelles (calcul d'impôt sur Sheets) | Simulateurs gratuits ZenAssmat, MonCMG et TiMa
+[rejetée] | R02 | Chasse au trésor à imprimer générique | Saturé à bas prix : KidXplorer (plus de 60 kits à 7,90 €), TresorKids 9,
+[rejetée] | R03 | Packs pour enseignants (équivalent FR de Teachers Pay Teachers) | Marketplaces FR petites (Zone Prof : 103 créat
+[rejetée] | R04 | Fiches de révision IFSI | Expertise infirmière requise ; Objectif IDE (plus de 800 fiches), objectif-infirmière 
+[rejetée] | R05 | Fiches de révision CAP AEPE | Concurrents « admis ou remboursé » à 14-19 € ; expertise requise. [cours-cap-aepe]
+[rejetée] | R06 | Planner et calendrier de potager | Gratuits de qualité (Kokopelli, Permapotes) ; Etsy dominé par des affiches ph
+[rejetée] | R07 | Packs de prompts métiers | Aucune preuve de ventes (annonces « No reviews yet ») ; copiables et gratuits. [etsy]
+[rejetée] | R08 | Modèles Canva pour agents immobiliers | Saturé : 60 modèles à 3,35 €, packs de 750 modèles anglophones. [etsy](h
+[rejetée] | R09 | Livret de cérémonie d'obsèques | Modèles gratuits ou symboliques (lepetitlivretdemesse) ; demande FR non mesurée
+[rejetée] | R10 | Guide PDF « dossier MDPH » | Guides officiels gratuits (MDPH 31, MDPH 95, APEL) ; pas de volume visible chez SOS
+[rejetée] | R11 | Kit plan de maîtrise sanitaire (HACCP) | Générateur à 49 € déjà en ligne, kits à 49,90 € ; responsabilité en cas
+[rejetée] | R12 | Tableur Excel LMNP | LMNP Facile 49 €, lmnp.blog, InvestLoc 9,99 € ; risque fiscal. [lmnp-facile](https://lmnp-f
+[rejetée] | R13 | Tableur micro-entrepreneur URSSAF | Micropilote 29 €, Micro Futé 29 €, Gumroad 9,99 $, plus des logiciels gratui
+[rejetée] | R14 | Livret de cérémonie laïque | Preuve de volume introuvable (Noces de Plume 29 € sans compteur) ; tutoriels gratui
+[rejetée] | R15 | Kits d'activités pour seniors en EHPAD | Prix écrasés (Évocance de 0,90 à 2,90 € le kit) et gratuits (dicteeenli
+[rejetée] | R16 | Road-trip en PDF | Impose d'avoir fait le voyage ; pas de volume visible (Ze-Van 39 €, Life is a trip 15,90 €). 
+[rejetée] | R17 | Print-on-demand Bretagne humour générique | Saturé : Ici & Là affiche 1 314 références Bretagne, plus Le Kiosque
+[rejetée] | R18 | Print-on-demand Marseille humour | Saturé : dizaines de designs sur Spreadshirt, un modèle à 7 617 avis sur Tost
+[rejetée] | R19 | Print-on-demand Corse humour | Saturé : Ici & Là 252 références, Avomarks, Spreadshirt, Tostadora. [ici-la](http
+[rejetée] | R20 | Print-on-demand ch'ti générique | Saturé : Spreadshirt, Maxishirt, Parole de Ch'ti historique (100 000 produits 
+[rejetée] | R21 | Boutiques merch sans stock pour clubs sportifs | FullBoutik gratuit, 20 % de commission reversée, plus de 400 st
+[rejetée] | R22 | Click & collect pour producteurs en commission | Cagette à 6 % HT (2 % en formule engagée), 1 200 marchés, 3 200
+[rejetée] | R23 | Précommandes de fêtes pour boulangers | SaaS déjà bon marché : Heustach 0,25 € par commande, Vitrine Résa 29 €/m
+[rejetée] | R24 | Jeux de société d'occasion sur Okkazeo | « Marché saturé, concurrence visible » ; le port mange la marge des pet
+[rejetée] Également écarté, sans recherche dédiée ce tour : un contrat de garde partagée payant. Le modèle URSSAF est gratuit ([ur
+[rejetée] Non instruits ce tour, faute de recherche dédiée, donc ni validés ni rejetés : patrons de couture, dropshipping UE de sa
+[validée] T01 · Réservation directe pour écoles de surf indépendantes (sortir des places de marché)
+[validée] T02 · Agenda de biplaceurs parapente avec report météo automatique
+[validée] T03 · Leads « séminaire au vert » de PME vers des gîtes de groupe
+[validée] T04 · Site de réservation directe pour gîtes de groupe
+[validée] T05 · Leads de propriétaires vers les conciergeries de location courte durée (villes moyennes)
+[validée] T06 · Devis instantané + acompte en ligne pour loueurs de photobooth (alternative aux annuaires payants)
+[validée] T07 · Leads d'éducation canine par ville
+[validée] T08 · Leads d'ostéopathie équine et canine (écuries et propriétaires)
+[validée] T09 · Disponibilités en temps réel des pensions et garderies canines (août et fêtes)
+[validée] T10 · Home staging virtuel « fait pour vous » pour mandataires indépendants
+[validée] T11 · Pages « prix au m² par quartier » (DVF) et leads vendeurs pour mandataires
+[validée] T12 · Prescription d'acheteurs vers les chasseurs immobiliers (mutations et expatriés)
+[validée] T13 · Leads de frontaliers vers les fiduciaires luxembourgeoises (déclaration 100F)
+[validée] T14 · Leads vers les entreprises de titres-services à Bruxelles
+[validée] T15 · Sites + paiement Wave et Orange Money pour hébergements et commerces au Sénégal
+[rejetée] | # | Idée | Raison du rejet |
+[rejetée] | R01 | Leads B2C de cours de surf (Hossegor) | Verrouillé : CheckYeti, Adrenactive, Tourisme Landes tiennent la SERP ([
+[rejetée] | R02 | Leads B2C de baptêmes de parapente (Annecy) | Verrouillé : Manawa, Sport Découverte, Cap Adrénaline, Adrenactive
+[rejetée] | R03 | EVJF et EVG par ville (Bordeaux) | Verrouillé : Funbooker (6 résultats sur 9), Cap Adrénaline, Topito ([Funbooke
+[rejetée] | R04 | Permis bateau (La Rochelle) | Verrouillé : Adrenactive, Cap Adrénaline, Sport Découverte, devispermis.fr ([devis
+[rejetée] | R05 | Réparation de vélos à domicile (Lyon) | Roulez Jeunesse domine et publie des prix bas (révision à 36 €), panier 
+[rejetée] | R06 | Animateurs d'anniversaire enfants (Lille) | Verrouillé : CitizenKid et Funbooker ([CitizenKid](https://www.citiz
+[rejetée] | R07 | Activités enfants pendant les vacances scolaires | Offre surtout municipale et associative (HelloAsso, mairies) 
+[rejetée] | R08 | Garde-meubles étudiants l'été (Lille) | Panier faible (box d'environ 50 €/mois, 2019), aucun prix étudiant trouv
+[rejetée] | R09 | Toiletteurs à domicile (Toulouse) | Aucun prix publié, aucune preuve de paiement trouvée, offre très clairsemée 
+[rejetée] | R10 | Leads viager | Recherche faite : aucune preuve de prix des leads ni de commission d'apporteur en viager. |
+[rejetée] | R11 | Conciergerie Airbnb à Bruxelles | Réglementation hostile (un hôte sur six enregistré, amendes jusqu'à 80 000 €) 
+[rejetée] | R12 | Conciergerie Airbnb à Lyon | Saturé (Toploc, GuestReady, Welkeys) et plafond de 90 nuits depuis 2026 ([GuestRead
+[rejetée] | R13 | Excursions dans le désert depuis Marrakech | Offre homogène au même prix, places de marché, risque d'arnaque per
+[rejetée] | R14 | Surf camps à Taghazout | Agrégateurs (BookSurfCamps, Hostelworld) et affiliation déjà en place ([The Surf Atlas]
+[rejetée] | R15 | Déménagement à Genève | Déjà au catalogue (déménagement) et MOVU et HelloSafe tiennent la requête ([HelloSafe](h
+[rejetée] | R16 | Leads d'artisans à Abidjan | Allô Dépanne existe déjà ; capacité des artisans à payer un lead non prouvée ([Annu
+[rejetée] | R17 | Soumissions de déneigement au Québec | Contrats signés avant l'hiver (fenêtre 2026 déjà passée) et concurrence n
+[rejetée] | R18 | Contrôle technique moto (leads ou prise de RDV) | Panier de 50 à 75 € non réglementé ; la vague 2026 (immatricul
+[rejetée] | R19 | Leads DJ, traiteurs et wedding planners | Mariages.net tient le marché et facture 130 à 150 €/mois aux prestatai
+[rejetée] | R20 | Leads de gîtes de groupe en B2C | Les centrales (Gîtes de France, GreenGo) tiennent la requête ; repris en B2B (
+[rejetée] ### Non validées faute de preuve (budget de recherche épuisé, à reprendre)
+[rejetée] | # | Idée | Ce qui manque |
+[rejetée] | N01 | Ménage de fin de séjour, Les Sables-d'Olonne | Prix prouvé (100 à 120 € par ménage, [Holidu](https://www.holidu.
+[rejetée] | N02 | Cours particuliers (angle hors Superprof) | Aucune recherche faite : Superprof non vérifié. |
+[rejetée] | N03 | Colocations par ville universitaire | Aucune recherche faite. |
+[rejetée] | N04 | Jobs étudiants | Aucune recherche faite. |
+[rejetée] | N05 | Permis moto et auto-écoles | Seul devispermis.fr a été vu (La Rochelle). Comparateurs nationaux non vérifiés. |
+[rejetée] | N06 | Moniteurs de ski indépendants (B2B, même modèle que T01) | Aucune recherche par station. |
+[rejetée] | N07 | Location de salles par département | Aucune recherche faite. |
+[rejetée] | N08 | Duplication en Suisse romande (T07 ou T10) | Prix suisses non vérifiés. |
+[rejetée] | N09 | Kayak et canoë (Ardèche, gorges du Tarn) | Aucune recherche faite. |
+[rejetée] | N10 | Guides locaux | Aucune recherche faite (domination présumée de GetYourGuide et Viator, non vérifiée). |
+[validée] G01 · CÉFRANC Prêt, tests de français du personnel de soutien scolaire (Québec)
+[validée] G02 · Chasse Wallonie Prépa, examen théorique de chasse (Wallonie)
+[validée] G03 · OQLF Simu, simulation orale et écrite de l'examen de français des ordres professionnels (Québec)
+[validée] G04 · EUF Coach, Épreuve uniforme de français des cégeps (Québec)
+[validée] G05 · BOSA Taaltest, test linguistique de néerlandais des articles 8 et 9 pour fonctionnaires francophones (Belgique)
+[validée] G06 · Code Calédonien, code de la route avec les questions spécifiques de Nouvelle-Calédonie
+[rejetée] Rappel des motifs :
+[rejetée] 1. Équivalent gratuit.
+[rejetée] 2. Au moins 3 acteurs francophones installés sur la niche exacte, sans angle démontrable.
+[rejetée] 3. Pas de preuve de paiement ou de recherche.
+[rejetée] 4. Statut réglementé inatteignable.
+[rejetée] 5. Coût d'entrée supérieur à 200 €.
+[rejetée] ### Seconde passe, sources vérifiées (44)
+[rejetée] | # | Idée | Motif | Concurrents relevés (note / avis si trouvés) | Source |
+[rejetée] | R01 | Compteur de télétravail frontalier France-Suisse | 1 | Compteur complet gratuit d'AdminLanding ; Frontalier Prat
+[rejetée] | R02 | Examens de métiers CCQ (Québec) | 2 | ExamCCQ, PrépaVolt, Metierium, Prof-RBQ, Formation Électriciens (8 500+ ut
+[rejetée] | R03 | Compteur de jours pour snowbirds québécois | 1 | Snowbirds US Day Tracker gratuit, 4,8/5 sur 163 notes ; calcula
+[rejetée] | R04 | Théorie de plongée FFESSM | 1 et 2 | QuizDive (2 000+ questions), Microbulles gratuit, RevisionMF2 | [QuizDive](
+[rejetée] | R05 | Carnet de rucher et apiculture | 1 et 2 | Api'Track entièrement gratuit, HexaBees, BeePerf, Beekube, 3Bee, APIGO
+[rejetée] | R06 | Registre d'élevage de reptiles | 2 | ReptiNode, ReptiTrack, SquamaTracker, TerraTrack, Sauria | [ReptiNode](http
+[rejetée] | R07 | Scrabble duplicate | 1 et 2 | DupliJeu de la FFSc (10 000+ téléchargements), Duel de mots gratuit | [Play Store]
+[rejetée] | R08 | Suisse allemand pour francophones | 2 | uTalk (app classique 1,6/5 sur 7 notes), LanguageFast (en français), Spe
+[rejetée] | R09 | Français québécois pour nouveaux arrivants | 2 | Calliope, Talkparty, uTalk, Loquala, VieauQc gratuit | [Loquala
+[rejetée] | R10 | Frais réels et indemnités kilométriques | 1 | Simulateur officiel, Driversnote, Velvio | [economie.gouv.fr](http
+[rejetée] | R11 | Examen d'admission en ingénieur civil (Belgique) | 2 | prepa-polytech.be, Student Academy, prépas universitaires
+[rejetée] | R12 | Test d'aptitude aux études de médecine EMS/AMS en français (Suisse) | 1 | NCWiki gratuit, Les Coachs AMS, matéri
+[rejetée] | R13 | Examens AMF en assurance de dommages (Québec) | 2 | examen-amf.ca (2 000+ questions) et autres | [examen-amf](ht
+[rejetée] | R14 | Examen de courtier OACIQ | 2 | ITAG, RealtyLicence | [RealtyLicence](https://realtylicence.com/fr/examen-oaciq) 
+[rejetée] | R15 | Examen taxi et VTC à Bruxelles | 3 | Examen supprimé en 2023 | [Kyvium](https://kyvium.be/fr/blog/devenir-chauff
+[rejetée] | R16 | Examen taxi et VTC à Genève | 2 | levtcgenevois à 250 CHF (1 219 questions), Amev à 300 CHF avec app | [levtcgen
+[rejetée] | R17 | Compteur de 24 h de travail pour étudiants étrangers (Canada) | 1 | Hours Cap (en français et en anglais), outil
+[rejetée] | R18 | Attestation SaNa de pêche (Suisse) | 1 | E-learning officiel et catalogue de questions gratuit | [formation-pech
+[rejetée] | R19 | Permis bateau suisse | 2 | Bootstheorie A+D à 19,95 CHF (en français), app-bootstheorie (en français), BoatDrive
+[rejetée] | R20 | Diplôme de cafetier genevois | 2 | E-learning SCRHG à 600 CHF (1 500 questions), HEM, patente-restaurant | [SCRH
+[rejetée] | R21 | Code de la route en Polynésie | 3 | Candidats libres suspendus | [service-public.pf](https://www.service-public.
+[rejetée] | R22 | Capacité de transport léger de marchandises | 1 et 2 | QCM gratuit, WonderLearn à 20 €/an, formation obligatoire
+[rejetée] | R23 | Agent de gardiennage (Belgique) | 3 | Formation obligatoire de 139 h ; OpenExamPrep gratuit | [OpenExamPrep](htt
+[rejetée] | R24 | Test des valeurs québécoises (immigration) | 1 | Guide officiel gratuit ; évaluation à livre ouvert ; 50 questio
+[rejetée] | R25 | Permis d'agent de sécurité BSP (Québec) | 1 | Canada Exam Prep gratuit (180 questions), ExamHub | [Canada Exam P
+[rejetée] | R26 | Cours canadien de sécurité dans le maniement des armes à feu (CCSMAF/PPA) | 1 | Canada Exam Prep gratuit, ExamHu
+[rejetée] | R27 | Test de perception des risques au permis belge | 2 | Permis Online (100 000+ inscrits), TraficTest | [Permis Onl
+[rejetée] | R28 | Tests d'aptitude Basic-Check et Multicheck pour apprentis (Suisse) | 1 et 2 | Démo officielle gratuite, studypea
+[rejetée] | R29 | Garde partagée de nounou | 2 | Nounoupay, PaieNounou, Mon Pajemploi (officiel), AssMat Paie | [Nounoupay](https:
+[rejetée] | R30 | Questions écrites du permis poids lourd | 2 | Examen Permis Poids Lourd, 4,6/5 sur 2 900 notes | [App Store](htt
+[rejetée] | R31 | Examen infirmier OIIQ | 2 | Inf. de poche, 4,3/5 sur 133 notes, de 24,99 à 99,99 $ ; Nursio ; FocusInfoExa ; oii
+[rejetée] | R32 | CE1D (Belgique) | 1 et 2 | edukia, ReviseUp, ce1dsciences gratuit (50 000+ élèves), Khan Academy | [ce1dsciences
+[rejetée] | R33 | DAEU | 2 et 3 | Préparation universitaire obligatoire ; Sonate à 1 270 € ; CNED | [Lyon 3](https://www.univ-lyon
+[rejetée] | R34 | Code de la route expliqué en arabe | 2 | TARIQ à 9,99 €, MADE ECIM, PolyCode (10 000+ téléchargements), Code Aut
+[rejetée] | R35 | Code de la route en LSF | 5 | Examen officiel en LSF depuis 2025 ; environ 4 000 candidats sourds par an ; produ
+[rejetée] | R36 | Apprentissage du kabyle | 1 et 2 | Lmed Taqbaylit gratuit, 4,7/5 sur 40 notes iOS ; Tasuqilt, 5,0/5 sur 522 note
+[rejetée] | R37 | Langues africaines pour la diaspora | 2 | Jossmo, Afrilangues (10 000+ téléchargements), Sheerpa, Kreyolang, Sol
+[rejetée] | R38 | Permis bateau belge | 2 | Ecolenautique, Funnautic (1 000+ questions) | [Funnautic](https://www.funnautic.be/que
+[rejetée] | R39 | Permis SAAQ classe 1 | 1 | ExamHub gratuit (150 questions), DriveIQ, formation PESR obligatoire | [ExamHub](http
+[rejetée] | R40 | TECFÉE | 2 | App Pratique TECFÉE (6 000+ utilisateurs), Neurodidacte à 197 $, grammaire.ca | [Pratique TECFÉE](h
+[rejetée] | R41 | Examens d'admission au secondaire privé (Québec) | 1 et 2 | ExamenAdmission.com gratuit et illimité ; apps Cap S
+[rejetée] | R42 | Permis de chasser français | 1 | Chassexam, app officielle et gratuite de la FNC (10 000+ téléchargements) | [Pl
+[rejetée] | R43 | Compteur de télétravail frontalier Luxembourg | 2, hors cible | Telework Tracker | [Telework Tracker](https://te
+[rejetée] | R44 | Examen professionnel de l'Ordre des ingénieurs du Québec | 1 et 3 | Guide d'étude officiel gratuit ; formation o
+[rejetée] ### Première passe (55)
+[rejetée] Les URL ont été relues dans le journal de recherche. Les notes et nombres d'avis ne sont donnés que s'ils avaient été re
+[rejetée] | # | Idée | Motif | Concurrents relevés | Source |
+[rejetée] | R45 | Préparation au TCF et au TEF Canada | 2 | TCF Express, Prépa TCF Canada Québec, TCF TEF Canada Quiz, tcftefprep,
+[rejetée] | R46 | Examen de chasse suisse (romand) | 1 et 2 | App officielle CSF à 17 CHF, 3,5/5 sur 28 notes ; Jagd Lern-App ; pa
+[rejetée] | R47 | Jury central CESS (Fédération Wallonie-Bruxelles) | 1 | Cours gratuits à distance de CapCESS ; ressources offici
+[rejetée] | R48 | Cours ICAF de chasse (Québec) | 1 | Manuel officiel ; examen de pratique de huntersguide | [huntersguide](https:
+[rejetée] | R49 | CAP pâtissier | 2 | formationscap, cap-patissier-distance, Nathan, patisserie-online, fiches de courscappatissie
+[rejetée] | R50 | CAP cuisine | 2 | caplibcuisine, Artesane | [caplibcuisine](https://www.caplibcuisine.fr/) |
+[rejetée] | R51 | CAP boulanger | 2 | Boulangerie pas à pas, formationscap, Exoboulange | [pasapas](https://www.boulangerie-pasapa
+[rejetée] | R52 | ACACED | 1 et 2 | QCM gratuits de zoopro, acaced-facile, quiz-acaced, youschool, maformationanimal | [zoopro](ht
+[rejetée] | R53 | BNSSA | 1 | QCM gratuits de nageur-sauveteur.com, certoly et sauveteur-aquatique ; app BNSSASwim | [nageur-sauve
+[rejetée] | R54 | Galops FFE | 1 et 2 | Chevaloo, quiz de petit-galop, pack Equirider | [petit-galop](https://www.petit-galop.fr/q
+[rejetée] | R55 | Certificat de radioamateur | 1 et 3 | App d'examen radioamateur ; ANFR | [Play Store](https://play.google.com/st
+[rejetée] | R56 | Théorie ULM | 2 | ulm-theorique.com, aerotheorie, Opaline, espace-formation-ulm | [ulm-theorique](https://www.ul
+[rejetée] | R57 | Permis SAAQ classe 5 | 2 | Quiz SAAQ, 4,9/5 sur environ 20 000 notes ; apps « Examen théorique SAAQ » ; test off
+[rejetée] | R58 | Permis B belge | 1 et 2 | iThéorie, Permis Free, go-permis gratuit, questions gratuites de toutpourmonpermis | [
+[rejetée] | R59 | Test de naturalisation suisse | 2 | testdenaturalisation.ch, naturalisation-switzerland, tests cantonaux officie
+[rejetée] | R60 | Examen de citoyenneté canadienne | 1 et 2 | ExamHub gratuit, CitizenPass gratuit, Oathly, CitoyenCA, guide IRCC 
+[rejetée] | R61 | Examen d'entrée en médecine (Belgique) | 2 | Student Academy, PrépaMed, Prép Médecine, RéussirMédecine, question
+[rejetée] | R62 | CEB (Belgique) | 1 et 2 | exercices-ceb.be, ReviseUp, PasseCEB | [exercices-ceb](https://exercices-ceb.be/) |
+[rejetée] | R63 | ETM moto | 2 | motoetm, Codecodoc moto, Via Learn moto, Pass Rousseau moto | [motoetm](https://motoetm.com/) |
+[rejetée] | R64 | SSIAP | 2 | SSIAP 1 QCM, 3,9/5 sur 65 notes ; 250 QCM SSIAP 1 ; certifssiap ; ssiap.pro | [App Store](https://ap
+[rejetée] | R65 | Test fide (Suisse) | 2 | fidepractice, exam-fide, pretaparler, proactif | [fidepractice](https://fidepractice.ch
+[rejetée] | R66 | Apprentissage de la LSF | 2 | Pause LSF, 4,8/5 sur environ 3 500 notes ; LSF Reviz ; Signerz | [Pause LSF](https
+[rejetée] | R67 | Darija pour francophones | 2 | Traducteur Darija, darija.pro, Dialect, Build Baraka | [Dialect](https://www.mydi
+[rejetée] | R68 | Diversification alimentaire du bébé | 2 | App Cuisinez pour bébé, « Diversification bébé recettes » | [Cuisinez 
+[rejetée] | R69 | Conduite accompagnée | 1 et 2 | My ECF, 4,7/5 sur environ 4 200 notes ; Coach AAC | [App Store](https://apps.app
+[rejetée] | R70 | Sommeil du bébé | 2 | Napper, 4,9/5 sur environ 5 200 notes | [App Store](https://apps.apple.com/fr/app/napper-h
+[rejetée] | R71 | Fluence de lecture | 1 et 2 | Fluence (Hatier), Maître Charlemagne, calculateur facilecture, textes gratuits de 
+[rejetée] | R72 | Mémorisation de poésies | 1 | Outil gratuit d'outilspourlaclasse, Edukaido, Poemship, Répétir | [outilspourlacla
+[rejetée] | R73 | Écriture cursive | 2 | J'écris en cursive, 4,5/5 sur environ 670 notes ; Lescapadou ; Kaligo ; Ludigenie | [App 
+[rejetée] | R74 | Histoires du soir générées par IA | 2 | Skazka, Talu Story, Mes histoires du soir | [Skazka](https://skazka.ai/f
+[rejetée] | R75 | Suivi des injections de GLP-1 | 2 | Shotsy, 4,8/5 sur environ 33 000 notes ; Phaze ; Glapp ; MyTherapy | [Shotsy
+[rejetée] | R76 | Suivi de la ménopause | 2 | Omena, 4,8/5 sur environ 3 300 notes ; 1001 Ménopause ; Getmenotracker | [Omena](htt
+[rejetée] | R77 | Arrêt du porno | 1 et 2 | HoldX, Quitzilla, Resethive gratuit, QUITTR | [App Store](https://apps.apple.com/fr/ap
+[rejetée] | R78 | Verrouillage du téléphone par la prière | 2 | YouPray, 4,9/5 sur environ 4 500 notes ; Prayer Lock FR ; PrayFocu
+[rejetée] | R79 | Arrêt de la vape | 2 | Puff Count, 4,5/5 sur 168 notes ; Adieu Vape ; Vapeless | [App Store](https://apps.apple.
+[rejetée] | R80 | Rupture amoureuse et « no contact » | 1 et 2 | No Contact, 4,5/5 sur 372 notes ; No Contact AI en français ; com
+[rejetée] | R81 | Gestion de concours de pétanque | 2 | Pétanque Manager, Bouleo, Tournois Pétanque App, Visual Pétanque | [Pétanq
+[rejetée] | R82 | Entretien de piscine | 2 | Poolistry, Simple Pool, Pool-Dex, Poolfu, Clinipool, Poolskey | [Poolfu](https://pool
+[rejetée] | R83 | Carte de territoire de chasse | 2 | MesChasses, HuntGrid | [MesChasses](https://meschasses.com/features/cartogra
+[rejetée] | R84 | Suivi de ski | 2 | Slopes, 4,7/5 sur environ 4 900 notes ; Skitude ; Skill.ski | [App Store](https://apps.apple.
+[rejetée] | R85 | Chemins de Compostelle | 2 | Buen Camino (environ 17 600 avis), Camino app, CaminoGo, Via Compostela | [Play Sto
+[rejetée] | R86 | Déclaration de pêche de loisir en mer | 1 | RecFishing, app officielle et gratuite | [DIRM](https://www.dirm.mem
+[rejetée] | R87 | Pêche à pied (mailles et zones) | 1 | Carte interactive gratuite de pecheapied-responsable, ARS | [carte](https:
+[rejetée] | R88 | Apprentissage des partitions de chorale | 2 | ChoirMate, Choirzone, ressources de chorales | [ChoirMate](https:/
+[rejetée] | R89 | Passage de grades au judo | 1 et 2 | App Judo révision, Dojosystem, référentiel FFJudo gratuit | [Dojosystem](ht
+[rejetée] | R90 | Collection de capsules de champagne | 3 | Répertoires papier, projet open source | [répertoire](https://www.bour
+[rejetée] | R91 | Classement de tennis et padel | 1 | Ten'Up officiel, 4,6/5 sur environ 88 000 notes ; simulateurs de classement 
+[rejetée] | R92 | Carnet de tir sportif | 1 | carnetdetir.fr ; dématérialisation FFTir officielle | [carnetdetir](https://carnetde
+[rejetée] | R93 | Alertes TGV Max | 1 | Apps d'alerte TGVmax, bots open source | [fiche](https://allbestapps.fr/android/tgvmax-ale
+[rejetée] | R94 | Alertes de logement Crous | 1 et 2 | alertecrous, alerte-logement-crous, CrousAlerte, Telegram, outils open sour
+[rejetée] | R95 | Déchiffrement d'écritures anciennes (paléographie) | 1 | Transkribus (offre gratuite) | [Transkribus](https://ww
+[rejetée] | R96 | Tutelle familiale (comptes de gestion) | 1 et 2 | Tutello (ressource ANCT), Majelis, Proxima | [ANCT](https://le
+[rejetée] | R97 | Compteur des 120 nuits en location meublée | 1 | Outils gratuits de myhomeit, groume et 120jours.fr | [myhomeit]
+[rejetée] | R98 | Estimation d'antiquités par IA | 2 | Antique Value, apps « Identifier antiquité valeur » | [Antique Value](https
+[rejetée] | R99 | Journal de bruits de voisinage | 1 et 2 | Noise Log, NoiseProof, Noise Diary (Royaume-Uni) | [Noise Log](https:/
+[rejetée] ---
+[validée] M01 · Dossier de place : conformité et candidatures pour forains, cirques et structures itinérantes
+[validée] M02 · Hivernage : gestion des gardiennages de camping-cars, caravanes et bateaux
+[validée] M03 · Gazonnier : fiche tombe, abonnements et compte rendu photo pour l'entretien de sépultures
+[validée] M04 · Location d'instruments pour luthiers et magasins de musique
+[validée] M05 · Officiant : espace couple et proches, brouillon de cérémonie (validation fragile)
+[rejetée] Règles du brief : **r1** outil gratuit équivalent · **r2** au moins 3 acteurs français couvrant précisément la niche, sa
+[rejetée] | # | Idée (métier) | Règle | Ce qui sort (prix relevés) | Sources (domaines vus via Exa) |
+[rejetée] | 1 | Maréchal-ferrant (tournées, facturation) | r2 | SlyMaréchalerie 50 €/mois, Equimondo 19 €, Hippofact 9,90–74,90 €,
+[rejetée] | 2 | Pisciniste (modèle Skimmer) | r1 + r2 | Piscinis gratuit, Shifton gratuit, PoolCenter 49 €, Clorly, Terraxia, Inte
+[rejetée] | 3 | Ramoneur (certificats décret 2023-641) | r2 | Ramio 39 €, Ramonia 79 €, OpenFire 30 €/utilisateur, Valideo 0–25 €,
+[rejetée] | 4 | Vidangeur ANC (bordereaux de matières de vidange) | r2 | Okapia OS, AssainPro, Vidang'o, Facilitime | okapia-os.co
+[rejetée] | 5 | Taxidermiste | J | Pas d'outil FR, mais 130 à 150 professionnels seulement ; modèles américains Taxidermy Systems,
+[rejetée] | 6 | Accordeur de pianos | r2 | Gazelle (localisé en FR), Piano Service App (FR, gratuit), KeyRoute 20 $, Cantus 47,95 
+[rejetée] | 7 | Éleveur canin ou félin (registre, cessions) et pension | r1 + r2 | Webreed gratuit, Hunimalis, Affixe, Kookie Bree
+[rejetée] | 8 | Club de plongée (fiche de sécurité) | r1 + r2 | VPDive gratuit, DivePilot 39 €, Mabadive, 6temic, Supadive, Kanana
+[rejetée] | 9 | Mandataire judiciaire individuel (MJPM) | r2 | Filya, Majélis, Accel Gerancia dès 49 €, TutSpeed, Proxima 80–150 €
+[rejetée] | 10 | Tuteur familial | r1 + r2 | Tutello gratuit ou 12,90 €, Majélis Familial, Tutelle facile 30 €/an, Beny 5 € | tute
+[rejetée] | 11 | Organisateur de vide-greniers (registre) | r1 | Vidasso gratuit, Le Placier gratuit, Standly gratuit sous 30 expo
+[rejetée] | 12 | Coordonnateur SPS | r2 | Onatys Doc, GCSPS, Doksy | — |
+[rejetée] | 13 | Thanatopracteur | r2 | MyThanato, ThanaSoft, ThanatoKit 49 €, Thanaplan, LogiFunus | — |
+[rejetée] | 14 | Éleveur ovin ou caprin (registre d'élevage) | r2 | Troupeasy, Synel, Pilot'Élevage 8,25 €, Gismo, BAOBA, UBIQ | b
+[rejetée] | 15 | Registre des EPI antichute (cordistes, élagueurs) | r1 + r2 | GearTracker gratuit jusqu'à 100 EPI, Registre-EPI, 
+[rejetée] | 16 | Agent commercial multicartes | r2 | Concuerda, Kardinal, KepleR, AgentCom, SalesIro, Talos | — |
+[rejetée] | 17 | Ostréiculteur | r2 | Oyster Flow, OstraOS, Hubi, Edulis, Ostregest | — |
+[rejetée] | 18 | Club de tir | r2 | Cibléo, Dontshoot, Cerbère, Artemis, Narvik, MonClub | cibleo.app |
+[rejetée] | 19 | Laveur de vitres | r2 | NettoiVitre 19 €, TradeYoke, Khosmos, Contractor+ | nettoivitre.com |
+[rejetée] | 20 | Boulangerie (tournées, livraison aux pros) | r2 | CommandeKit, CERES, Cookee, Smart SELLER | — |
+[rejetée] | 21 | Manifestations sportives sur la voie publique | r1 | Téléservice d'État gratuit | declaration-manifestations.gouv
+[rejetée] | 22 | ACCA et piégeurs | r1 + r2 | Mes Chasses gratuit, Chasse Société moins de 3 €/chasseur/an, GestionChasse, E-FAUN,
+[rejetée] | 23 | Détective privé | r1 + r2 | B-r-i-e-f (plan gratuit, 30 agences), Onatys, CaseKrof, nQuest, TePublico | — |
+[rejetée] | 24 | Exposant de marchés de créateurs | r2 | jegeremesmarches.com 4,90 €, ComptArtisan, TousAuMarché, Événements Créat
+[rejetée] | 25 | Petits importateurs soumis au règlement EUDR | r2 | Konstata, TracaTerre, EUDRplot | — |
+[rejetée] | 26 | Bois de chauffage | r2 | Planisfaire, Apinfor, Holzplaner24 (FR), Amos | — |
+[rejetée] | 27 | Éleveur de volailles (biosécurité) | r2 | Gallinoo Pro, BAOBA, AvicPro, FarmManager, WeFeed | gallinoo.fr/pro |
+[rejetée] | 28 | Artificier (déclarations CERFA 14098) | r2 | PyroDesk 29,90 €, Artifeu 190 €, PlanFeu gratuit | pyrodesk.com |
+[rejetée] | 29 | Tatoueur (consentements, traçabilité) | r1 + r2 | KIPIK gratuit, Tattoomorrow, Skintrace, ConsentForm, Clic2Sign 
+[rejetée] | 30 | AMAP | r1 + r2 | AmapJ gratuit (485 AMAP), Camap 7 €/an, AMAPress, AmapFlow 9 €, MonAmap | — |
+[rejetée] | 31 | Microbrasserie (DRM, douanes) | r2 | Easybeer 19–99 €, BrewFactory, Grapify, Houblia (296 brasseries), AC LOG, Wa
+[rejetée] | 32 | Facturation en Nouvelle-Calédonie et Polynésie (XPF) | r2 | NeoCompta, VOX, Ma Gestion NC, NeoFact, EazyBill, Lan
+[rejetée] | 33 | Autorisation de voirie pour artisans (AOT) | r2 | autorisation-voirie.fr 9,90 €, Kylak, Multani | autorisation-vo
+[rejetée] | 34 | Foreur de puits | r1 | Outils du BRGM gratuits (GesFor, DiaLog, DUPLOS) | brgm.fr |
+[rejetée] | 35 | Commissaire enquêteur | r1 | registre-dematerialise.fr (payé par le porteur de projet), Publilégal, Grist OSP | r
+[rejetée] | 36 | Carnet sanitaire de piscine collective | r2 | Splashlog 99 €/an, Eauclara, My Pool Process, Aquatycia, AquaConfor
+[rejetée] | 37 | Harmonie, chorale | r2 | NoteStand, Sostenutoo, WePlayIn.Band, ZoppaBox, Maestro | — |
+[rejetée] | 38 | Guide de pêche, étang | r2 | Izidoor, Anolla, Activiteez, Fishing Booking, Catch Control | izidoor.io |
+[rejetée] | 39 | Pompes funèbres | r1 + r2 | MENTOR gratuit, Yama-Soft dès 30 €, LogiFunus, Simplifia (1 200 PF), logicielfunerair
+[rejetée] | 40 | Éleveur de NAC (registre) | r1 + r2 | ReptiNode gratuit, ZooExotic 1,50 €/animal/an, BDEND | — |
+[rejetée] | 41 | Ressourcerie | r2 | GDR, TFshop, Okapia | — |
+[rejetée] | 42 | Affouage (communes) | r1 | Grist (ANCT) gratuit, Berger-Levrault, JVS | — |
+[rejetée] | 43 | Dossier de sécurité d'une fête associative | r1 | demarche.numerique.gouv.fr gratuit, Guichetia | — |
+[rejetée] | 44 | Cordonnerie, retouche | r2 | Atch, Artizi, Trackin 19,99 €, SimpleCaisse, HoopoTrack, Hangers | — |
+[rejetée] | 45 | Bonus réparation QualiRépar | r2 | Reparea, AlloRepair, Reparly, Donaa, Mon Atelier, ZIQY | — |
+[rejetée] | 46 | Refuge pour animaux | r1 | Pawer gratuit, Vetly gratuit, Hygipet gratuit, Son Espace Refuge, Anigu | — |
+[rejetée] | 47 | Constat d'état d'œuvres d'art | r2 | ArtReport, Horus 70–130 €/an, ARTreport | — |
+[rejetée] | 48 | Food truck | r2 | Eno, Univents, FleetCast, Siouplaît, Nehos, Mon Food Truck, WikiFoodtruck | — |
+[rejetée] | 49 | Ostéopathe animalier | r1 + r2 | Animalib gratuit jusqu'à 20 clients, OsteoPattes (bêta gratuite), Stenko, Hunima
+[rejetée] | 50 | Livre de police (brocanteurs, antiquaires, dépôts-vente) | r2 | LivreDePolice.com 19,90 € HT, Registeo, BrocaReg,
+[rejetée] | 51 | Étalonnier, haras (saillies, juments en pension) | r1 + r2 | GlysOS gratuit, Horse Ledger, Equidéclic (Gynebase, 
+[rejetée] | 52 | Pareur bovin | r1 + r2 | Relevés de Prim'Holstein (gratuit pour les adhérents), Venotis Hoof Trimmer, Hoof Notes 
+[rejetée] | 53 | Atelier d'encadrement | r2 | Finkels, SimulArt (en français, 32,95 $/mois), Cube 43, TePublico, FramR | finkels.b
+[rejetée] | 54 | Télépilote de drone (carnet de vol, MANEX) | r2 | AltiNest, Synaptiik, Dronops, Dronline, Clearance, DroneControl
+[rejetée] | 55 | Dératisation (3D) | r2 | Organilog 3D 19 € HT, 3DPlus 49 € HT, Stann, Terraxia, Cadulis, XT-ERP | organilog-3d.co
+[rejetée] | 56 | Accueillant familial | r1 | CESU accueil familial (Urssaf) gratuit, qui produit le relevé mensuel | urssaf.fr |
+[rejetée] | 57 | Surveillance de résidences secondaires | r2 | HomyTrust, Verifio, TidyClean, Check Easy (FR) ; Pruvek, Dwellwatch
+[rejetée] | 58 | Moniteur de ski indépendant | r2 | AirSportPro 19,90 €, Book'Adventure, Yoplanning, Activiteez, Izidoor, Bloowatc
+[rejetée] | 59 | Pépiniériste (passeport phytosanitaire) | r2 | mycorhize, La Graine (FlowOne), FermeGestion 0–9,90 € | mycorhize.
+[rejetée] | 60 | Prestataire d'éco-pâturage | J + r2 partielle | Vigie-Pâturage (120 à 1 500 €), 19.87 (outil Notion à achat uniqu
+[rejetée] | 61 | Bateau-école | r2 | NauticAI, TePublico, Permolib 50–120 €, MonPermisPro | nauticai.fr, permolib.fr |
+[rejetée] | 62 | Photographe scolaire | r1 + r2 | Scolaire.photo 0 €/mois, Lumys 6 %, PixFirst 3 %, souvenirs-scolaire 3,5 %, Loup
+[rejetée] | 63 | Coiffeuse en EHPAD | J + r2 partielle | Familizz (commande et paiement par les familles), Gestio (coiffure à domi
+[rejetée] | 64 | Déneigement privé | r1 + r2 | Shifton gratuit, Terraxia, Planfix ; Plannit, Flokon, Horizon (Québec, en français)
+[rejetée] | 65 | Contrôle des disconnecteurs | r1 + r2 | Digisco (Watts), DiscoNet, Docolab, Shifton (gratuit pour 1 ou 2 vérifica
+[rejetée] | 66 | Dégraissage des hottes de cuisine professionnelle | J | Aucun outil dédié trouvé, mais le besoin (certificat, rap
+[rejetée] | 67 | Pension de chevaux (modèle Barn Manager, déjà S01 au fichier 04) | r1 + r2 | GlysOS gratuit, Equimondo 19 € HT, G
+[rejetée] | 68 | Courtier en vins de campagne | r2 | Bordereaux déjà échangés selon un protocole de place avec les ERP de négoce (
+[validée] W01 · Plan d'analyses et classeur contact alimentaire pour céramistes, avec analyses groupées
+[rejetée] Règles : 1 = équivalent gratuit ; 2 = au moins 3 acteurs français installés sans angle non servi ; 3 = pas de preuve de 
+[rejetée] ### Générateurs de textes et de cadeaux
+[rejetée] | ID | Idée | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | WR01 | Discours de mariage par IA | 1 + 2 | Payants : [Tirade](https://tirade.fr/), [DiscoursMariageIA](https://discou
+[rejetée] | WR02 | Éloge funèbre et discours de retraite par IA | 2 | [Tirade](https://tirade.fr/) (obsèques, retraite), [HidenGPT
+[rejetée] | WR03 | Transcription par IA d'actes anciens (paléographie) | 1 + 2 | [Atavia](https://atavia.fr/), [crédits Heredis](h
+[rejetée] | WR04 | Chanson personnalisée par IA | 2 | [GiftSong](https://www.giftsong.ai/fr), [Melodille](https://melodille.app/),
+[rejetée] | WR73 | Mots fléchés personnalisés en cadeau | 1 + 2 | Payants : [Zikof](https://zikof.com/mots-fleches/personnalise/an
+[rejetée] | WR54 | Miniatures YouTube par IA | 2 | [Klikk](https://useklikk.com/), [Braiv](https://www.braiv.co/fr/products/braiv-
+[rejetée] | WR55 | Appréciations de bulletin scolaire par IA | 1 + 2 | [BulletinsPro](https://bulletinspro.github.io/) (gratuit), 
+[rejetée] ### Conformité et étiquetage pour artisans
+[rejetée] | ID | Idée | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | WR06 | Étiquette CLP pour bougies | 1 + 2 | [Formacire](https://www.formacire.com/etiquette-clp), [Creacire](https://e
+[rejetée] | WR07 | Dossier RSGP (sécurité générale des produits) pour créateurs Etsy | 1 (limite) | [ConformStack](https://conform
+[rejetée] | WR08 | Étiquetage alimentaire INCO pour petits producteurs | 1 + 2 | [Foodlex](https://foodlex.app/fr), [OpenLabelMake
+[rejetée] | WR41 | Étiquette de composition textile | 1 | [BigAPI](https://bigapi.cc/fr/eu-seller/textile-label/) (gratuit), [Fibr
+[rejetée] | WR62 | Allergènes cosmétiques (règlement 2023/1545) | 1 | [CosReglo](https://www.cosreglo.fr/verificateur-inci) (vérif
+[rejetée] | WR72 | Dossier CE pour jouets artisanaux (doudous, bois) | 1 + 2 | [eurules.vedacta](https://eurules.vedacta.com/fr/to
+[rejetée] | WR76 | Friandises artisanales pour animaux (enregistrement et étiquette) | 3 (provisoire, 2 requêtes) | Démarche offic
+[rejetée] | WR77 | Pré-tests REACH groupés pour bijoux artisanaux | 1 / 2 | Le fournisseur [Perles&co](https://www.perlesandco.com
+[rejetée] | WR43 | Passeport phytosanitaire pour pépiniéristes | 3 | Obligations et dispenses officielles ([DRAAF Occitanie](https
+[rejetée] ### Vérificateurs et calculateurs pour particuliers
+[rejetée] | ID | Idée | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | WR09 | Vérification de la taxe foncière | 1 | [verifiermataxefonciere.com](https://verifiermataxefonciere.com/) (19 €)
+[rejetée] | WR10 | Régularisation des charges locatives | 1 + 2 | [VDIRC](https://vdirc.com/), [VerifCharges](https://verifcharges
+[rejetée] | WR11 | Bulletin de paie comparé à la convention collective | 1 + 2 | [PaieVerif](https://paieverif.fr/), [Paul](https:
+[rejetée] | WR75 | Vérification de devis d'artisan | 1 + 2 | [VigiDevis](https://vigidevis.com/), [ErreurTravaux](https://erreurtr
+[rejetée] | WR14 | Analyse des PV d'AG de copropriété avant achat | 2 | [VerifMonAchat](https://verifmonachat.fr/analyse-pv-ag/), 
+[rejetée] | WR17 | Faisabilité PLU et division parcellaire pour particuliers | 1 + 2 | [Karka](https://karka.fr/), [ParcellIA](htt
+[rejetée] | WR19 | Ensoleillement d'un logement | 1 | [Odaly](https://www.odaly.fr/simulateurs/exposition-ensoleillement/) (gratui
+[rejetée] | WR45 | Cote d'un mobil-home d'occasion | 1 | [Cote du Mobil-home](https://www.cotedumobilhome.com/page/calcul-cote-arg
+[rejetée] | WR59 | Obligation alimentaire envers un parent en EHPAD | 1 | Simulateurs départementaux gratuits, par exemple [Rhône]
+[rejetée] | WR66 | Compteur de nuits pour meublé de tourisme (plafonds 90 et 120 nuits) | 1 | [My Home IT](https://www.myhomeit.fr
+[rejetée] | WR67 | Déclaration fiscale d'un compte-titres étranger | 2 | [Gui Storm](https://guistorm.com/declaration), [FlashFisc
+[rejetée] | WR34 | Statut de quasi-résident à Genève | 1 | [lesfrontaliers.ch](https://www.lesfrontaliers.ch/outils/quasi-resident
+[rejetée] | WR35 | Pension alimentaire en Belgique (méthode Renard) | 1 | [pensionalimentaireonline.be](https://www.pensionaliment
+[rejetée] | WR56 | Barème de mutation des enseignants | 1 | [MutaProf](https://mutaprof.itineroo.fr/), [simulateur SNES](https://w
+[rejetée] | WR32 | Note de droits d'auteur pour artistes-auteurs | 1 | [Note de droits de la SGDL](https://www.sgdl.org/sgdl-accue
+[rejetée] ### Famille, foyer et vie associative
+[rejetée] | ID | Idée | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | WR05 | PV d'AG d'association ou de copropriété à partir de l'audio | 1 + 2 | [VexaScribe](https://vexascribe.com/fr/pr
+[rejetée] | WR12 | Planning de garde alternée et coparentalité | 1 + 2 | [lacoparentalite.fr](https://lacoparentalite.fr/), [Alter
+[rejetée] | WR13 | Patrons de couture sur mesure | 1 + 2 | [MPattern](https://www.mpattern.app/fr/patron-base-sur-mesure-gratuit) 
+[rejetée] | WR15 | Compte rendu de gestion de tutelle familiale | 1 + 2 | [Tutello](https://www.tutello.fr/), [Beny](https://beny.
+[rejetée] | WR16 | Logiciel de vide-grenier pour associations | 1 | [Vidasso](https://vidasso.fr/logiciel-vide-grenier) (gratuit),
+[rejetée] | WR30 | Maison de famille en indivision | 1 | [Cazmate](https://www.cazmate.com/indivision) (gratuit pour une maison), 
+[rejetée] | WR31 | Partage des meubles d'une succession | 1 + 2 | [Splitizy](https://splitizy.com/) (gratuit jusqu'à 30 objets) |
+[rejetée] | WR33 | Salarié CESU travaillant pour plusieurs employeurs | 1 + 2 | [Domilien](https://domilien.fr/plusieurs-employeur
+[rejetée] | WR46 | Accueil familial : relevé mensuel | 1 | [Service accueil familial de l'URSSAF](https://www.urssaf.fr/accueil/se
+[rejetée] | WR58 | Organisation d'une cousinade | 1 | [KiFaitKoi](https://kifaitkoi.fr/organiser-cousinade) (gratuit), [Cousinade.
+[rejetée] | WR61 | Demi-pension de cheval | 1 | [GaloPlan](https://galoplan.com/outils/contrat-demi-pension-cheval) (contrat gratu
+[rejetée] | WR42 | Voyager avec un animal (liste de formalités) | 1 | [Pawhopper](https://pawhopper.com/), [SuiviCanin](https://su
+[rejetée] | WR74 | Dossier de sécurité d'une manifestation associative | 1 + 3 (1 requête) | Formulaires gratuits des préfectures 
+[rejetée] | WR50 | Gestion d'une troupe de théâtre amateur | 1 | [MyTroupe](https://mytroupe.com/) et [Theatralement](https://www.
+[rejetée] | WR49 | Fichiers de travail pour chorales | 2 | [Chorilo](https://www.chorilo.com/fr/stimmtrainer), [ScoreLabs](https:/
+[rejetée] | WR47 | Gestion d'une société de chasse | 2 | [Chasse Société](https://www.chasse-societe.fr/), [Mes Chasses](https://m
+[rejetée] | WR48 | Concours de pétanque | 2 | [Bouléo](https://bouleo.fr/gestion-concours-petanque), [Petanque Manager](https://ww
+[rejetée] | WR60 | Club d'investissement | 2 | [Fiducy](https://fiducy.app/clubs) (BRVM), [TransFolio](https://investabc.be/produc
+[rejetée] ### Métiers indépendants
+[rejetée] | ID | Idée | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | WR27 | Consentement et traçabilité pour tatoueurs | 2 | [ConsentForm](https://consentform.fr/logiciel-tatoueur), [Inko
+[rejetée] | WR28 | Manuel d'exploitation (MANEX) pour exploitant de drone | 1 + 2 | [MANEXPRO](https://manexpro.fr/), [modèle grat
+[rejetée] | WR29 | Registres d'élevage canin | 2 | [Son Espace Éleveur](https://sonespacesante.com/eleveur.html), [Affixe](https:/
+[rejetée] | WR39 | Déclarations d'accises (DRM) pour brasseries | 1 + 2 | [Easybeer](https://www.easybeer.fr/), [Houblia](https://
+[rejetée] | WR40 | Livre de police pour bijoutiers | 2 (limite) | [Registeo](https://registeo.fr/logiciel-livre-de-police-bijoutie
+[rejetée] | WR51 | Fiche de sécurité du directeur de plongée | 1 + 2 | [DivePilot](https://app.dive-pilot.com/), [Mabadive](https:
+[rejetée] | WR52 | Logiciel pour maison d'assistantes maternelles (MAM) | 2 | [Pandi Panda](https://www.pandi-panda.fr/logiciel-ma
+[rejetée] | WR53 | Gestion des collaborations d'influenceurs | 2 | [Reech SocialVox](https://www.socialvox.com/fr/), [KinFlux](htt
+[rejetée] | WR71 | Logiciel pour DJ de mariage (questionnaire, déroulé) | 2 | [IBDA](https://ibda.fr/logiciel-dj), [Lysalie](https
+[rejetée] | WR25 | Fiche technique et plan de scène pour groupes | 1 | [Sostenutoo](https://sostenutoo.com/public/stage-plan-band)
+[rejetée] | WR26 | Mise en page de livre KDP avec typographie française | 1 + 2 | [PagePerfect](https://pageperfect.studio/), [Fol
+[rejetée] | WR18 | Alertes permis de construire pour artisans | 2 | [PermisWatch](https://permiswatch.fr/), [RegistreDesPermis](ht
+[rejetée] | WR57 | Copropriété autogérée au Québec (Loi 16) | 2 | [CondoAide](https://condoaide.ca/), [CondoPilote](https://condop
+[rejetée] | WR36 | Facture normalisée électronique (FNE) en Côte d'Ivoire | 2 | [FENEK](https://fenek-ci.com/), [Madata](https://m
+[rejetée] ### Extensions de navigateur et alertes
+[rejetée] | ID | Idée | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | WR20 | Extensions Vinted (republication, CRM) | 2, plus risque lié aux conditions d'utilisation | [Dotb](https://dotb.
+[rejetée] | WR21 | Historique des prix immobiliers sur Leboncoin | 1 | [Castorus](https://www.castorus.com/), [LyBox](https://www.
+[rejetée] | WR22 | Cote automobile sur Leboncoin | 1 + 2 | [AutoStrix](https://autostrix.fr/fonctionnalites/analyse-marche-lebonco
+[rejetée] | WR23 | Extensions Pronote et École Directe | 1 | [Moyenne Directe](https://chromewebstore.google.com/detail/moyenne-di
+[rejetée] | WR37 | Alertes de places TGV Max | 1 + 2 | [MaxZero](https://maxzero.fr/), [TrainauMax](https://trainaumax.fr/) (gratu
+[rejetée] | WR38 | Alertes de créneau Doctolib | 1, plus risque lié aux conditions d'utilisation | [Liste d'attente Doctolib](http
+[rejetée] | WR63 | Alertes de logement CROUS | 1 | [AlerteCrous](https://alertecrous.com/), [TrouveTonLogementCrous](https://www.t
+[rejetée] | WR64 | Alertes de places d'examen du permis | 1 + 2 | [GoPermisBot](https://www.gopermisbot.fr/), [Conduo](https://con
+[rejetée] | WR65 | Alertes de places en refuge (GR20, Tour du Mont-Blanc) | 1 + 2 | [RefugeAlert](https://refugealert.com/fr), [Hu
+[rejetée] ### Examens et préparation
+[rejetée] | ID | Idée | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | WR24 | Préparation au TCF IRN | 2 | [LeTCF](https://letcf.fr/tarifs), [PrepMyFuture](https://www.prepmyfuture.com/page
+[rejetée] | WR68 | QCM du permis de chasser | 1 | [Chassexam](https://www.chasseurdefrance.com/actualites/62038/), application off
+[rejetée] | WR69 | QCM de l'ACACED (animaux de compagnie) | 1 | [acaced-facile](https://acaced-facile.fr/), [quiz-acaced](https://
+[rejetée] | WR70 | Oral de concours avec jury IA | 2 | [JuryAI](https://www.juryai.app/), [JuryUp](https://juryup.fr/), [Réussir T
+[rejetée] Ces motifs sont à confirmer avant toute reprise.
+[rejetée] | ID | Idée | Motif |
+[rejetée] | --- | --- | --- |
+[rejetée] | WR44 | Lecture du cahier des charges d'un lotissement | 4 (interpréter un contrat privé relève du conseil juridique). 
+[rejetée] | WR78 | Quittances de loyer | 1 (générateurs gratuits très répandus) |
+[rejetée] | WR79 | Attestations sur l'honneur | 1 (modèles officiels gratuits) |
+[rejetée] | WR80 | Faire-part | 2 (marché d'imprimeurs en ligne installés) |
+[rejetée] | WR81 | Frais de notaire | 1 (simulateurs gratuits des notaires et des banques) |
+[rejetée] | WR82 | Pension alimentaire en France | 1 (barème officiel gratuit du ministère de la Justice) |
+[rejetée] | WR83 | Indemnités kilométriques | 1 (barème fiscal officiel) |
+[rejetée] | WR84 | Droits des intermittents du spectacle | 1, et recoupe B3 (simulateurs ARE) |
+[rejetée] | WR85 | Traduction de documents administratifs | 1 (traduction automatique gratuite). La traduction assermentée est déj
+[rejetée] | WR86 | Plan de table de mariage | Doublon de E25 |
+[rejetée] Neuf de ces rejets n'ont eu aucune requête. WR44 s'appuie seulement sur les requêtes PLU de WR17.
+[validée] I01 · Ramassage des déjections canines au jardin, par abonnement, dans les zones sans opérateur
+[validée] I02 · Nettoyage et révision de barbecues à domicile, toutes marques (gaz, kamado, plancha)
+[validée] I03 · Illuminations de Noël posées chez les particuliers, clé en main, matériel en location
+[validée] I04 · Sécurisation de la maison pour bébé : diagnostic et pose à domicile
+[rejetée] Règles :
+[rejetée] - 1 (R1) : un équivalent gratuit couvre le même besoin au même niveau ;
+[rejetée] - 2 (R2) : un spécialiste est installé sur la niche et la zone, sans faiblesse exploitable ;
+[rejetée] - 3 : pas de preuve de paiement ;
+[rejetée] - 4 : statut réglementé ou interdiction, y compris le filtre F3 (zone grise RGPD) ;
+[rejetée] - 5 : coût d'entrée supérieur à 200 € ;
+[rejetée] - R6 : ticket trop faible ;
+[rejetée] - R7 : interdiction par les CGU.
+[rejetée] « Modèle » indique la source étrangère.
+[rejetée] ### Micro-SaaS métiers
+[rejetée] | ID | Idée (modèle) | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | IR01 | Logiciel pour piscinistes (Skimmer, États-Unis, [Latka](https://getlatka.com/companies/getskimmer.com)) | 1 + 2
+[rejetée] | IR02 | Logiciel de brasserie artisanale (Ekos, États-Unis, [Latka](https://getlatka.com/companies/ekos) ; Breww, Royau
+[rejetée] | IR03 | Logiciel de pension canine (Gingr, États-Unis, [historique](https://www.gingrapp.com/our-history)) | 2 | [PetsP
+[rejetée] | IR04 | Logiciel de maréchal-ferrant (Equinet, Royaume-Uni) | 2 | [Hippofact](https://hippofact.com/), [Equimondo](http
+[rejetée] | IR05 | Consentement et traçabilité pour tatoueurs | 2 | [InkonSent](https://inkonsent.com/), [ConsentForm](https://con
+[rejetée] | IR06 | Gestion d'ACCA et de sociétés de chasse | 2 | [Chasse Société](https://www.chasse-societe.fr/), [GestionChasse]
+[rejetée] | IR07 | Logiciel d'organisateur de brocantes (Marketspread, États-Unis) | 1 + 2 | [Vidasso](https://vidasso.fr/) (gratu
+[rejetée] | IR08 | Logiciel de vidangeur d'assainissement non collectif (ServiceCore, États-Unis) | 2 + 1 partiel | [Okapia OS](ht
+[rejetée] | IR09 | Logiciel de dépannage-remorquage (Towbook, États-Unis) | 2 | [TowSoft EU](https://towsoft.eu/), [RemorqSigne](h
+[rejetée] | IR10 | Photographie scolaire en ligne (GotPhoto, Allemagne) | 2 | [Souvenirs scolaires](https://souvenirs-scolaire.pho
+[rejetée] | IR11 | Leads issus des permis de construire (Shovels, États-Unis) | 2 | [PermisWatch](https://permiswatch.fr/), [Filon
+[rejetée] | IR12 | Agrégateur de remplacements de soignants (Caça Plantão, Brésil) | 2 | [Infizen](https://infizen.fr/), [App'Ines
+[rejetée] | IR13 | Fleurs et avis d'obsèques en ligne pour pompes funèbres (Tukios et Parting Pro, États-Unis, [Founderpath](https
+[rejetée] | IR14 | REP et GPSR clé en main pour vendeurs en ligne (Lizenzero, Allemagne, [site](https://www.lizenzero.de/)) | 1 + 
+[rejetée] ### Outils et contenus grand public
+[rejetée] | ID | Idée (modèle) | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | IR15 | Alertes de désistement en camping et en refuge (Campnab, Canada, [3 millions d'alertes](https://campnab.com/blo
+[rejetée] | IR16 | Alertes de places d'examen du permis (Testi, Royaume-Uni, [AppstoreSpy](https://appstorespy.com/android-google-
+[rejetée] | IR17 | Régularisation des charges pour bailleurs (Vermieter1, Allemagne, [TrustMRR](https://trustmrr.com/startup/vermi
+[rejetée] | IR18 | Contestation des charges par le locataire (Mineko, Allemagne) | 1 + 2 | [VerifCharges](https://verifcharges.fr/
+[rejetée] | IR19 | Contestation de la taxe foncière (Ownwell, États-Unis) | 1 + 2 | [Rembly](https://app.rembly.fr/individual/gene
+[rejetée] | IR20 | Carte de sectorisation scolaire autour d'une adresse (Locrating, Royaume-Uni, [tarifs](https://www.locrating.co
+[rejetée] | IR21 | Veille sur le permis de louer par commune | 1 | [Observatoire Locaclear](https://locaclear.fr/observatoire/), [
+[rejetée] | IR22 | Livre de souvenirs par questions hebdomadaires (StoryWorth, États-Unis, [site](https://storyworth.com/?r=0)) | 
+[rejetée] | IR23 | Chanson personnalisée (personalisierter-song.de, Allemagne) | 2 | [Melozia](https://melozia.fr/), [Melodya](htt
+[rejetée] | IR24 | Partage des photos d'invités par QR code au mariage | 1 + 2 | [Medley](https://medley.photos/fr) et [BumFot](ht
+[rejetée] | IR25 | Préparation au TCF IRN et à la naturalisation | 2 | [LeTCF](https://letcf.fr/), [tcf-irn-france](https://tcf-ir
+[rejetée] | IR26 | Location de jardins privés pour chiens (Sniffspot, États-Unis) | 2 | [Unleaz](https://unleaz.fr/), [Dog Aventur
+[rejetée] | IR27 | Chasse au trésor urbaine sur smartphone (Let's Roam, États-Unis, [Grips](https://gripsintelligence.com/insights
+[rejetée] | IR28 | Place de marché de ressources pédagogiques (Teachers Pay Teachers, États-Unis) | 2 | [La salle des maîtres](htt
+[rejetée] | IR29 | QCM d'entraînement au BNSSA | 1 | [QCM FFSS](https://qcm.ffss.fr/) (gratuit), [nageur-sauveteur.com](https://ww
+[rejetée] | IR30 | Préparation à la capacité de transport | 1 + 2 | [EFCT](https://efct.fr/ressources-gratuites-capacite-de-transp
+[rejetée] | IR31 | Application de révision du permis de chasser | 1 | [Chassexam](https://www.chasseurdefrance.com/actualites/6203
+[rejetée] | IR32 | Préparation à l'examen de télépilote de drone | 1 + 2 | [drone-exam](https://drone-exam.fr/), [Minutedrone](htt
+[rejetée] | IR33 | Accompagnement des dossiers RAEP pour les concours | 2 | [dossier-raep.fr](https://dossier-raep.fr/), [Coaching
+[rejetée] | IR34 | Sélection de maisons anciennes à petit prix (Cheap Old Houses, États-Unis) | 2 | [De Pierre en Pierre](https://
+[rejetée] | IR35 | Recherche sur l'histoire d'une maison (house history, Royaume-Uni) | 1 + 2 | Guides gratuits des archives ([Loi
+[rejetée] | IR36 | Traceur GPS et récupération de vélos électriques volés (BackPedal, Royaume-Uni, [TechCrunch](https://techcrunch
+[rejetée] | IR37 | Identification ADN des déjections canines (PooPrints, États-Unis) | 2 + 4 | [Animagène](https://www.animagene.f
+[rejetée] ### Services locaux
+[rejetée] | ID | Idée (modèle) | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | IR38 | Nettoyage de poubelles à domicile (bin cleaning, États-Unis) | 2 | [LavagePoubelle](https://lavagepoubelle.fr/)
+[rejetée] | IR39 | Nettoyage de four à domicile (Ovenu, Royaume-Uni) | 2 + 3 | [Monster Cleaning](https://monstercleaning.com/fr/n
+[rejetée] | IR40 | Traitement anti-poux en centre ou à domicile (Lice Clinics, États-Unis) | 2 | [Institut Anti-Poux](https://inst
+[rejetée] | IR41 | Organisation de ventes de succession, ou vide-maison (estate sales, États-Unis) | 2 | [Family Affaires](https:/
+[rejetée] | IR42 | Location de caisses de déménagement réutilisables (Frogbox, Bungo Box) | 2 + 5 | [Stapers](https://stapers.fr/)
+[rejetée] | IR43 | Installation et mise en service de robots tondeuses | 2 | [Robot Courtois](https://robotcourtois.com/nos-servic
+[rejetée] | IR44 | Nettoyage de sièges auto et de poussettes | 2 | [Wipe City](https://wipecity.fr/nettoyage-vapeur-equipements-be
+[rejetée] | IR45 | Pique-niques de luxe clé en main | 2 | [Délices en Plein Air](https://delices-en-plein-air.fr/), [J2L](https://
+[rejetée] | IR46 | Contrats d'entretien de spas | 2 | [CenterSpas](https://www.centerspas.com/index.php/centerspas/services/contra
+[rejetée] | IR47 | Soirées pyjama sous tipis | 2 | [Happy Day](https://www.happy-day-evenements.fr/prestations/anniversaire-enfant
+[rejetée] | IR48 | Nettoyage de VMC chez les particuliers | 2 | [Cleany Clim](https://cleanyclim.fr/nettoyage-vmc.html), [Plamby](
+[rejetée] | IR49 | Détective pour animaux perdus (pet detective, États-Unis) | 1 + 4 | [RecherchePet](https://recherchepet.fr/), [
+[rejetée] | IR50 | Affûtage de couteaux par courrier | 2 | [Couteau qui coupe](https://www.faitesvousconnaitre.com/sites/boutiques
+[rejetée] | IR51 | Entretien d'aquariums à domicile | 2 | [Aquarium Location Services](https://www.aquariumlocationservices.fr/cre
+[rejetée] | IR52 | Pose de filets de protection pour chats | 2 | [Mon Chat mon Amour](https://monchatmonamour.fr/), [Climbing Cat]
+[rejetée] | IR53 | Surveillance de résidences secondaires | 2 | [Le Rosebif](https://lerosebif.fr/services/vigilance), [Holaowners
+[rejetée] | IR54 | Location de matériel bébé pour voyageurs (BabyQuip, États-Unis) | 2 | [BabyQuip en France](https://www.babyquip
+[rejetée] | IR55 | Nettoyage et fleurissement de tombes à distance (ohaka, Japon) | 2 | [Eternelis](https://eternelis.com/), [Nett
+[rejetée] | IR56 | Réservation de food trucks et de bars mobiles pour événements | 2 | [Ideal Food Truck](https://idealfoodtruck.f
+[rejetée] | ID | Idée (modèle) | Motif | Preuves |
+[rejetée] | --- | --- | --- | --- |
+[rejetée] | IR57 | Photos imprimées et lettres pour proches détenus, envoyées depuis un téléphone (Pigeonly, Flikshop, Pelipost, É
+[rejetée] | IR58 | Panneaux de vœux plantés dans le jardin du fêté (yard greetings, États-Unis) | 2 + 3 | Seules des projections d
+[rejetée] | IR59 | Montage et hivernage de piscines tubulaires hors-sol | 3 | Aucun service payant dédié ni modèle étranger avec r
+[validée] Y01 · Pressoirs, huileries et moulins à façon : annuaire national avec dates de saison, réservation et groupage des peti
+[validée] Y02 · Veille B2B des campagnes de ravalement obligatoire et des immeubles sous injonction, pour façadiers et maîtres d'œ
+[validée] Y03 · Veille des arrêtés de mise en sécurité (ex-péril) pour bureaux d'études structure et entreprises d'étaiement (frag
+[validée] Y04 · Aides « jardin et eau » de ma commune : récupérateur d'eau, broyeur, composteur, tonte mulching, poulailler
+[rejetée] Règles : R1 gratuit équivalent, R2 au moins 3 acteurs installés sans angle non servi, R3 pas de preuve de
+[rejetée] demande, R4 statut réglementé ou interdiction, R5 coût d'entrée supérieur à 200 €. « Vérifié » = recherche
+[rejetée] Exa faite dans cette session.
+[rejetée] | # | Idée | Règle | Concurrents ou motif (preuves) | Vérif. |
+[rejetée] | --- | --- | --- | --- | --- |
+[rejetée] | 1 | Flux SIRENE et BODACC des ouvertures de cafés, hôtels et restaurants | R2 | [Radar Entreprises](https://radar-entr
+[rejetée] | 2 | Vétérinaires de garde (Clermont-Ferrand, Limoges) | R1, R2 | 3115 / urgences-veterinaires.fr, [veterinaire-de-gard
+[rejetée] | 3 | Écoles hors contrat et Montessori (Dijon) | R2 | [lesdecliques.com](https://lesdecliques.com/ecoles-montessori/dij
+[rejetée] | 4 | Encadrement des loyers (vérificateur et réclamation) | R1, R2 | simulateurs officiels ([Toodego Lyon](https://dema
+[rejetée] | 5 | Marchés de Noël | R2 | [marches-de-noel.fr](https://marches-de-noel.fr/), [marchenoel.org](https://marchenoel.org/
+[rejetée] | 6 | Restrictions d'eau (sécheresse) | R1 | [VigiEau](https://vigieau.gouv.fr/) officiel, avec alertes par email | véri
+[rejetée] | 7 | Prix du fioul et achats groupés | R2 | [POEMOP](https://poemop.fr/achats_groupes_fioul.php), Fioulreduc, prixfioul
+[rejetée] | 8 | État des cols de montagne | R1, R2 | [cols-en-direct.fr](https://cols-en-direct.fr/) (182 cols), inforoutes départ
+[rejetée] | 9 | Location de ski en affiliation | R2 | skislocation, Alpy, Snowrental (Kwanko), Skiset, Skimium, Intersport Rent | 
+[rejetée] | 10 | Pêche à la carpe (comparatifs en affiliation) | R2 | urban-fishing, peche-assistant, canne-a-peche.net, cap-peche
+[rejetée] | 11 | Terminal de paiement (affiliation SumUp) | R2 | batemark, microfute, jemelance, laboutiquedalexis, tool-advisor |
+[rejetée] | 12 | Emailing pour associations (affiliation Brevo) | R2 | La Fabrique du Net, [Hopus](https://hopus.co/blog/logiciel-
+[rejetée] | 13 | Primes vélo en Belgique | R1 | [liste officielle Wallonie](https://mobilite.wallonie.be/home/politiques-de-mobili
+[rejetée] | 14 | Étangs de pêche et carpodromes | R2 | [GoCarp](https://gocarp.com/), peche-assistant (43 carpodromes), [carpiste.
+[rejetée] | 15 | Lâchers de truites | R1 | [coindepeche.fr](https://www.coindepeche.fr/lacher-truite-2026) (calendrier 2026), fédé
+[rejetée] | 16 | Pensions pour chevaux | R2 | mon-ecurie.fr, equirider (2 065 pensions), terre-equestre, [equin.ogalo.fr](https://
+[rejetée] | 17 | Concours de belote | R2 | [concours-belote.org](https://www.concours-belote.org/), concoursdebelote.com, 123belot
+[rejetée] | 18 | Lotos | R2 | 123loto, [lotoscan](https://lotoscan.fr/lotos), agendaducoin, agendoo, agenda-loto.net, annuaire-lot
+[rejetée] | 19 | Syndics bénévoles (RNIC) pour la prospection des syndics professionnels | R2 | [annuairedescoproprietes.fr](https
+[rejetée] | 20 | Nouveaux organismes de formation (NDA) | R1, R2 | [liste publique des OF](https://dgefp.opendatasoft.com/explore/
+[rejetée] | 21 | Nouvelles associations (JOAFE) | R2 | [acteur Apify JOAFE](https://apify.com/corent1robert/joafe-associations-scr
+[rejetée] | 22 | Nouvelles installations de soignants (RPPS) | R1, R3 | données gratuites ([Woxup sur data.gouv](https://www.data.
+[rejetée] | 23 | Marchés de créateurs (appels à exposants) | R2 | [createurices.fr](https://createurices.fr/candidatures/), [evene
+[rejetée] | 24 | Emplacements de food truck (appels des mairies) | R2 | [WikiFoodtruck](https://wikifoodtruck.fr/appels-food-truck
+[rejetée] | 25 | Gardiennage de camping-cars et caravanes | R2 | [MonHangar](https://monhangar.fr/prix-hivernage-camping-car/), [g
+[rejetée] | 26 | Distillation, bouilleurs de cru | R3 | seules les communes publient les dates ; pas de payeur ; régime douanier |
+[rejetée] | 27 | Accordeurs de piano | R2 | pianoweb, pianobook, [annuaire-musique.fr](https://www.annuaire-musique.fr/prix-accord
+[rejetée] | 28 | Déménagement de piano | R2 | [ledemenageur.com](https://ledemenageur.com/devis-demenagement-piano.html), devisdem
+[rejetée] | 29 | Calculateur électrique pour van aménagé | R1 | [vanpowercalc](https://vanpowercalc.com/fr) (gratuit), azimut-ai, 
+[rejetée] | 30 | Aides aux couches lavables | R1, R2 | [mabouledecouches](https://mabouledecouches.fr/pages/carte-des-subventions-
+[rejetée] | 31 | Permis de louer | R2 | [Locaclear](https://locaclear.fr/observatoire/) (observatoire de 850 communes), icitoo, vé
+[rejetée] | 32 | Désistements en refuge de montagne | R2 | [RefugeAlert](https://refugealert.com/fr) (GR20, 15 €), [TMB Alerts](ht
+[rejetée] | 33 | Coupures d'eau en Guadeloupe | R1, R3 | SMGEAG officiel, appli Dlo, [dloannou](https://dloannou.com/tours-deau/) 
+[rejetée] | 34 | Bourses d'échanges auto et moto | R2 | [agenda-automobile.com](https://www.agenda-automobile.com/category_eveneme
+[rejetée] | 35 | Vente de bois sur pied | R1, R2 | [CNPF](https://www.cnpf.fr/gestion-durable-des-forets/multifonctionnalite/vente
+[rejetée] | 36 | Calculateur de saponification | R1 | [soapformulator](https://soapformulator.com/fr/lye-calculator) (gratuit), al
+[rejetée] | 37 | Aides aux devantures commerciales | R1 | aides-entreprises.fr (CMA, officiel et gratuit) | vérifié |
+[rejetée] | 38 | Tonte de moutons | R1, R3 | [annuaire de l'Association des tondeurs](https://tondeursdemoutons.fr/annuaire-pro/) 
+[rejetée] | 39 | Entretien de tombes | R2 | [nettoyagetombe.com](https://nettoyagetombe.com/), En Sa Mémoire, Souvenir Fleuri, Req
+[rejetée] | 40 | Gérance de commerces communaux | R1 | [SOS Villages](https://sosvillages.tf1info.fr/annonces/nouvelle-aquitaine/2
+[rejetée] | 41 | Successions vacantes et ventes du Domaine | R1 | [biens-aux-encheres.fr](https://biens-aux-encheres.fr/) (alertes
+[rejetée] | 42 | Veille des délibérations municipales | R2 | [Délib](https://delib.pro/offre-de-services/) (95 €/mois), Skult, [Sp
+[rejetée] | 43 | Réglementation des meublés de tourisme par commune | R2 | [Locaclear](https://locaclear.fr/changements/) (changem
+[rejetée] | 44 | Scieries mobiles (annuaire et devis) | R2 | [guide-forestier.com](https://www.guide-forestier.com/scieries/) (par
+[rejetée] | 45 | Calendrier des trails | R2 | [Betrail](https://www.betrail.run/calendar/france), [CourseProche](https://coursepro
+[rejetée] | 46 | Tournois et terrains de padel | R1, R2 | [Ten'Up](https://tenup.fft.fr/recherche/tournois) (FFT, officiel), [Tend
+[rejetée] | 47 | Alerte CatNat sécheresse et mise en relation avec des experts | R2 | [mafissure.com](https://mafissure.com/guides
+[rejetée] | 48 | Communes qui recrutent des médecins | R2 | [SantéLocal](https://santelocal.fr/), [OùSoigner](https://www.ousoigne
+[rejetée] | 49 | Débroussaillement obligatoire (OLD) | R1, R2 | outil officiel ([service-public](https://www.service-public.gouv.f
+[rejetée] | 50 | Liste des moulins à huile d'olive (version simple, sans dates ni réservation) | R1 | [livret AFIDOL](https://huil
+[rejetée] | 51 | Vide-greniers | R2 | rejet R17 du fichier 05 ; pas de nouvelle requête | non revérifié |
+[rejetée] | 52 | Affiliation Thomann (pianos et instruments) | R2 | seuil d'activité de 500 visites/jour noté au fichier 03 ; comp
+[rejetée] ---
+[catalogue initial] | A1 | **Assainissement non collectif** : réhabilitation, micro-station, vidange | Installateurs, vidangeurs : 30–40 € p
+[catalogue initial] | A2 | **Ramonage / tubage / entretien de poêle** | Ramoneurs : 25 € + fidélisation annuelle | **Automne (maintenant)** 
+[catalogue initial] | A3 | **Élagage / abattage / dessouchage** | Élagueurs : 25–30 / 75 € | Automne-hiver (maintenant) | 38 | ✅ | Artisans 
+[catalogue initial] | A4 | **Débroussaillement OLD** (13, 83, 06, 84, 30, 34, 40, 33, 2A/2B) | Paysagistes : 25 / 75 € | Mars–juin | 40 | ✅ 
+[catalogue initial] | A5 | **Frelons asiatiques** : destruction de nids + pièges sélectifs | Désinsectiseurs : 10–25 € ; affiliation pièges 
+[catalogue initial] | A6 | Désamiantage avant travaux | 25 / 75 € | Toute l'année | 33 | 🟡 | Repérage obligatoire, très peu de concurrents |
+[catalogue initial] | A7 | Punaises de lit / dératisation (Paris, Lyon, Marseille) | 30–60 € (estimation) | Toute l'année | 33 | 🟡 | Urgence
+[catalogue initial] | A8 | Clôture / portail / motorisation | 25 / 75 € | Printemps | 32 | 🟡 | Peu travaillé par les généralistes |
+
+[catalogue initial] | A9 | Borne de recharge en copropriété | 25–45 / 75 € | Toute l'année | 31 | ⏸ | Croissance, mais cycles de copropriété
+[catalogue initial] | A10 | Débarras de maison / succession | 15–30 € + B2B notaires | Toute l'année | 34 | 🟡 | Peu d'acteurs structurés ; p
+[catalogue initial] | A11 | Rénovation de piscine (Sud) | 25–30 / 75 € | Février–mai | 31 | ⏸ | Saisonnier et concurrentiel |
+
+[catalogue initial] | A12 | Récupération d'eau de pluie | 25 € (estimation) | Printemps-été | 29 | ⏸ | Volume faible |
+
+[catalogue initial] | A13 | Déménagement senior / entreprise | 14–25 € | Toute l'année | 30 | ⏸ | Marges basses |
+
+[catalogue initial] | A14 | PAC, solaire, isolation, rénovation énergétique | – | – | – | ❌ | F3 : démarchage interdit, fraude, aides instab
+[catalogue initial] | A15 | Serrurier / débouchage d'urgence | – | – | – | ❌ | F5 : réseaux d'arnaques qui dominent le SEO, risque d'image |
+[catalogue initial] | A16 | Mutuelle, assurance emprunteur, crédit | – | – | – | ❌ | F3 + F5 : ORIAS, comparateurs dominants |
+
+[catalogue initial] | A17 | CPF / formation financée | – | – | – | ❌ | F3 : prospection interdite sur tous les canaux |
+
+[catalogue initial] | B1 | **Facturation électronique pour TPE et auto-entrepreneurs** : choisir sa plateforme agréée, guide par métier, sim
+[catalogue initial] | B2 | **Logiciel de devis-facture par métier** (plaquiste, couvreur, paysagiste, ramoneur, VTC, coiffeur…) | Direct (Ob
+[catalogue initial] | B3 | **Simulateurs réglementaires** : indemnité de rupture conventionnelle par convention collective, préavis, ARE | A
+[catalogue initial] | B4 | Pièges et équipement frelons, moustique tigre, canicule par département | Amazon, ManoMano, Leroy Merlin (Awin) +
+[catalogue initial] | B5 | Téléassistance et produits seniors | Contrats directs, leads | 32 | 🟡 | Panier récurrent, crédit d'impôt de 50 %,
+[catalogue initial] | B6 | Logiciels pour professions de santé non médicales (kiné, ostéo, orthophoniste, sophrologue) | Direct, PartnerStac
+[catalogue initial] | B7 | Comparateurs pour Belgique, Suisse, Québec (copier un modèle FR qui marche) | Daisycon (BE), réseaux locaux | 30 
+[catalogue initial] | B8 | VPN, banques, box, énergie, assurance auto | – | – | ❌ | F5 : saturés (Selectra, JeChange, LeLynx…) |
+
+[catalogue initial] | C1 | **Check-in quotidien pour personne seule ou parent âgé** (SMS ou appel, alerte aux proches) | 4,90 €/mois ou 49 €
+[catalogue initial] | C2 | **Convertisseur de documents FR** : relevés bancaires, bulletins de paie → Excel / FEC | 9–29 €/mois, comptables 
+[catalogue initial] | C3 | Générateurs de lettres verticales : dépôt de garantie, contestation PV, CAF, résiliation | 4,90–19 € par lettre +
+[catalogue initial] | C4 | Binômes d'activité locaux (« dazi ») | Abonnement 6,90 €/mois | 27 | ⏸ | Effet réseau, modération, risque sécurit
+[catalogue initial] | C5 | Carnet papier + app compagnon (chien, potager) | Carnet 19–25 € + app | 28 | ⏸ | Logistique, faible barrière |
+
+[catalogue initial] | C6 | Rachat d'un micro-SaaS US sur Acquire et francisation | Selon l'actif | 30 | ⏸ | Capital nécessaire (≥ 10 k€) |
+
+[catalogue initial] | D1 | **Annuaire national de la cueillette et de la vente à la ferme** (ville × fruit × saison) | Fiche premium ferme 9
+[catalogue initial] | D2 | Annuaire des organismes Qualiopi par spécialité et par ville | Fiches mises en avant | 30 | ⏸ | Données publiques
+[catalogue initial] | D3 | Données de vie par commune pour néo-ruraux (fibre, médecins, écoles, prix, risques) | Display, affiliation déména
+[catalogue initial] | E1 | **Pack « site + Google Business Profile + avis » pour artisans de niche A1–A5** | 490 € + 49 €/mois | 39 | ✅ | Le
+[catalogue initial] | E2 | Photos IA pour dossier de location, profil LinkedIn ou annonce immobilière | 29–79 € | 30 | ⏸ | Concurrence mondi
+[catalogue initial] | E3 | Fiches produits et annonces Vinted / Leboncoin optimisées par IA, pour les déstockages de commerçants | 2–5 €/fic
+[catalogue initial] | E4 | Mise en conformité facturation électronique « clé en main » pour micro-entreprises (choix de la plateforme, param
+[catalogue initial] | F1 | **Kits canicule / moustique tigre / inondation par département** | Site d'alertes + boutique avec stock tampon en
+[catalogue initial] | F2 | Blind box de créateurs locaux (céramique, pins, stickers) en live TikTok Shop | Marge produit, commission de 9 % 
+[catalogue initial] | F3 | Achat groupé de quartier ou de copropriété (pellets, bois de chauffage, fioul) | Commission fournisseur 3–5 % | 3
+[catalogue initial] | F4 | Dropshipping générique depuis la Chine | – | – | ❌ | F5 + délais incompatibles avec l'urgence |
+
+[catalogue initial] | G1 | **Rank & rent hybride** sur chaque site de leads A* qui ranke : loyer de 150 à 400 € + paiement au lead au-delà d
