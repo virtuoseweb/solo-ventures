@@ -1,0 +1,15 @@
+{
+  "id": "G03",
+  "famille": "apps-grand-public",
+  "nom": "Simulateur IA de l'examen de français de l'Office pour ordres professionnels (ex-OQLF Simu, à renommer)",
+  "modele": "Web d'abord (PWA + Stripe) puis app ; mini-simulation gratuite, paywall dur ; discussion de groupe IA multi-personnages, entretien oral, correction du texte 150-200 mots selon les critères publiés",
+  "zone": "Québec : Grand Montréal (diplômés d'établissements anglophones, centre d'examen), Outaouais, Québec ; formés en anglais hors Québec ; OIIQ, OIIAQ, OIQ, CPA puis OACIQ",
+  "payeur": "Candidat non exempté (études non francophones) à un ordre professionnel ou à l'OACIQ",
+  "prix": "Passe 30 j 39,99 $ CA, passe 90 j 89,99 $ CA (estim.) ; prévente fondateur 39 $ CA",
+  "cout_entree_eur": "194",
+  "delai_premier_euro_jours": "14",
+  "ca_m6_hyp_eur": "484",
+  "concurrence": "moyenne-faible : cours UdeM 545 $, Collège Canada 465 $, McGill ; NursePrepQc (EN, infirmières, sans oral), TestBuddy (pas en ligne, format faux), lecoursgratuit (Word, 19/10/2026) ; aucun oral IA trouvé (cache, Exa 402)",
+  "preuve_url": "https://www.quebec.ca/education/apprendre-le-francais/ordre-professionnel/examen",
+  "score": "31"
+}

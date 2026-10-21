@@ -1,0 +1,15 @@
+{
+  "id": "G01",
+  "famille": "apps-grand-public",
+  "nom": "CÉFRANC Prêt (à renommer) : prépa tests de français du personnel de soutien scolaire, CÉFRANC + SEL",
+  "modele": "Web d'abord (PWA + Stripe) puis app iOS/Android ; diagnostic gratuit, paywall dur, QCM test 6 chronométré + correction IA des rédactions tests 5 et 7",
+  "zone": "Québec : Outaouais (CSS des Draveurs), Montréal (CSSDM, allophones), régions sans cours présentiel ; CSS à confirmer au J1",
+  "payeur": "Candidat à un poste de soutien en CSS (secrétaire, agent de bureau, service de garde)",
+  "prix": "39,99 $ CA la passe 60 jours (≈ 25 €, estim.) ; prévente 19,99 $ CA",
+  "cout_entree_eur": "174",
+  "delai_premier_euro_jours": "14",
+  "ca_m6_hyp_eur": "298",
+  "concurrence": "moyenne-faible : grammaire.ca (vise CÉFRANC soutien, QCM génériques, sans rédaction), CFRTQ 35 $/h (contenu TECFÉE), ALC présentiel Montréal ; ITAG et Pratique TECFÉE menacent ; aucune correction IA tests 5-7 (cache, non revérifié Exa 402)",
+  "preuve_url": "https://www.cssd.gouv.qc.ca/application/files/9817/8051/1570/Test_de_francais_-_Soutien.pdf",
+  "score": "31"
+}

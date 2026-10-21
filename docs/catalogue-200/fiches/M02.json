@@ -1,0 +1,15 @@
+{
+  "id": "M02",
+  "famille": "saas-metiers",
+  "nom": "Hivernage : gestion des petits gardiennages de camping-cars, caravanes et bateaux (places par longueur, contrats annuels, sorties et tractages, attestation assureur)",
+  "modele": "SaaS web mobile + espace client (RDV de sortie, SEPA/carte via le compte Stripe ou GoCardless de l'exploitant), facturé à l'année ; pack démarrage fait pour vous",
+  "zone": "France, littoral d'abord : Var, Hérault-Gard, Pyrénées-Orientales, Vendée, Loire-Atlantique ; puis Landes, Bretagne sud, périurbain Lyon et IDF ; Belgique et Pays-Bas exclus (Stallingo)",
+  "payeur": "Exploitant de gardiennage de 30 à 150 places avec sa propre clientèle (agriculteur avec hangar, garage, parc dédié) ; hors campings, ports, self-stockage",
+  "prix": "190 € HT/an (≤ 50 places) ou 290 € HT/an (≤ 150), ou 19/29 €/mois ; pack démarrage 149 € HT ; fondateur 149 € la 1re année",
+  "cout_entree_eur": "30",
+  "delai_premier_euro_jours": "21",
+  "ca_m6_hyp_eur": "223",
+  "concurrence": "moyenne, non revérifiée (Exa 402) : Stallingo (NL, page FR, 39 €/mois ≤ 150 véhicules, iDEAL/Bancontact), fmCaravan (NL), Nautic Data 117 € HT (bateaux), Yoyolo page métier générique, Captain Crews (visites bateaux) ; aucun outil FR natif en 3 requêtes, sans requête gratuit ni store",
+  "preuve_url": "https://stallingo.nl/fr",
+  "score": "32"
+}

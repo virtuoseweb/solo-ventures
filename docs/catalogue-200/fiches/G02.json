@@ -1,0 +1,15 @@
+{
+  "id": "G02",
+  "famille": "apps-grand-public",
+  "nom": "Chasse Wallonie Prépa : entraînement à l'examen théorique de chasse wallon (60 QCM, 3 branches à seuil)",
+  "modele": "PWA web d'abord (Stripe, Bancontact à vérifier), stores en saison 2 après 10 payants ; diagnostic gratuit 30 Q puis passe saison ; mode branche à seuil, pass rattrapage entre les 2 sessions, carte cadeau",
+  "zone": "Wallonie, priorité provinces de Luxembourg, Namur, Liège (Ardennes, hypothèse), puis Hainaut, Brabant wallon, Bruxelles francophone ; Flandre exclue (examen distinct)",
+  "payeur": "Candidat à l'examen de chasse wallon (16 ans et plus) ou proche qui l'offre en cadeau",
+  "prix": "34,99 € la passe saison ; prévente 24,99 € ; rattrapage 3 semaines 14,99 € (estim.)",
+  "cout_entree_eur": "154",
+  "delai_premier_euro_jours": "7",
+  "ca_m6_hyp_eur": "855",
+  "concurrence": "moyenne : RSHCB kit + SIEL (référence recommandée, accès oct.-mai, prix non trouvé), Accadia 399 € web, annales SPW gratuites 120 Q/an ; menaces passeverytest (gratuit CH/QC) et app fédérale type FNC ; non revérifié (Exa 402)",
+  "preuve_url": "https://www.wallonie.be/fr/demarches/sinscrire-et-passer-lexamen-de-chasse-en-wallonie",
+  "score": "29"
+}

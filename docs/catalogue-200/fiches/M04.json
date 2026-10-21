@@ -1,0 +1,15 @@
+{
+  "id": "M04",
+  "famille": "Micro-SaaS métiers",
+  "nom": "Location d'instruments en ligne pour luthiers du quatuor et magasins de musique",
+  "modele": "SaaS web (Mac, PC, mobile) sans installation : page de location pour les parents (taille, stock, contrat et mandat SEPA signés à distance), prélèvements automatiques sur le compte GoCardless ou Stripe du luthier, changement de taille sur le même contrat, compteur de loyers déductibles, rappels de révision, attestation d'assurance",
+  "zone": "France : Paris, Lyon-Vienne, Nancy-Metz, Rennes d'abord (densité d'ateliers, location déjà prélevée) ; Bordeaux en test de satisfaction Musilok ; Belgique ensuite ; hors conservatoires et grandes enseignes",
+  "payeur": "luthier du quatuor qui loue un parc d'instruments d'étude aux familles ; ensuite réparateur de vents et magasin de musique",
+  "prix": "25 € HT/mois jusqu'à 100 contrats, 45 € au-delà ; fondateur 190 € HT la 1re année (5 ateliers) ; import du parc 120 € (≈ 40 €/h) (estim.)",
+  "cout_entree_eur": "10",
+  "delai_premier_euro_jours": "30",
+  "ca_m6_hyp_eur": "290",
+  "concurrence": "FR : Musilok (spécialiste, Windows seul, 149 € HT d'installation, tablette 250 € HT, pas de page parents), Service 9000 Technic-Soft (GMAO généraliste) ; écoles : Lasido, Belami ; EN : Music Shop Suite 49 $/mois, Reservety (angle exact en anglais), TWICE, AIM ; non contre-vérifié (Exa 402)",
+  "preuve_url": "https://www.musilok.com/",
+  "score": "29"
+}

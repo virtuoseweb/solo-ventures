@@ -1,0 +1,15 @@
+{
+  "id": "P16",
+  "famille": "services-productises",
+  "nom": "Dossiers de subvention pour compagnies et musiciens (DRAC, région, CNM, Adami)",
+  "modele": "Forfait clé en main + financeur supplémentaire",
+  "zone": "France à distance (IDF, AURA, Occitanie, Nouvelle-Aquitaine, PACA ; Grand Est en dernier), Belgique et Québec en phase 2",
+  "payeur": "Compagnies, groupes et collectifs émergents ; bureaux de production en marque blanche",
+  "prix": "390 € + 120 € par financeur supplémentaire",
+  "cout_entree_eur": "62",
+  "delai_premier_euro_jours": "30",
+  "ca_m6_hyp_eur": "1350",
+  "concurrence": "moyenne : marché fragmenté (Artenréel 150 € Grand Est, SubventIA IA généraliste, conseil horaire), pas de forfait national clé en main spécialisé",
+  "preuve_url": "https://www.artenreel-spectacle.fr/prestations-ponctuelles/",
+  "score": "31"
+}

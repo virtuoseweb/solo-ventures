@@ -1,0 +1,15 @@
+{
+  "id": "G05",
+  "famille": "apps-grand-public",
+  "nom": "Prépa Taaltest (nom sans BOSA) : entraînement au test de néerlandais art. 8 et 9 §2 pour fonctionnaires et candidats francophones (Belgique)",
+  "modele": "PWA web d'abord (Stripe, Bancontact à vérifier), stores après 15 payants ; diagnostic gratuit 20 items puis pass ; audios nl-BE en écoute unique, lectures type presse, vocabulaire administratif, écrit avec corrigés",
+  "zone": "Belgique : Bruxelles-Capitale (services fédéraux centraux, région, 19 communes, CPAS), 6 communes à facilités ; navetteurs du Brabant wallon, Namur, Hainaut, Liège ; NL inverse, germanophones et magistrats exclus",
+  "payeur": "Agent fédéral ou régional francophone visant la prime ou une promotion, candidat externe à un poste bilingue ; agents locaux bruxellois en complément d'ERAP gratuit",
+  "prix": "pass 1 mois 12 €, pass 3 mois 29 €, prévente fondateur 6 mois 39 € (estim.)",
+  "cout_entree_eur": "150",
+  "delai_premier_euro_jours": "7",
+  "ca_m6_hyp_eur": "297",
+  "concurrence": "faible en app, forte en gratuit employeur : ERAP 63 h gratuit (agents locaux bxl), BOSA gratuit pour 10bis/11bis, cours payants Lerian-NTI et CVO Semper ; menace éditeur en série psychotechnique.be classé sur l'art. 8 ; non revérifié (Exa 402)",
+  "preuve_url": "https://fedweb.belgium.be/fr/remuneration_et_avantages/allocation/allocation-linguistique",
+  "score": "28"
+}

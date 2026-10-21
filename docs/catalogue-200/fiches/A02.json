@@ -1,0 +1,15 @@
+{
+  "id": "A02",
+  "famille": "affiliation-outils",
+  "nom": "Simulateur clôture anti-fugue fil enterré ou GPS selon le terrain réel (tracé, cadastre, bobines)",
+  "modele": "Affiliation sur outil gratuit (simulateur carte + contenu)",
+  "zone": "France métropolitaine, maisons avec jardin périurbain et rural ; BE suspendue (légal non vérifié) ; CH exclue (OPAn)",
+  "payeur": "Marchands : zooplus FR (Awin 7334), Tractive (Impact)",
+  "prix": "Gratuit pour l'utilisateur ; ≈ 3 € par clôture (3 % puis 1 %), 20 $ par traceur Tractive",
+  "cout_entree_eur": "47",
+  "delai_premier_euro_jours": "60",
+  "ca_m6_hyp_eur": "26",
+  "concurrence": "moyenne : PERROWALL (marque, sans tracé), 2 calculateurs FR au carré (09-10/2026), planificateurs EN ; aucun outil FR tracé + fil + GPS, mais copiable",
+  "preuve_url": "https://clotureantifugue.com/pages/comparatif-cloture-anti-fugue-chien",
+  "score": "28"
+}

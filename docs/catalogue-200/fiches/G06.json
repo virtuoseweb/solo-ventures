@@ -1,0 +1,15 @@
+{
+  "id": "G06",
+  "famille": "apps-grand-public",
+  "nom": "Code Calédonien : questions du code de la route propres à la Nouvelle-Calédonie (complément aux apps métropole)",
+  "modele": "PWA web d'abord (Stripe en XPF) puis stores après 25 payants ; 20 questions NC gratuites dont pièges métropole → NC, passe 90 jours ; licence auto-école testée à M6",
+  "zone": "Nouvelle-Calédonie : candidats libres de tout le territoire, Grand Nouméa (Nouméa, Dumbéa, Mont-Dore, Païta) puis Province Nord (Koné, Koumac) et îles Loyauté ; Polynésie exclue",
+  "payeur": "Candidat au code en NC (candidat libre d'abord, élève d'auto-école en complément, parent pour A2/AT) ; auto-école en licence",
+  "prix": "2 500 XPF (≈ 20,95 €) la passe 90 jours ; prévente 1 500 XPF (≈ 12,57 €) ; licence auto-école 15 000 XPF/an (≈ 125,70 €) (estim.)",
+  "cout_entree_eur": "174",
+  "delai_premier_euro_jours": "7",
+  "ca_m6_hyp_eur": "251",
+  "concurrence": "faible-moyenne : livres NC en librairie (titres non trouvés), PDF et synthèses gratuites Chrono64, Dynamic, Quizlet (sans QCM photo, contradictoires), apps métropole sans module NC trouvé (PermisEcole, digiSchool, Kopilote/Prépacode 1,9/5) ; non revérifié (Exa 402)",
+  "preuve_url": "https://dittt.gouv.nc/permis-de-conduire/demande-de-permis-de-conduire/examen-du-permis-de-conduire",
+  "score": "31"
+}

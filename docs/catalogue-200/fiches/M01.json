@@ -1,0 +1,15 @@
+{
+  "id": "M01",
+  "famille": "Micro-SaaS métiers",
+  "nom": "Dossier de place : coffre-fort des pièces et candidatures aux fêtes pour forains et cirques itinérants",
+  "modele": "SaaS web PWA, abonnement annuel + pack saison fait pour vous ; pièces avec dates d'expiration, dossier PDF par commune, calendrier des dates limites, modèles d'attestation de bon montage et d'extrait CTS",
+  "zone": "France ; départ Occitanie (Gard, Hérault, Haute-Garonne) et Var, puis Drôme et Gironde : fêtes locales de petites communes, un règlement par commune ; Belgique et Suisse romande plus tard",
+  "payeur": "entreprise foraine familiale (manège, stand, confiserie) et cirque itinérant ; à tester : représentant de groupe de forains",
+  "prix": "Solo 89 € HT/an, Famille 149 € HT/an, pack saison 149 € (≈ 37 €/h), fondateur 59 € la 1re année (estim.)",
+  "cout_entree_eur": "10",
+  "delai_premier_euro_jours": "14",
+  "ca_m6_hyp_eur": "184",
+  "concurrence": "aucun outil FR côté forain sur 3 requêtes du chercheur, non contre-vérifié (Exa 402) ; DE Kirmes-Tournee-Planer 28,50 € HT/an en allemand ; Midway World gratuit en anglais ; côté communes et contrôle : GEODP, Marktmeister, Octav ; Cojego (gonflables)",
+  "preuve_url": "https://schaustelleranfragen.de/kirmes-tournee-planer/",
+  "score": "33"
+}

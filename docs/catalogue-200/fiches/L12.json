@@ -1,0 +1,15 @@
+{
+  "id": "L12",
+  "famille": "leads-artisans",
+  "nom": "Raccordement obligatoire au tout-à-l'égout : leads exclusifs par commune à réseau neuf",
+  "modele": "Lead exclusif local (pages datées par commune à réseau neuf, calculateur d'échéance, devis groupé de voisins, Google Ads)",
+  "zone": "1 département test choisi à J1 parmi Hérault (34), Tarn (81), Bouches-du-Rhône (13) ; communes à réseau mis en service depuis moins de 2 ans, sans opération groupée publique",
+  "payeur": "Plombiers-terrassiers et petites entreprises VRD locales non titulaires du marché public",
+  "prix": "60 € HT par lead exclusif (estim.), 70 € HT à M6 ; premier lead à 40 € HT",
+  "cout_entree_eur": "180",
+  "delai_premier_euro_jours": "21",
+  "ca_m6_hyp_eur": "490",
+  "concurrence": "faible mais non revérifiée (Exa 402) : généralistes nationaux sans page commune ; risque d'opérations groupées publiques (CGCT L2224-8) et du titulaire du marché sur place",
+  "preuve_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F447",
+  "score": "30"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "M05",
+  "famille": "Micro-SaaS métiers",
+  "nom": "Officiant : espace couple et proches, premier jet de cérémonie en français par IA",
+  "modele": "SaaS web étroit, sans CRM ni devis : questionnaire en marque blanche pour le couple, lien pour 3 à 8 proches sans compte, premier jet IA en français dans le style de l'officiant, minutage, export Word ou PDF",
+  "zone": "France à distance ; prospection d'abord en Provence (13, 83, 84), Île-de-France (agences d'officiants) et Touraine (37), puis les 3 régions les mieux fournies sur Mariages.net ; Belgique et Suisse romande ensuite ; hors Québec et officiants amateurs",
+  "payeur": "officiant de cérémonie laïque professionnel indépendant (73 % en micro-entreprise) ; après M6, agences d'officiants (plan équipe)",
+  "prix": "15 €/mois ou 129 €/an ; fondateur 89 € la 1re année (20 places) ; 1 cérémonie gratuite ; équipe 49 €/mois (estim.)",
+  "cout_entree_eur": "30",
+  "delai_premier_euro_jours": "14",
+  "ca_m6_hyp_eur": "225",
+  "concurrence": "forte : FR IBDA (Pro 49 €/mois, gratuit limité aux devis et factures, ni proches ni IA documentés) et WeddingPlan (interface officiant, questionnaires, discours des témoins, sans IA documentée) ; gratuits côté couple : TonMariage, CérémonIA (IA), générateurs de discours ; EN : Solemnly gratuit avec 10 brouillons IA, CeremonyDesk 9,99 $, Officiantly (angle exact) ; non contre-vérifié (Exa 402)",
+  "preuve_url": "https://ibda.fr/logiciel-officiant-ceremonie",
+  "score": "28"
+}
