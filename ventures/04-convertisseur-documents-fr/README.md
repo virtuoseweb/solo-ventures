@@ -1,6 +1,8 @@
 # V04 · Convertisseur de documents français (relevés bancaires, bulletins de paie → Excel / CSV / FEC)
 
-> Statut : idée · Vague 1 (après le MVP V01) · Score : 37/50 (C2) — clone d'un modèle US solo (Bank Statement Converter, 16 k$ de MRR vérifiés en interview)
+> ❌ **TUÉ le 22/10/2026 avant lancement** : au moins 5 spécialistes FR, dont RelevExcel gratuit. Voir `docs/06-verification-concurrence.md`.
+>
+> Statut initial : idée · Vague 1 (après le MVP V01) · Score : 37/50 (C2) — clone d'un modèle US solo (Bank Statement Converter, 16 k$ de MRR vérifiés en interview)
 
 ## 1. Fiche
 - **Principe :** déposer un PDF → tableau propre (date, libellé, débit, crédit, solde) avec contrôle de cohérence du solde → export Excel, CSV, OFX ou **FEC**.

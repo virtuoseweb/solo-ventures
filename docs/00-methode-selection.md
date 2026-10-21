@@ -11,7 +11,7 @@ Une niche n'entre en production que si elle passe les **5 filtres éliminatoires
 | F2 | Monétisation identifiée | Qui paie, combien, par quel canal ? | Prix de lead constaté, programme d'affiliation actif, prix concurrent |
 | F3 | Légalité | Pas d'interdiction de démarchage, de statut obligatoire non obtenable (ORIAS, avocat…), ni de zone grise RGPD | Texte de loi vérifié |
 | F4 | Coût d'entrée | MVP ≤ 300 € hors temps, et ≤ 5 jours de travail avec l'IA | Budget détaillé |
-| F5 | Concurrence | Page 1 Google non verrouillée par des marques géantes sur **la requête longue traîne locale** | Analyse manuelle de la SERP sur 10 requêtes |
+| F5 | Concurrence | Page 1 Google non verrouillée par des marques géantes ni par des **outils gratuits équivalents** sur la requête d'achat | Recherche sur au moins 5 requêtes d'achat (nationale + locale), consignée dans `06-verification-concurrence.md` **avant** toute vague 1 |
 
 ## 2. Grille de score (10 critères × 5 points)
 

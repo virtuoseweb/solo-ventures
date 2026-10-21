@@ -1,6 +1,8 @@
 # V01 · Hub « facturation électronique » pour micro-entreprises et TPE
 
-> Statut : idée · Vague 1 · Score : 43/50 (B1 + E4 + C2 en upsell)
+> ❌ **TUÉ le 22/10/2026 avant lancement** : comparateurs spécialisés déjà en place et offres gratuites (Tiime, Shine, Henrri, Indy, Abby). Voir `docs/06-verification-concurrence.md`.
+>
+> Statut initial : idée · Vague 1 · Score : 43/50 (B1 + E4 + C2 en upsell)
 
 ## 1. Fiche
 - **Modèle :** site outil et guide (affiliation au lead / CPA) + service clé en main payant (E4).

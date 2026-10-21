@@ -1,5 +1,7 @@
 # Plan d'action à 90 jours (à partir du 22 octobre 2026)
 
+> ⚠️ **Révisé le 22/10/2026 :** V01 et V04 sont tués (voir `06-verification-concurrence.md`). Ignorer leurs tâches ci-dessous. Le temps libéré va à V02 (plus de départements et de niches, dès les semaines 2–3) et à V05 OLD (construction avancée à début janvier). Les objectifs chiffrés sont à revoir à la baisse tant que V02 et V03 n'ont pas donné de chiffres réels.
+
 Budget de temps visé : **10 à 12 h par semaine** à côté de l'agence et de Waimia OS. Budget cash : **≤ 1 000 € sur 90 jours** (domaines, tests d'Ads, avocat pour les CGU de V03).
 
 ## Semaine 1 (22–28 oct.) : fondations + ventes avant le produit
