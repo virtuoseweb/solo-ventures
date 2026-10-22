@@ -1,0 +1,15 @@
+{
+  "id": "N149",
+  "famille": "SaaS vertical (associations sportives, aviation légère)",
+  "nom": "Hangar : réservation des avions, comptes pilotes et dossiers de formation DTO pour aéroclubs et clubs ULM",
+  "modele": "SaaS PWA par abonnement : planning machines, compte pilote prépayé débité au vol, alertes d'échéances, dossier de formation DTO, vente des vols de découverte (Stripe Connect)",
+  "zone": "Aéroclubs FFA et clubs ULM de 2 à 8 machines en France (démarchage Occitanie, Nouvelle-Aquitaine, PACA puis Bretagne) ; ensuite Belgique et Suisse romande ; vol à voile exclu (GIVAV)",
+  "payeur": "Association (bureau, trésorier du club)",
+  "prix": "15 € par machine et par mois, plancher 39 €/mois (estim., tarifs concurrents non relevés)",
+  "cout_entree_eur": "30",
+  "delai_premier_euro_jours": "75",
+  "ca_m6_hyp_eur": "300",
+  "concurrence": "non vérifiée (Exa 402) ; risque R2 élevé : OpenFlyers et Aerogest (France, de mémoire), Flight Circle et Flight Schedule Pro (États-Unis, en anglais) ; outil fédéral FFA/FFPLUM gratuit à exclure (R1)",
+  "preuve_url": "https://openflyers.com/",
+  "score": "24"
+}

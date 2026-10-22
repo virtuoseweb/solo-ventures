@@ -1,0 +1,15 @@
+{
+  "id": "N152",
+  "famille": "SaaS vertical (associations, clubs service)",
+  "nom": "Club Service : repas statutaires, assiduité, cotisations et trésorerie pour Rotary, Lions, Kiwanis et Soroptimist francophones",
+  "modele": "SaaS par club, abonnement annuel aligné sur le 1er juillet, offre district",
+  "zone": "France (villes moyennes, test Gironde, Rhône, Loire-Atlantique), puis Belgique et Suisse romande ; Québec exclu (risque ClubRunner) ; Afrique de l'Ouest en phase 3",
+  "payeur": "Trésorerie du club ou du district",
+  "prix": "1 €/membre/mois, plancher 29 €/mois par club (hyp.)",
+  "cout_entree_eur": "60",
+  "delai_premier_euro_jours": "60",
+  "ca_m6_hyp_eur": "750",
+  "concurrence": "NON VÉRIFIÉE (Exa 402) : ClubRunner (CA, peut-être en français), DACdb (US), My Rotary et MyLion gratuits (reporting), HelloAsso et AssoConnect généralistes ; contre-vérification à relancer",
+  "preuve_url": "https://www.dacdb.com/",
+  "score": "28"
+}

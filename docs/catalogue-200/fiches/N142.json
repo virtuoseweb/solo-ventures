@@ -1,0 +1,15 @@
+{
+  "id": "N142",
+  "famille": "apps-passion",
+  "nom": "Carnet de mantrailing en français avec mode éducateur (double tracé traceur/chien, séances de groupe, compte rendu par binôme)",
+  "modele": "App mobile iOS/Android freemium + espace éducateur web ; abonnement éducateur (web Stripe et achat intégré) et abonnement conducteur",
+  "zone": "France, Belgique francophone, Suisse romande ; prospection d'abord Alsace-Moselle, Genevois et Suisse romande, Belgique et Nord (hypothèse), puis grandes villes",
+  "payeur": "Éducateur canin ou club proposant le mantrailing de loisir (principal) ; propriétaires pratiquant en club (secondaire)",
+  "prix": "Éducateur 12 €/mois ou 120 €/an, élèves illimités ; conducteur gratuit jusqu'à 10 pistes puis 3,99 €/mois ou 29 €/an (estim.) ; fondateur 90 € la 1re année",
+  "cout_entree_eur": "125",
+  "delai_premier_euro_jours": "7",
+  "ca_m6_hyp_eur": "140",
+  "concurrence": "moyenne, non revérifiée (Exa 402) : Mantrailing & Dog tracker (gratuit + 4,49 USD/mois, peu maintenue), The Mantrailing App work4dogs (DE, Pro 7,99 USD), tracking-dog, Spurinstinkt, DogNav ; aucune app FR ni mode éducateur en 5 requêtes WebSearch, stores FR non fouillés",
+  "preuve_url": "https://apps.apple.com/us/app/id1606637068",
+  "score": "29"
+}
