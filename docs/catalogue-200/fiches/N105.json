@@ -1,0 +1,15 @@
+{
+  "id": "N105",
+  "famille": "App ou site de préparation à un examen hyper-local (filon francophonie, Belgique)",
+  "nom": "[PRÉ-VÉRIFICATION INCOMPLÈTE : format d'examen et concurrence non vérifiés] CAP Route BE : préparation à l'examen théorique de qualification initiale (CAP) des chauffeurs C et D en Belgique francophone",
+  "modele": "PWA web d'abord (Stripe, Bancontact à vérifier), Google Play après 10 payants : diagnostic gratuit, banque de QCM, questions à réponse directe et études de cas corrigées par barème (IA indicative côté candidat), examens blancs au format belge ; mode classe B2B pour auto-écoles et centres C/D, sans correction IA",
+  "zone": "Wallonie (hors germanophones) et Bruxelles ; bassins Liège (Bierset, Trilogiport), Hainaut (Charleroi, Mons-Ghlin, La Louvière, Tournai-Mouscron), Arlon-Athus (frontaliers Luxembourg), Wavre-Nivelles, Bruxelles ; Flandre, France et Luxembourg exclus",
+  "payeur": "Candidat libre C/CE (reconversion, intérimaire, recalé, frontalier) ou son employeur ; auto-écoles C/D, centres de formation et intérim en licence ; demandeurs d'emploi en parcours gratuit et bus TEC/STIB hors cible payante",
+  "prix": "estim. 39 € pour 90 jours ; prévente fondateur 24 € ; licence centre 15 € par élève (minimum 10, soit 150 € par cohorte)",
+  "cout_entree_eur": "133",
+  "delai_premier_euro_jours": "estim. 7 à 21 (prévente B2C), 120 à 150 (premier centre)",
+  "ca_m6_hyp_eur": "estim. ≈ 930 €/mois à M6 (avr. 2027), cumul M1-M6 ≈ 3 050 € ; année 1 ≈ 11 000 € brut ; bas ≈ 195 €/mois",
+  "concurrence": "non vérifiée (Exa 402 chez les 4 agents, 0 requête aboutie) : Permis Online (R2 principal, couverture CAP inconnue), OpenExamPrep (R1 possible), psychotechnique.be (éditeur en série), app FR Examen Permis Poids Lourd (hors format), formations gratuites Forem/Actiris/Bruxelles Formation (R1 partiel)",
+  "preuve_url": "https://eur-lex.europa.eu/eli/dir/2022/2561/oj",
+  "score": "27"
+}
