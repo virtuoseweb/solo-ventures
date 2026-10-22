@@ -1,0 +1,15 @@
+{
+  "id": "N034",
+  "famille": "Service B2B productisé et hébergement de notices",
+  "nom": "Notice numérique et déclaration UE au format du règlement Machines 2023/1230 (20/01/2027) pour petits constructeurs",
+  "modele": "Service par modèle de machine : notice réécrite (annexe III, ISO 20607) relue par un rédacteur technique, déclaration UE au nouveau format, traduction IA relue par un natif, page hébergée sur le domaine du constructeur avec QR code, versions archivées, papier sur demande, export de réversibilité",
+  "zone": "France à distance ; prospection d'abord Bretagne (29, 22, 56, 35) et Pays de la Loire (49, 85, 44, 53, 72), agroéquipement et équipement agroalimentaire ; puis machines d'artisanat alimentaire et importateurs hors UE (toute la France), retrofit en AURA, Hauts-de-France, Grand Est ; Wallonie en phase 2 ; hors Suisse, annexe I et grand public",
+  "payeur": "TPE et PME constructrices de machines spéciales, d'agroéquipement et de machines d'artisanat alimentaire ; importateurs de machines hors UE ; intégrateurs et ateliers de retrofit devenus fabricants",
+  "prix": "estim. 790 € HT par modèle (notice FR, déclaration UE, page QR, 1re année d'hébergement incluse), pilote 490 €, langue en plus 390 à 590 €, hébergement 59 € HT par an et par modèle ensuite",
+  "cout_entree_eur": "115",
+  "delai_premier_euro_jours": "estim. 21 (acompte de 50 % du premier pilote)",
+  "ca_m6_hyp_eur": "estim. 1 500 sur le mois 6, cumul 6 mois ≈ 8 500",
+  "concurrence": "moyenne, non contre-vérifiée par Exa (402) ; 37 requêtes WebSearch sans offre FR de pack notice relue + déclaration UE au forfait TPE ; Dokit généraliste (le client rédige, dès 60 €/mois), NoPaperManuals brade l'hébergement (1 €/mois/produit), Kolonell 12 à 30 k€, Cetim formation 1 190 € ; étrangers QIKY, Quanos, Instrktiv ; risque R1 : PDF sur le site du constructeur et modèle gratuit de déclaration",
+  "preuve_url": "https://eur-lex.europa.eu/eli/reg/2023/1230/oj",
+  "score": "28"
+}

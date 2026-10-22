@@ -1,0 +1,15 @@
+{
+  "id": "N076",
+  "famille": "Micro-SaaS associatif et communal",
+  "nom": "Jardins familiaux et partagés : plan des parcelles, liste d'attente, eau refacturée, conventions, avertissements avant reprise (doublon de N062, à fusionner ; non pré-vérifiée)",
+  "modele": "SaaS web FR en libre-service : plan cliquable, liste d'attente à rang visible, convention et règlement signés en ligne, états des lieux photo, eau en 3 modes (forfait, m², sous-compteur) refacturée au coût réel, avertissements gradués avant reprise validée par le bureau ; n'encaisse rien (liens HelloAsso, PayFiP)",
+  "zone": "France : associations du Nord (59), Pas-de-Calais (62), Moselle (57), Meurthe-et-Moselle (54), Seine-Saint-Denis (93), Yvelines (78), Ain (01), puis communes à règlement publié et bailleurs sociaux ; Rhône et Loire non vérifiés ; Belgique en phase 3 non vérifiée",
+  "payeur": "Association de jardins (bureau bénévole) ; commune ou CCAS en régie ; bailleur social",
+  "prix": "estim. association 9 €/mois jusqu'à 50 parcelles, 19 €/mois au-delà, mise en place 49 € ; commune ou bailleur 290 €/an (490 €/an multi-sites) + mise en place 150 €",
+  "cout_entree_eur": "121",
+  "delai_premier_euro_jours": "estim. 30 à 60 (associations) ; 60 à 150 (communes, bailleurs)",
+  "ca_m6_hyp_eur": "estim. cumul M1-M6 ≈ 1 170 € (11 associations, 1 commune, MRR ≈ 190 €) ; pessimiste ≈ 350 € ; M12 cumul ≈ 3 745 €",
+  "concurrence": "TiPlant (Webluma, FR, éditeur en série) couvre plan, liste d'attente, contrats, redevances : prix, clients, avis inconnus, R2 à trancher au J1 ; Scribe, Rialtas (UK, sur devis), Waitly (UE) ; Paheko, HelloAsso, AssoConnect gratuits sans parcelles ; contre-vérification non faite (Exa 402)",
+  "preuve_url": "https://www.webluma.com/",
+  "score": "30"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "N057",
+  "famille": "SaaS associatif hors de France (Afrique francophone)",
+  "nom": "Logiciel francophone de gestion d'église avec Mobile Money (membres, cellules, offrandes)",
+  "modele": "SaaS mobile (PWA hors ligne) : membres, cellules, présences, bénévoles, dîmes et offrandes rapprochées du Mobile Money de l'église (aucun encaissement pour compte de tiers), reçus WhatsApp ou SMS, compta par paroisse",
+  "zone": "Abidjan (UEMOA) puis Douala et Yaoundé (CEMAC, hors régions anglophones) ; églises évangéliques et charismatiques de 200 à 5 000 fidèles ; diaspora Île-de-France et Bruxelles en phase 3",
+  "payeur": "L'église (pasteur principal ou trésorier) ; carte via Stripe au lancement, Mobile Money seulement si un agrégateur accepte une société française",
+  "prix": "estim. 10 000 / 15 000 / 25 000 FCFA par mois (≈ 15 / 23 / 38 €) selon les membres ; mise en place 50 000 FCFA (≈ 76 €) offerte aux 5 premières églises",
+  "cout_entree_eur": "132",
+  "delai_premier_euro_jours": "estim. 30 à 60 (MVP 2 à 3 semaines puis pilote 30 jours) ; dépend du canal d'encaissement",
+  "ca_m6_hyp_eur": "estim. cumul 6 mois ≈ 1 040 € (10 églises payantes, MRR ≈ 220 €) ; pessimiste ≈ 220 €, 0 € sans canal d'encaissement",
+  "concurrence": "non vérifiée (Exa 402, contradicteurs bloqués, 2 requêtes réelles) : ChMS anglophones ChMeetings (Stripe, PayPal, Paystack), Planning Center, Breeze, ChurchTrac ; sur-mesure Kolonell 2,5 à 4 M FCFA ; encaissement seul timo.shop, Ayweu, ChapChapSend, UnitechPay ; ChMS local ou édité en série par l'IA non écarté",
+  "preuve_url": "https://kolonell.com/fr/blog/logiciel-gestion-eglise-association-membres-yaounde-2026",
+  "score": "24"
+}

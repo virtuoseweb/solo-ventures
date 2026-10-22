@@ -1,0 +1,15 @@
+{
+  "id": "N063",
+  "famille": "SaaS associatif (économie du partage)",
+  "nom": "Objethèque : logiciel de prêt en français pour bibliothèques d'objets et outilthèques (ludothèques si R2 levée) ; doublon partiel de N060, à fusionner",
+  "modele": "SaaS web FR : catalogue QR public, adhérents importés de HelloAsso par CSV, prêt et retour en deux scans, pièces cochées au retour, réservations, rappels e-mail, pannes et réparations, rapport financeurs (CO2 estimé sourcé) ; caution notée, aucun encaissement ; mise en route payante",
+  "zone": "Clichy (92), Montreuil (93), Toulouse (31) sous myTurn, puis métropoles à PLPDMA (Paris, Lyon, Nantes, Rennes…) ; Suisse romande dès M4 (Delémont, Attalens) ; Belgique non vérifiée",
+  "payeur": "Association gestionnaire (trésorier ou coordinateur) ; ressourceries, tiers-lieux ; collectivité financeuse (hypothèse)",
+  "prix": "estim. essai 60 j, 15 €/mois HT jusqu'à 500 objets, 35 €/mois illimité multi-sites (10 mois sur 12 en annuel) ; mise en route 149 € bornée à 4 h",
+  "cout_entree_eur": "110",
+  "delai_premier_euro_jours": "estim. 14 à 45 (mise en route d'un pilote) ; abonnements après 60 j d'essai",
+  "ca_m6_hyp_eur": "estim. cumul M1-M6 ≈ 1 185 € (8 payants, MRR ≈ 160 €) ; pessimiste ≈ 500 € ; M12 MRR ≈ 280 €, cumul ≈ 3 000 €",
+  "concurrence": "non vérifiée (Exa 402, contradicteurs bloqués) : myTurn (US) à Clichy, Montreuil, Toulouse, Attalens sans faiblesse prouvée (R2) ; Lend Engine (UK) compte gratuit non évalué (R1) ; LudoPrêt et Myludo Pro sur ludothèques ; Galette objectslend libre ; aucun éditeur FR objets en 14 requêtes WebSearch (index US)",
+  "preuve_url": "https://www.jeveuxaider.gouv.fr/missions-benevolat/82405/benevolat-la-societe-du-partage-6",
+  "score": "29"
+}

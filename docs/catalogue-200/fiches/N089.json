@@ -1,0 +1,15 @@
+{
+  "id": "N089",
+  "famille": "I · Import étranger (modèle Base Camp Leasing, États-Unis), place de marché de niche chasse",
+  "nom": "[PRÉ-VÉRIFICATION INCOMPLÈTE : concurrence non vérifiée] Bourse en ligne des actions de chasse et des baux de chasse privés (Sologne, Bourgogne, Seine-et-Marne)",
+  "modele": "Annonce à prix fixe payée par le vendeur (logique PAP, pas de commission au succès tant que la loi Hoguet n'est pas écartée) : carte du lot sur cadastre IGN, dossier chasseur vérifié (validation + assurance), liste d'attente, bail type vierge ; chasseur gratuit ; Stripe Connect en option après avis juridique",
+  "zone": "Pilote 41, 45, 18 (Sologne), 89 (Puisaye), 58 et 77, demande venue d'Île-de-France ; actions dans toute la France dès M6 (dont places d'extérieurs en ACCA) ; baux seulement hors ACCA et à partir de 40 ha ; exclus forêts publiques et Alsace-Moselle",
+  "payeur": "Société de chasse privée, ACCA qui prend des extérieurs ou GIC qui vend des actions ; propriétaire forestier de 40 ha ou plus à partir de M6 ; le chasseur ne paie rien",
+  "prix": "estim. annonce actions 39 € par saison ; annonce territoire 49 € ; pack société 69 € ; prévente fondateurs 2027-2028 à 29 € ; remboursée si moins de 3 candidats vérifiés",
+  "cout_entree_eur": "132",
+  "delai_premier_euro_jours": "estim. 7 à 30 (prévente), 100 à 150 (saison)",
+  "ca_m6_hyp_eur": "estim. ≈ 900 €/mois à M6 (avril 2027, pic), cumul M1-M6 ≈ 1 800 € ; année 1 ≈ 4 600 € ; pessimiste ≈ 1 200 €/an",
+  "concurrence": "non vérifiée (Exa 402 chez les 3 agents, 0 requête aboutie) : bourses FDC possibles (R1 principal), France-Chasse.com non vu (R2), Leboncoin, Paruvendu, Chassons.com (généralistes), logiciels Chasse Société, MesChasses, GestionChasse, E-FAUN, Huntrexia (adjacents), ONF hors segment",
+  "preuve_url": "https://www.paruvendu.fr/annonces/chasse/?p=2",
+  "score": "25"
+}

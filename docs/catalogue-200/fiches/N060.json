@@ -1,0 +1,15 @@
+{
+  "id": "N060",
+  "famille": "SaaS associatif (économie du partage)",
+  "nom": "Logiciel de prêt en français pour bibliothèques d'objets et d'outils",
+  "modele": "SaaS web FR : catalogue d'objets avec QR, adhérents importés de HelloAsso par CSV, prêt et retour en deux scans, réservations, rappels e-mail et SMS, rapport de subvention (communes, QPV) ; caution notée puis carte ou SEPA via le Stripe de l'association ; mise en route payante",
+  "zone": "Objethèques et outilthèques associatives de Montreuil, Clichy, Toulouse puis des métropoles françaises (ressourceries, tiers-lieux, QPV) ; Suisse romande (Attalens, Delémont) et Belgique francophone dès M4 ; ludothèques seulement si R2 levée",
+  "payeur": "Association gestionnaire (trésorier ou coordinateur) ; ressourceries, recycleries, régies de quartier, tiers-lieux",
+  "prix": "estim. 15 / 25 / 39 € HT par mois selon objets et SMS inclus, sans commission ; mise en route 90 € (import myTurn, Lend Engine ou tableur, étiquettes QR, 1 h de formation)",
+  "cout_entree_eur": "117",
+  "delai_premier_euro_jours": "estim. 21 à 45 (mise en route d'un pilote) ; abonnements après 60 à 90",
+  "ca_m6_hyp_eur": "estim. MRR ≈ 200 € à M6 (8 payants × 25 €), cumul 6 mois ≈ 1 360 € avec mises en route ; ≈ 325 €/mois à M12",
+  "concurrence": "non vérifiée par Exa (402) : myTurn (US) utilisé à Montreuil, Toulouse, Clichy, Attalens, sans faiblesse prouvée ; Lend Engine (UK) avec compte gratuit non évalué (risque R1) ; Galette objectslend gratuit et auto-hébergé ; LudoPrêt sur les ludothèques ; aucun éditeur FR dédié en 9 requêtes WebSearch",
+  "preuve_url": "https://movilab.org/images/movilab/5/59/Etude_comparative_biblioth%C3%A8que_d%27objets.pdf",
+  "score": "30"
+}

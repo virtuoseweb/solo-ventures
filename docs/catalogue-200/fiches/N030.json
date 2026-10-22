@@ -1,0 +1,15 @@
+{
+  "id": "N030",
+  "famille": "SaaS de conformité (registre et attestation)",
+  "nom": "Certificat d'opt-in au démarchage téléphonique (registre de preuve par lead, loi 2025-594)",
+  "modele": "SaaS B2B : widget JS sur formulaire de rappel, certificat horodaté et signé par acheteur nommé, registre 3 ans, retraits propagés, API de vérification acheteur, export contrôle DGCCRF",
+  "zone": "France entière à distance ; prospection d'abord revendeurs de leads (IDF 75-92, Lyon, Bordeaux, Lille, Montpellier), puis piscinistes (83, 13, 34, 30, 33, 31), cuisinistes, alarmes, agences immo ; hors rénovation énergétique, adaptation logement, CPF ; assurance en phase 2",
+  "payeur": "Revendeurs et générateurs de leads, acheteurs de leads qui rappellent des particuliers, centres d'appels",
+  "prix": "estim. 29 / 79 / 199 € HT par mois (500 / 3 000 / 15 000 certificats), 0,01 € au-delà, intégration sur mesure 290 € HT",
+  "cout_entree_eur": "95",
+  "delai_premier_euro_jours": "estim. 30 à 45 (après un pilote de 30 jours)",
+  "ca_m6_hyp_eur": "estim. 581 MRR (9 payants), CA cumulé 6 mois ≈ 2 500",
+  "concurrence": "non vérifiée (Exa 402, 0 requête aboutie) : TrustedForm et Jornaya US sans offre FR connue ; Didomi, Axeptio, Fair&Smart, OneTrust, Ringover, Diabolocom adjacents ; fait maison formulaire + CRM ≈ 0,05 €/lead = risque R1 principal ; J0 kill possible",
+  "preuve_url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051824325",
+  "score": "29"
+}

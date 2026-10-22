@@ -1,0 +1,15 @@
+{
+  "id": "N061",
+  "famille": "SaaS associatif (événementiel saisonnier)",
+  "nom": "Bourse Facile : logiciel de bourse aux vêtements, jouets, puériculture et skis en dépôt-vente associatif d'un jour",
+  "modele": "SaaS saisonnier en libre-service : portail déposant (listes sur mobile, étiquettes QR imprimées chez soi), caisse PWA par scan smartphone hors ligne, invendus et reversements calculés ; aucun encaissement pour le compte des déposants",
+  "zone": "France d'abord (APE, Familles Rurales, AFC ; 22, 78, 86 ; clubs de ski 73, 74, 38, 05, 64, 65, 88) ; Belgique francophone par partenariat avec la Ligue des familles ; Suisse romande (trocs) après vérification",
+  "payeur": "Association organisatrice (APE, Familles Rurales, AFC, club de ski, section locale) ; déposant gratuit",
+  "prix": "estim. 39 € la bourse jusqu'à 150 listes, 69 € sans limite, 99 €/an pour 2 bourses, 149 €/an illimité ; 3 pilotes gratuits en novembre 2026",
+  "cout_entree_eur": "122",
+  "delai_premier_euro_jours": "estim. 30 à 140 (bourse de fin novembre, sinon préventes du printemps 2027)",
+  "ca_m6_hyp_eur": "estim. cumul M1-M6 ≈ 1 360 € (23 commandes, avril 2027) ; pessimiste ≈ 500 € ; cumul M12 ≈ 3 460 €",
+  "concurrence": "non vérifiée (Exa 402, contradicteurs bloqués) : aucun logiciel FR dédié en 8 requêtes WebSearch (index US) ; BV.mdb Access 2003 (Ligue) ; MySaleManager.NET (US, devis) ; Vidasso (exposants seuls, à confirmer) ; Excel WikiCréa ; outil Dress-Code, Kinderbasar allemands et trocs suisses à chercher",
+  "preuve_url": "https://liguedesfamilles.be/storage/27914/20230831-guide-informatisation-des-bourse.pdf",
+  "score": "31"
+}

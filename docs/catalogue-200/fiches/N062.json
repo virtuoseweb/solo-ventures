@@ -1,0 +1,15 @@
+{
+  "id": "N062",
+  "famille": "SaaS collectivités et associations",
+  "nom": "Parcelle : gestion des jardins familiaux et partagés (liste d'attente, attributions, cotisations, eau)",
+  "modele": "SaaS en libre-service en français : liste d'attente avec rang, offre avec délai et radiation validée par un humain, règlement signé en ligne, appel de cotisation et relances, plan des parcelles, eau, caution, états des lieux ; mise en place assistée en option ; l'outil n'encaisse rien (liens HelloAsso ou PayFiP)",
+  "zone": "France : associations FNJFC et indépendantes d'abord (Nord, Pas-de-Calais, Moselle, Seine-Saint-Denis, Ille-et-Vilaine), puis communes de 5 000 à 100 000 habitants en régie (Metz, Saint-Germain-en-Laye, Moissac, Ambérieu-en-Bugey...) et bailleurs HLM ; Québec en phase 3 sous condition",
+  "payeur": "Association de jardins familiaux ou partagés (bureau bénévole) ; commune ou CCAS sur bon de commande ; bailleur HLM",
+  "prix": "estim. associations 9 €/mois jusqu'à 60 parcelles, 19 €/mois au-delà, mise en place 49 € ; communes et bailleurs 290 à 590 €/an + mise en place 150 €",
+  "cout_entree_eur": "137",
+  "delai_premier_euro_jours": "estim. 30 à 90 (associations) ; 60 à 150 (communes)",
+  "ca_m6_hyp_eur": "estim. ≈ 233 €/mois récurrent à M6, cumul 6 mois ≈ 1 900 € ; année 1 ≈ 6 140 €",
+  "concurrence": "TiPlant (Webluma, FR, éditeur en série) couvre plan, liste d'attente, contrats et redevances : prix, clients et avis inconnus, R2 à trancher au J1 ; Scribe Allotments (UK, sur devis), Waitly (UE) ; Grist, HelloAsso, Démarches Numériques partiels ; contre-vérification non faite (Exa 402)",
+  "preuve_url": "https://scribeaccounts.com/scribe-allotments",
+  "score": "31"
+}

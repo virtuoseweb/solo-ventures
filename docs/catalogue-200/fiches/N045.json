@@ -1,0 +1,15 @@
+{
+  "id": "N045",
+  "famille": "SaaS pour organisateurs de communautés passionnées (élevage amateur réglementé)",
+  "nom": "Expo Avicole : engagements en ligne, catalogue, palmarès et attestations influenza pour expositions de races (volailles, lapins, pigeons, oiseaux)",
+  "modele": "SaaS saisonnier en libre-service : engagements en ligne ou extraction IA des feuilles papier, cages, catalogue PDF, cartons de jugement, palmarès, attestations influenza et liste DDPP ; paiement direct au club",
+  "zone": "France, règlement SCAF ; prospection d'abord 17 (Marans), 50 (Saint-Hilaire-du-Harcouët), 42, 57, lapins en tête (hors influenza), puis clubs de race ; Wallonie après vérification ; Suisse, Allemagne et pays anglo-saxons exclus",
+  "payeur": "Club organisateur (société avicole, cunicole, pigeons de race, club de race), association de bénévoles ; exposant gratuit",
+  "prix": "estim. 0,25 €/sujet, plancher 39 €, plafond 149 € jusqu'à 1 500 sujets puis 0,10 €/sujet ; catalogue express depuis feuilles papier 49 € ; paiement via HelloAsso ou Stripe Connect du club, sans commission",
+  "cout_entree_eur": "142",
+  "delai_premier_euro_jours": "estim. 14 à 30",
+  "ca_m6_hyp_eur": "estim. 69 €/mois à M6 (hors saison) ; cumul M1-M6 ≈ 640 € ; saison 2027-2028 ≈ 3 500-4 500 €",
+  "concurrence": "faible mais non vérifiée : aucun outil FR en 4 requêtes WebSearch (index US), Exa 402 ; ShoWorks, SuperShow, Cleverdata anglophones ; BDRG et Kleintiere Schweiz réservés à leur fédération ; Makeform simple formulaire ; risque Excel maison, outil belge ou fédéral",
+  "preuve_url": "https://www.pigeons-france.com/wp-content/uploads/formidable/6/Reglement-recto-verso-expo-Marans-2026.pdf",
+  "score": "29"
+}

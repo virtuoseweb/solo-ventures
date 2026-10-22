@@ -1,0 +1,15 @@
+{
+  "id": "N048",
+  "famille": "Application web et mobile pour sport amateur de niche (francophonie)",
+  "nom": "Secrétaire de ligue de quilles en français (grosses et petites quilles) pour le Québec",
+  "modele": "SaaS web et PWA par saison : saisie ou import des pointages, moyennes, handicaps, écart FADOQ (15 parties min.), page publique en français, attestation de moyenne PDF",
+  "zone": "Québec (Montérégie-Vaudreuil, Montréal, Laval-Laurentides-Lanaudière, Mauricie-Centre-du-Québec, Capitale-Nationale, Saguenay) via ligues FADOQ et municipales ; puis Nouveau-Brunswick francophone",
+  "payeur": "Secrétaire de ligue bénévole (refacturé à la ligue) ; salon de quilles indépendant sans module de ligue (test)",
+  "prix": "estim. 79 $ CA par secrétaire et par saison (≈ 50 €, 3 ligues), 25 $ CA par ligue en plus ; salon 29 $ CA/mois ; prévente fondateur 59 $ CA",
+  "cout_entree_eur": "82",
+  "delai_premier_euro_jours": "estim. 30 à 90 (fenêtre moyennes FADOQ décembre-janvier ; vraie vente août-septembre 2027)",
+  "ca_m6_hyp_eur": "estim. cumul 6 mois ≈ 800 € (15 secrétaires + 1 salon) ; année 1 ≈ 4 100 €",
+  "concurrence": "non vérifiée (Exa 402, WebSearch épuisé) : BLS de CDE 149-219 $ US bureau, français non prouvé ; LeagueSecretary.com gratuit probable ; modules QubicaAMF/Brunswick ; tableur FADOQ ; aucun outil web en français trouvé",
+  "preuve_url": "https://shop.cdesoftware.com/bls-2025-standard",
+  "score": "28"
+}

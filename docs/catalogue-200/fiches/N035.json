@@ -1,0 +1,15 @@
+{
+  "id": "N035",
+  "famille": "Service B2B d'attestation avec analyses groupées",
+  "nom": "Dossier PFAS par collection pour petites marques textile et chaussure (loi 2025-188, décret 2025-1376)",
+  "modele": "Service B2B outillé : portail fournisseurs multilingue, plan d'analyses par risque, coordination labo partenaire (facture directe), dossier revendeurs et déclaration signée par la marque",
+  "zone": "France à distance ; prospection outdoor 74-73-38, nautique et pluie 29-56-44-17, chaussure 26-35-49-64, DNVB 75-69-59 ; farts et cosmétiques exclus au lancement",
+  "payeur": "Marque metteur sur le marché (outdoor, technique, chaussure, DNVB textile), poussée par ses revendeurs",
+  "prix": "estim. diagnostic 390 € HT par collection, suivi 49 € HT/mois, 39 € HT par analyse coordonnée (labo 250-350 € HT + 97 €/commande, facturé par le labo)",
+  "cout_entree_eur": "102",
+  "delai_premier_euro_jours": "estim. 14 à 30",
+  "ca_m6_hyp_eur": "estim. 1 328 €/mois à M6 (dont 392 MRR) ; cumul 6 mois ≈ 5 700",
+  "concurrence": "moyenne : labos SGS, TESTEX, CTC, TÜV SÜD, Eurofins à l'unité sans offre micro-marque ; Measurlabs 250-350 € HT ; SaaS traçabilité grands comptes ; OEKO-TEX ne couvre pas le seuil ; Cosmed sur cosmétique ; Exa 402, non vérifié sur google.fr",
+  "preuve_url": "https://aida.ineris.fr/reglementation/decret-ndeg-2025-1376-281225-relatif-a-prevention-risques-resultant-lexposition",
+  "score": "30"
+}
