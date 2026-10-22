@@ -1,0 +1,15 @@
+{
+  "id": "N118",
+  "famille": "Micro-SaaS métiers",
+  "nom": "Fiche de découpe : créneaux, consignes par animal et étiquettes de traçabilité pour ateliers de découpe à façon",
+  "modele": "SaaS atelier (agenda partagé, fiche de découpe éleveur par espèce, étiquettes thermiques mentions UE, facture au kilo) ; éleveurs invités gratuits ; pilote 1 mois",
+  "zone": "Lozère (Antrenas), Aveyron, Cantal, Loire et AURA (96 outils recensés) puis Limousin, Savoie, Bretagne intérieure ; Wallonie et Suisse romande ensuite",
+  "payeur": "Atelier de découpe à façon, CUMA ou salle de découpe d'abattoir de proximité",
+  "prix": "49 € HT/mois par atelier + option 9 € HT/mois par éleveur (estim.)",
+  "cout_entree_eur": "152",
+  "delai_premier_euro_jours": "40",
+  "ca_m6_hyp_eur": "353",
+  "concurrence": "pas de spécialiste FR trouvé (recherche via moteur US, Exa 402) ; Cleavr, SmartLocker, Meat Order Pro, CutSheetPro US sans français ; ERP FR Logiviande/Vif/Infologic surdimensionnés ; balances Bizerba/Mettler non vérifiées",
+  "preuve_url": "https://agriculture.gouv.fr/telecharger/129258",
+  "score": "29"
+}

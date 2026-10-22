@@ -1,0 +1,15 @@
+{
+  "id": "N125",
+  "famille": "Service B2B productisé de conformité (attestation et analyses coordonnées)",
+  "nom": "Dossier emballage conforme PPWR (UE 2025/40) pour petites marques alimentaires : PFAS contact denrées, documentation technique, déclaration UE",
+  "modele": "Service outillé : inventaire, portail fournisseurs, tri risque PFAS, analyses labo partenaire facturées en direct, dossier et déclaration préremplis signés par le client, suivi mensuel",
+  "zone": "France à distance ; vague 1 biscuiteries et conserveries 29-56, nougat 26, calissons 13 ; vague 2 torréfacteurs, thé, chocolatiers Paris-Lyon-Bordeaux",
+  "payeur": "Marque TPE agroalimentaire qui fait imprimer ses emballages à son nom (fabricant au sens PPWR)",
+  "prix": "estim. 390 € HT jusqu'à 5 références + 49 €/réf. sup. ; suivi 19 € HT/mois ; option tri seul 149 € ; analyses facturées par le labo",
+  "cout_entree_eur": "72",
+  "delai_premier_euro_jours": "estim. 14 à 30",
+  "ca_m6_hyp_eur": "estim. 1 032 €/mois à M6 (dont 152 MRR) ; cumul 6 mois ≈ 5 000",
+  "concurrence": "moyenne, non vérifiée (Exa 402) : PPWRConnect FR (prix ?), osapiens, Greenly, Recyda, Tanso grands comptes ; consultant Malt ≈ 750 €/j ; labos à l'analyse ; risque R1 si fournisseur émet la déclaration",
+  "preuve_url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj",
+  "score": "29"
+}

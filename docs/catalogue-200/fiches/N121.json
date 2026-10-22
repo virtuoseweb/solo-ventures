@@ -1,0 +1,15 @@
+{
+  "id": "N121",
+  "famille": "Micro-SaaS métiers",
+  "nom": "Relevé propriétaire : pension, frais refacturés par part et nouvelles des chevaux pour entraîneurs de trot et de galop",
+  "modele": "SaaS B2B ; fiche cheval avec parts, saisie des frais par photo, relevé mensuel par propriétaire et par part, fil privé de nouvelles, rappels ; essai gratuit 1 mois",
+  "zone": "Normandie (Calvados, Orne, Manche) et Chantilly-Oise, puis Mayenne-Sarthe et Sud-Ouest (Pau, Mont-de-Marsan), puis Belgique ; nombre d'entraîneurs à relever au J1",
+  "payeur": "Entraîneur public de trot ou de galop ; propriétaires gratuits",
+  "prix": "39 € HT/mois jusqu'à 20 chevaux, 79 € HT/mois au-delà (estim.)",
+  "cout_entree_eur": "62",
+  "delai_premier_euro_jours": "40",
+  "ca_m6_hyp_eur": "274",
+  "concurrence": "sous réserve (Exa 402, aucune page ouverte) : TLore, miStable, Prism, Horsebills (74,99 $/mois), Horse Report System tous anglophones ; EquiOnline généraliste ; portails France Galop et LeTrot sans facturation de pension ; Equimondo, GlysOS, Hippofact non contrôlés",
+  "preuve_url": "https://hautsdefrance.chambres-agriculture.fr/fileadmin/user_upload/National/FAL_commun/publications/Hauts-de-France/Synthese_GALOP_organisation_du_travail_CA60_IFCE.pdf",
+  "score": "31"
+}

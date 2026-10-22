@@ -1,0 +1,15 @@
+{
+  "id": "N106",
+  "famille": "SaaS e-commerce B2B (application de boutique Shopify / WooCommerce, filon outremer)",
+  "nom": "Taxes DOM au panier : estimation OM, OMR et TVA DOM pour les boutiques qui livrent les DROM",
+  "modele": "Abonnement app Shopify (Billing API) et licence WooCommerce ; option paramétrage boutique",
+  "zone": "Payeurs : e-commerçants de métropole (mode, cosmétique, puériculture) ; acheteurs : Réunion, Guadeloupe, Martinique d'abord, puis Guyane et Mayotte (sans TVA)",
+  "payeur": "E-commerçant français sous Shopify ou WooCommerce qui livre ou refuse les DOM ; agences Shopify",
+  "prix": "estim. 9 / 19 / 29 €/mois ; WooCommerce 99 €/an ; paramétrage 150 €",
+  "cout_entree_eur": "140",
+  "delai_premier_euro_jours": "estim. 7 à 30 (prévente ou paramétrage), 45 à 60 (premier abonnement store)",
+  "ca_m6_hyp_eur": "estim. 570 €/mois à M6 (270 € MRR + paramétrages), cumul M1-M6 ≈ 1 600 €",
+  "concurrence": "aucun spécialisé OM trouvé (28 requêtes WebSearch US, Exa 402) ; généralistes Dutify (0 avis, 30 $/mois), Shopify Duties (Advanced+), Zonos, Easyship gratuit sans OM, Colissimo DDP sans estimation",
+  "preuve_url": "https://questions.assemblee-nationale.fr/q17/17-18020QE.htm",
+  "score": "30"
+}

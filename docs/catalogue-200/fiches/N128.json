@@ -1,0 +1,15 @@
+{
+  "id": "N128",
+  "famille": "Micro-SaaS de conformité (registre et attestation)",
+  "nom": "Étiquette, déclaration UE et passeport batterie pour reconditionneurs de batteries de VAE (règlement 2023/1542)",
+  "modele": "Micro-SaaS : fiche par batterie, étiquette imprimable, page QR hébergée, brouillon de déclaration UE, registre annuel exportable pour l'éco-organisme",
+  "zone": "France par envoi postal national (ateliers vendeurs de batteries reconditionnées, assembleurs de packs pour kits, vélocistes de VAE d'occasion), puis Belgique francophone et Luxembourg",
+  "payeur": "Atelier de recellulage ou de remanufacturage qui remet des batteries sur le marché ; assembleur de packs ; vélociste reconditionneur",
+  "prix": "estim. 190 € HT de mise en route puis 39 € HT/mois jusqu'à 100 batteries/mois, 79 € HT au-delà",
+  "cout_entree_eur": "95",
+  "delai_premier_euro_jours": "estim. 21 à 45",
+  "ca_m6_hyp_eur": "estim. MRR 312 € à M6 (8 clients), cumul 6 mois ≈ 2 400 €",
+  "concurrence": "non vérifiée (Exa 402 pour les 3 agents) : plateformes industrielles Circulor, Minespider, Spherity, Optel ; éco-organismes Corepile et Screlec pour la REP (risque R1 partiel) ; aucune offre pour micro-atelier connue de mémoire",
+  "preuve_url": "https://eur-lex.europa.eu/eli/reg/2023/1542/oj",
+  "score": "28"
+}

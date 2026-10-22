@@ -1,0 +1,15 @@
+{
+  "id": "N110",
+  "famille": "SaaS métier B2B (paiement mobile)",
+  "nom": "Créneau : réservation terrains foot à 5 et padel avec acompte Wave/Orange Money (Dakar puis Abidjan)",
+  "modele": "SaaS multi-complexes ; acompte Wave/OM encaissé sur le compte marchand du complexe, rappels WhatsApp, abonnés, liste d'attente ; pilote gratuit 1 mois",
+  "zone": "Dakar (Almadies, Ngor, Mermoz, Sacré-Cœur, Ouakam, Yoff) puis Abidjan (Cocody, Riviera, Marcory) ; Maroc et France exclus ; complexes à compter au J1",
+  "payeur": "Gérant de complexe de foot à 5 ou club de padel",
+  "prix": "20 000 FCFA/mois (≈ 30,5 €, estim.) ou ≈ 1 % par réservation",
+  "cout_entree_eur": "62",
+  "delai_premier_euro_jours": "45",
+  "ca_m6_hyp_eur": "244",
+  "concurrence": "non vérifiée (Exa 402) : Kolonell agence sur mesure Dakar, app propre Le Temple du Foot, Arena Football Indoor (lieu non vérifié) ; pas de SaaS mobile money vu ; R1 non testé",
+  "preuve_url": "https://kolonell.com/fr/blog/app-reservation-terrain-foot-futsal-creneaux-dakar-2026",
+  "score": "27"
+}
